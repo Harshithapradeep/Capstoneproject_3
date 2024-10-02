@@ -1,0 +1,1484 @@
+Car_type,Kms_driven,No_of_owners,Car_name,Car_model,Model_Year,Car_price,Fuel_type,Insurance_type,Transmission,Mileage,Engine,Max_power,Color,Seating_capacity
+Hatchback,20000,1,Volkswagen,Volkswagen Polo,2022,1044000,Petrol,Third Party insurance,Automatic,16.47,999,108.62,Others,5
+Hatchback,85582,2,Hyundai,Hyundai EON,2014,260000,Petrol,Third Party insurance,Manual,21.1,814,55.2,Red,5
+SUV,10000,1,Hyundai,Hyundai Venue,2023,955000,Petrol,Third Party insurance,Manual,21.1,1197,81.8,Others,5
+Hatchback,50750,1,Maruti,Maruti Baleno,2017,671000,Petrol,Third Party insurance,Manual,21.4,1197,83.1,Red,5
+SUV,10000,1,Mahindra,Mahindra Thar,2022,1900000,Petrol,Third Party insurance,Automatic,21.4,1997,150.0,Others,4
+SUV,10000,1,Kia,Kia Sonet,2021,1178000,Petrol,Third Party insurance,Manual,18.2,998,118.36,White,5
+Hatchback,66366,1,Maruti,Maruti Celerio,2017,488999,Petrol,Zero Dep,Automatic,23.1,998,67.04,White,5
+Sedan,5000,1,Hyundai,Hyundai Verna,2022,1541000,Petrol,Third Party insurance,Automatic,19.2,998,118.41,Black,5
+Hatchback,72544,1,Maruti,Maruti Celerio,2017,465000,Petrol,Third Party,Manual,23.1,998,67.04,White,5
+Hatchback,29154,1,Ford,Ford Figo,2021,728000,Petrol,Third Party,Manual,18.5,1194,94.93,Maroon,5
+Hatchback,70000,1,Tata,Tata Tiago,2018,530000,Petrol,Third Party insurance,Automatic,23.84,1199,83.83,Orange,5
+Hatchback,33730,1,Datsun,Datsun RediGO,2021,466000,Petrol,Third Party insurance,Manual,21.7,999,67.05,Blue,5
+Hatchback,51113,1,Renault,Renault KWID,2020,457000,Petrol,Comprehensive,Manual,23.01,999,67.0,Blue,5
+Hatchback,40000,2,Volkswagen,Volkswagen Polo,2013,350000,Diesel,Third Party insurance,Manual,22.07,1199,73.9,Others,5
+Hatchback,40000,1,Maruti,Maruti Wagon R,2009,290000,Petrol,Third Party insurance,Manual,18.9,1061,67.0,Others,5
+SUV,60000,1,BMW,BMW X1,2020,3800000,Diesel,Third Party insurance,Automatic,20.68,1995,188.0,Others,5
+Hatchback,64500,1,Maruti,Maruti Wagon R,2014,375000,Petrol,Comprehensive,Manual,21.79,998,67.05,Brown,5
+Hatchback,40000,1,Maruti,Maruti Wagon R,2020,600000,Petrol,Third Party insurance,Manual,21.79,998,67.05,White,5
+SUV,80000,1,Jeep,Jeep Compass,2018,1400000,Diesel,Third Party insurance,Manual,17.1,1956,170.0,Others,5
+SUV,50000,1,Jeep,Jeep Compass,2019,1900000,Diesel,Third Party insurance,Manual,16.3,1956,170.63,Others,5
+Hatchback,40000,1,Hyundai,Hyundai i20,2020,740000,Petrol,Third Party insurance,Manual,20.0,998,118.36,Others,5
+Sedan,39886,2,Hyundai,Hyundai Aura,2020,766000,Petrol,Third Party,Automatic,20.1,1197,81.86,White,5
+SUV,107588,1,Renault,Renault Duster,2014,440000,Diesel,Third Party insurance,Manual,20.45,1461,83.8,White,5
+Hatchback,36621,1,Hyundai,Hyundai Grand i10,2017,519000,Petrol,Third Party insurance,Manual,18.9,1197,81.86,Red,5
+SUV,80000,1,MG,MG Hector Plus,2020,1600000,Diesel,Third Party insurance,Manual,16.65,1956,167.67,Others,6
+Hatchback,18900,1,Maruti,Maruti S-Presso,2022,525000,Petrol,Third Party insurance,Manual,24.76,998,65.71,Grey,5
+SUV,70754,1,Kia,Kia Seltos,2019,1108000,Diesel,Zero Dep,Manual,20.8,1493,113.43,White,5
+Hatchback,59832,1,Maruti,Maruti S-Presso,2020,420000,Petrol,Third Party insurance,Manual,21.7,998,65.71,Grey,5
+Sedan,60068,2,Maruti,Maruti Swift Dzire,2017,605000,Petrol,Third Party,Manual,21.21,1197,81.8,Red,5
+Hatchback,41261,1,Maruti,Maruti Alto 800,2018,326000,Petrol,Comprehensive,Manual,22.05,796,47.33,Silver,5
+SUV,32209,1,Ford,Ford Ecosport,2020,950000,Petrol,Third Party insurance,Manual,17.0,1497,121.31,White,5
+Hatchback,75747,1,Honda,Honda Jazz,2018,639000,Petrol,Comprehensive,Manual,18.7,1199,88.7,Brown,5
+Hatchback,49241,2,Hyundai,Hyundai i20,2018,712000,Petrol,Third Party insurance,Manual,18.6,1197,81.83,White,5
+SUV,100000,2,Mercedes-Benz,Mercedes-Benz GLE,2018,3000000,Diesel,Third Party insurance,Automatic,17.9,2143,201.15,Others,5
+SUV,119422,1,Ford,Ford Endeavour,2016,2250000,Diesel,Third Party insurance,Automatic,10.91,3198,197.2,White,7
+Hatchback,33488,1,Maruti,Maruti Swift,2021,670000,Petrol,Third Party insurance,Manual,22.38,1197,88.5,Blue,5
+SUV,30000,1,Mahindra,Mahindra Thar,2021,1650000,Petrol,Third Party insurance,Manual,15.2,1997,150.0,Others,4
+Hatchback,21000,1,Tata,Tata Altroz,2022,875000,Petrol,Third Party,Manual,19.33,1199,86.83,White,5
+SUV,56545,1,Jeep,Jeep Compass,2018,1600000,Diesel,Third Party insurance,Manual,17.1,1956,170.63,Grey,5
+Hatchback,64000,1,Volkswagen,Volkswagen Polo,2017,675000,Petrol,Third Party insurance,Manual,18.78,999,75.0,Blue,5
+Sedan,71413,2,Volkswagen,Volkswagen Ameo,2018,533000,Petrol,Third Party insurance,Manual,19.44,999,75.0,White,5
+Hatchback,31920,2,Renault,Renault KWID,2020,487000,Petrol,Third Party,Manual,22.3,799,53.26,Red,5
+SUV,46000,1,BMW,BMW X1,2019,3390000,Diesel,Comprehensive,Automatic,20.68,1995,188.0,Black,5
+Hatchback,9939,2,Maruti,Maruti S-Presso,2022,526000,Petrol,Comprehensive,Manual,21.7,998,65.71,Red,5
+Hatchback,7156,1,Maruti,Maruti Baleno,2022,926000,Petrol,Third Party,Manual,21.01,1197,81.8,Blue,5
+Sedan,20608,1,Toyota,Toyota Yaris,2018,850000,Petrol,Comprehensive,Manual,17.1,1496,105.94,White,5
+Sedan,92000,2,Maruti,Maruti Swift Dzire,2019,725000,Petrol,Comprehensive,Manual,22.0,1197,81.8,Grey,5
+Hatchback,67553,2,Maruti,Maruti Celerio,2018,501000,Petrol,Comprehensive,Automatic,23.1,998,67.04,Red,5
+Sedan,95286,1,Maruti,Maruti Swift Dzire,2017,577000,Petrol,Third Party,Manual,20.85,1197,83.14,White,5
+SUV,66000,1,Mahindra,Mahindra XUV500,2015,894999,Diesel,Comprehensive,Manual,16.0,2179,140.0,Silver,7
+Hatchback,35929,1,Hyundai,Hyundai Grand i10,2019,521000,Petrol,Zero Dep,Manual,18.9,1197,81.86,Silver,5
+SUV,136035,1,Honda,Honda BR-V,2016,650000,Petrol,Comprehensive,Manual,15.4,1497,117.3,Grey,7
+MUV,93997,1,Maruti,Maruti Ertiga,2013,670000,Diesel,Third Party insurance,Manual,20.77,1248,88.8,Silver,7
+Sedan,60000,1,Skoda,Skoda Rapid,2018,775000,Petrol,Third Party insurance,Manual,15.41,1598,103.2,Others,5
+SUV,52220,1,Maruti,Maruti Vitara Brezza,2019,980000,Diesel,Comprehensive,Manual,24.3,1248,88.5,Red,5
+Sedan,61659,2,Maruti,Maruti Ciaz,2019,830000,Petrol,Third Party,Manual,21.56,1462,103.25,White,5
+Sedan,65000,1,Maruti,Maruti Swift Dzire,2020,750000,Petrol,Third Party insurance,Manual,22.41,1197,88.5,White,5
+Hatchback,120000,1,Mahindra,Mahindra KUV 100 NXT,2018,450000,Diesel,Third Party insurance,Manual,25.32,1198,77.0,Red,6
+Hatchback,110000,2,Maruti,Maruti Swift,2017,600000,Diesel,Third Party insurance,Manual,25.2,1248,74.0,Others,5
+Hatchback,78969,1,Maruti,Maruti Alto 800,2017,302000,Petrol,Third Party insurance,Manual,22.05,796,47.33,Red,5
+Hatchback,38939,2,Hyundai,Hyundai Grand i10 Nios,2021,736000,Petrol,Third Party,Manual,20.7,1197,81.86,Silver,5
+Hatchback,88637,1,Maruti,Maruti Ignis,2019,480000,Petrol,Comprehensive,Manual,20.89,1197,81.8,Grey,5
+Hatchback,19070,1,Hyundai,Hyundai i20,2021,967000,Petrol,Third Party,Manual,20.0,998,118.36,Red,5
+Hatchback,68556,1,Maruti,Maruti S-Presso,2020,432000,Petrol,Zero Dep,Manual,21.7,998,65.71,Silver,5
+Hatchback,44356,1,Ford,Ford Figo,2019,600000,Petrol,Not Available,Manual,20.4,1194,94.93,Red,5
+Sedan,73143,1,Maruti,Maruti Swift Dzire,2016,610000,Petrol,Third Party,Manual,22.41,1197,88.5,Silver,5
+SUV,146769,1,Volvo,Volvo XC60,2012,1250000,Diesel,Third Party insurance,Automatic,14.7,1985,163.0,Black,5
+Hatchback,67527,1,Datsun,Datsun GO,2018,337000,Petrol,Third Party insurance,Manual,19.02,1198,67.05,Silver,5
+Hatchback,79467,1,Hyundai,Hyundai Santro,2019,527000,Petrol,Comprehensive,Automatic,20.3,1086,68.0,Silver,5
+Sedan,103174,1,BMW,BMW 5 Series,2014,1750000,Diesel,Third Party insurance,Automatic,18.12,1995,190.0,White,5
+Hatchback,103046,3,Volkswagen,Volkswagen Polo,2017,549000,Petrol,Third Party,Manual,16.2,1199,74.0,White,5
+Hatchback,85110,2,Fiat,Fiat Punto EVO,2017,270000,Petrol,Not Available,Manual,15.8,1172,67.1,Hip Hop Black,5
+Sedan,114000,1,Tata,Tata Manza,2011,285000,Diesel,Third Party insurance,Manual,19.0,1248,88.7688,Purple,5
+SUV,70000,1,Renault,Renault Captur,2017,975000,Diesel,Third Party insurance,Manual,20.37,1461,108.45,Orange,5
+Hatchback,72000,1,Hyundai,Hyundai i20,2018,725000,Diesel,Third Party insurance,Manual,22.54,1396,88.73,Blue,5
+SUV,20000,1,Hyundai,Hyundai Venue,2023,955000,Petrol,Third Party insurance,Manual,22.54,1197,81.8,Others,5
+MUV,32000,1,Kia,Kia Carens,2022,1850000,Diesel,Third Party,Automatic,22.54,1493,114.41,White,6
+SUV,20000,1,Hyundai,Hyundai Venue,2023,1010000,Petrol,Third Party insurance,Manual,22.54,1197,81.8,Others,5
+SUV,22500,1,Kia,Kia Seltos,2021,1750000,Petrol,Third Party insurance,Automatic,16.8,1497,113.42,Black,5
+Hatchback,54708,1,Hyundai,Hyundai i20,2016,621000,Petrol,Comprehensive,Manual,18.6,1197,81.83,Red,5
+Hatchback,78031,1,Maruti,Maruti Baleno,2017,633000,Petrol,Comprehensive,Manual,21.4,1197,83.1,Blue,5
+Sedan,32000,1,BMW,BMW 5 Series,2022,6900000,Diesel,Comprehensive,Automatic,20.37,1995,187.74,White,5
+Hatchback,24337,2,Hyundai,Hyundai Grand i10,2019,515000,Petrol,Zero Dep,Manual,18.9,1197,81.86,Silver,5
+Hatchback,82243,1,Maruti,Maruti Baleno,2019,679000,Petrol,Third Party insurance,Manual,21.4,1197,83.1,Blue,5
+SUV,20000,1,Hyundai,Hyundai Creta,2022,1388000,Petrol,Third Party insurance,Manual,21.4,1497,113.18,Others,5
+Hatchback,104701,2,Maruti,Maruti Ignis,2017,609000,Petrol,Comprehensive,Automatic,20.89,1197,81.8,White,5
+SUV,54000,2,Toyota,Toyota Urban cruiser,2021,1000000,Petrol,Comprehensive,Manual,17.03,1462,103.26,Silver,5
+Hatchback,118937,1,Maruti,Maruti Swift,2021,590000,Petrol,Third Party insurance,Manual,22.38,1197,88.5,Red,5
+Hatchback,105133,1,Maruti,Maruti Swift,2017,570000,Diesel,Third Party insurance,Manual,25.2,1248,74.0,Red,5
+SUV,10000,1,MG,MG Hector,2023,2650000,Petrol,Third Party insurance,Automatic,12.34,1451,141.0,Others,5
+Sedan,36290,1,Maruti,Maruti Swift Dzire,2018,679000,Petrol,Third Party,Automatic,21.21,1197,81.8,Brown,5
+SUV,10000,1,Mahindra,Mahindra Scorpio N,2023,1800000,Petrol,Third Party insurance,Manual,21.21,1997,200.0,Others,7
+Hatchback,29084,1,Hyundai,Hyundai i20,2018,640000,Petrol,Third Party insurance,Manual,18.6,1197,81.86,Blue,5
+Hatchback,66911,1,Maruti,Maruti Celerio,2020,475000,Petrol,Third Party insurance,Manual,21.63,998,67.05,White,5
+Sedan,110000,1,Honda,Honda City,2011,430000,Petrol,Third Party insurance,Automatic,16.8,1497,116.38575999999999,Others,5
+SUV,7033,1,Maruti,Maruti Grand Vitara,2022,1700000,Petrol,Comprehensive,Manual,21.11,1462,101.64,Red,5
+SUV,40000,1,Volkswagen,Volkswagen Taigun,2021,1950000,Petrol,Third Party insurance,Manual,17.88,1498,147.51,Gray,5
+SUV,80000,2,Mahindra,Mahindra XUV500,2014,700000,Diesel,Third Party insurance,Manual,15.1,2179,140.0,Blue,7
+Hatchback,22000,1,Hyundai,Hyundai Grand i10,2018,675000,Petrol,Third Party,Automatic,18.9,1197,81.86,Grey,5
+Hatchback,70200,1,Datsun,Datsun GO,2018,430000,Petrol,Third Party insurance,Manual,19.02,1198,67.05,White,5
+Hatchback,60004,1,Renault,Renault KWID,2019,420000,Petrol,Third Party insurance,Manual,23.01,999,67.0,Silver,5
+Hatchback,60000,1,Maruti,Maruti Wagon R,2020,580000,Petrol,Third Party insurance,Manual,20.52,1197,81.8,Others,5
+Hatchback,57078,2,Hyundai,Hyundai i10,2013,334000,Petrol,Third Party,Manual,19.81,1086,68.05,Others,5
+Hatchback,63789,1,Maruti,Maruti Ritz,2014,401999,Petrol,Comprehensive,Manual,18.5,1197,85.8,Silver,5
+Hatchback,120000,1,Chevrolet,Chevrolet Beat,2016,240000,Diesel,Third Party insurance,Manual,25.44,936,56.3,Others,5
+Sedan,118207,2,Maruti,Maruti Ciaz,2018,734000,Diesel,Zero Dep,Automatic,28.09,1248,88.5,Silver,5
+Sedan,53000,1,Honda,Honda City,2017,795000,Petrol,Comprehensive,Manual,17.4,1497,117.6,White,5
+Hatchback,105224,2,Maruti,Maruti Baleno,2016,570000,Petrol,Comprehensive,Manual,21.4,1197,83.1,Silver,5
+Hatchback,20837,2,Hyundai,Hyundai Santro,2021,551000,Petrol,Zero Dep,Manual,20.3,1086,68.05,White,5
+Hatchback,100000,2,Hyundai,Hyundai i20,2010,280000,Petrol,Third Party insurance,Manual,18.5,1197,78.90559999999999,Others,5
+Hatchback,24021,1,Datsun,Datsun RediGO,2021,463000,Petrol,Third Party insurance,Manual,20.71,799,53.64,Blue,5
+Sedan,61000,1,Maruti,Maruti Ciaz,2016,625000,Petrol,Third Party insurance,Manual,20.73,1373,91.1,Grey,5
+Sedan,120000,2,Volvo,Volvo S60,2013,800000,Diesel,Third Party insurance,Automatic,9.0,1984,181.0,Others,5
+Sedan,64000,2,Ford,Ford Fiesta,2008,200000,Petrol,Third Party insurance,Manual,15.3,1596,99.61832,Black,5
+Hatchback,120000,1,Maruti,Maruti Alto,2011,170000,Petrol,Third Party insurance,Manual,19.7,796,46.3,Others,5
+SUV,30000,1,Volkswagen,Volkswagen Taigun,2022,1950000,Petrol,Third Party insurance,Manual,17.88,1498,147.51,Others,5
+Hatchback,49000,1,Maruti,Maruti Alto 800,2018,325000,Petrol,Third Party insurance,Manual,22.05,796,47.33,White,5
+MUV,115000,1,Mahindra,Mahindra Marazzo,2018,750000,Diesel,Third Party insurance,Manual,17.3,1497,121.0,Silver,7
+Hatchback,50000,1,Maruti,Maruti Alto 800,2016,275000,Petrol,Third Party insurance,Manual,24.7,796,47.3,Others,5
+Hatchback,18569,1,Datsun,Datsun RediGO,2021,447000,Petrol,Third Party,Manual,21.7,999,67.05,Others,5
+Hatchback,98455,1,Hyundai,Hyundai Grand i10,2018,578000,Diesel,Third Party insurance,Manual,24.0,1186,73.97,White,5
+Sedan,85000,1,Skoda,Skoda Rapid,2015,600000,Diesel,Third Party insurance,Automatic,21.66,1498,103.52,White,5
+Sedan,97921,1,Volkswagen,Volkswagen Ameo,2016,524000,Petrol,Third Party,Manual,17.0,1198,73.75,Brown,5
+Hatchback,19205,2,Datsun,Datsun RediGO,2020,401999,Petrol,Third Party,Manual,21.7,999,67.05,Others,5
+Hatchback,122000,2,Maruti,Maruti Swift,2019,667000,Diesel,Third Party insurance,Manual,28.4,1248,74.0,Red,5
+Hatchback,97644,1,Maruti,Maruti Ignis,2018,552000,Petrol,Zero Dep,Manual,20.89,1197,81.8,Blue,5
+Hatchback,82000,1,Hyundai,Hyundai i10,2010,265000,Petrol,Third Party insurance,Manual,20.36,1197,78.9,Red,5
+Hatchback,70607,2,Maruti,Maruti Swift,2013,443000,Diesel,Comprehensive,Manual,22.9,1248,74.0,Silver,5
+Sedan,71144,1,Hyundai,Hyundai Verna,2016,721000,Petrol,Third Party insurance,Automatic,17.01,1591,121.3,Silver,5
+Sedan,2373,1,Hyundai,Hyundai Verna,2022,1550000,Petrol,Comprehensive,Automatic,18.45,1497,113.18,White,5
+Hatchback,56753,1,Hyundai,Hyundai i20,2021,1092000,Petrol,Zero Dep,Automatic,20.28,998,118.41,Others,5
+SUV,72000,1,Maruti,Maruti Vitara Brezza,2018,890000,Diesel,Third Party insurance,Manual,24.3,1248,88.5,Red,5
+Hatchback,64487,2,Maruti,Maruti Baleno,2018,550000,Petrol,Not Available,Manual,21.4,1197,83.1,Nexa Blue,5
+Hatchback,95783,1,Maruti,Maruti Baleno,2017,609000,Petrol,Third Party,Manual,21.4,1197,83.1,Silver,5
+MUV,60000,2,Tata,Tata Hexa,2019,1450000,Diesel,Third Party insurance,Automatic,17.6,2179,153.86,Blue,7
+MUV,59108,1,Maruti,Maruti XL6,2021,1100000,Petrol,Comprehensive,Manual,19.01,1462,103.2,Red,6
+Sedan,50000,2,Mercedes-Benz,Mercedes-Benz C-Class,2019,3800000,Diesel,Third Party insurance,Automatic,12.6,1950,194.0,Others,5
+SUV,31500,2,Nissan,Nissan Kicks,2020,1199000,Petrol,Comprehensive,Manual,14.23,1330,153.87,Silver,5
+SUV,128193,1,Mahindra,Mahindra XUV500,2015,844999,Diesel,Comprehensive,Manual,15.1,2179,140.0,White,7
+Sedan,87810,1,Hyundai,Hyundai Verna,2018,1013000,Diesel,Zero Dep,Manual,22.0,1582,126.2,White,5
+SUV,64951,2,Hyundai,Hyundai Creta,2017,1008000,Petrol,Comprehensive,Manual,13.0,1591,121.3,Silver,5
+Hatchback,50000,2,Hyundai,Hyundai Santro Xing,2012,260000,Petrol,Third Party insurance,Manual,17.92,1086,62.1,Red,5
+SUV,97161,1,Hyundai,Hyundai Creta,2017,1124000,Diesel,Third Party insurance,Manual,19.67,1582,126.2,Black,5
+Sedan,67805,1,Volkswagen,Volkswagen Ameo,2017,609000,Petrol,Zero Dep,Manual,17.0,1198,73.75,Blue,5
+SUV,158000,2,Audi,Audi Q3,2014,1450000,Diesel,Third Party insurance,Automatic,15.73,1968,174.33,White,5
+Hatchback,70435,2,Maruti,Maruti Alto K10,2014,272000,Petrol,Third Party insurance,Manual,24.39,998,65.71,Silver,5
+SUV,49287,1,MG,MG Hector,2020,1500000,Diesel,Comprehensive,Manual,17.41,1956,167.68,Red,5
+Hatchback,84759,2,Hyundai,Hyundai Santro,2018,522000,Petrol,Comprehensive,Automatic,20.3,1086,68.0,Red,5
+Hatchback,74538,2,Maruti,Maruti Baleno,2017,623000,Petrol,Comprehensive,Manual,21.4,1197,83.1,Blue,5
+SUV,53000,1,Mahindra,Mahindra Scorpio,2010,585000,Diesel,Third Party insurance,Manual,12.05,2179,120.0,White,8
+Hatchback,79024,2,Maruti,Maruti Alto 800,2017,298000,Petrol,Third Party insurance,Manual,22.05,796,47.33,Red,5
+Hatchback,80000,1,Maruti,Maruti Celerio,2016,400000,Diesel,Third Party insurance,Manual,27.62,793,47.0,White,5
+Sedan,56000,1,Mercedes-Benz,Mercedes-Benz E-Class,2019,4980000,Diesel,Third Party insurance,Automatic,16.1,1950,191.7,White,5
+SUV,62125,1,Hyundai,Hyundai Creta,2018,1080000,Diesel,Comprehensive,Manual,19.67,1582,126.2,Blue,5
+Hatchback,95596,1,Toyota,Toyota Etios Cross,2014,520000,Diesel,Comprehensive,Manual,23.59,1364,67.06,Silver,5
+Hatchback,18500,1,Hyundai,Hyundai Grand i10,2019,680000,Petrol,Comprehensive,Manual,18.9,1197,81.86,White,5
+Hatchback,144000,2,Maruti,Maruti Swift,2016,500000,Diesel,Third Party insurance,Manual,28.4,1248,74.0,White,5
+Sedan,55200,1,Honda,Honda City,2021,1199000,Petrol,Third Party insurance,Manual,18.6,1498,119.35,Brown,5
+Hatchback,188058,1,Hyundai,Hyundai i20,2016,498000,Diesel,Not Available,Manual,22.54,1396,88.73,Passion Red,5
+Hatchback,71779,1,Hyundai,Hyundai i20,2016,633000,Petrol,Third Party insurance,Manual,18.6,1197,81.83,Red,5
+Sedan,101176,3,Honda,Honda City,2015,562000,Petrol,Third Party insurance,Manual,17.4,1497,117.3,Red,5
+Hatchback,75000,1,Maruti,Maruti Celerio,2016,475000,Diesel,Third Party insurance,Manual,27.62,793,47.0,White,5
+Hatchback,66676,1,Honda,Honda Jazz,2017,601000,Petrol,Comprehensive,Manual,18.7,1199,88.7,Red,5
+Hatchback,2236,1,Maruti,Maruti Alto 800,2018,352000,Petrol,Third Party insurance,Manual,22.05,796,47.33,Silver,5
+SUV,62000,1,Mahindra,Mahindra Alturas G4,2019,2395000,Diesel,Third Party insurance,Automatic,12.05,2157,178.49,Brown,7
+Hatchback,74754,2,Hyundai,Hyundai i10,2012,300000,Petrol,Third Party insurance,Manual,19.81,1086,68.05,Silver,5
+Hatchback,66244,1,Maruti,Maruti Baleno,2018,720000,Petrol,Third Party insurance,Manual,21.01,1197,81.8,Blue,5
+Hatchback,17341,1,Renault,Renault KWID,2022,541000,Petrol,Third Party insurance,Manual,21.46,999,67.06,Silver,5
+Hatchback,44675,1,Hyundai,Hyundai Grand i10,2018,513999,Petrol,Third Party insurance,Manual,18.9,1197,81.86,White,5
+SUV,70000,3,Mahindra,Mahindra Jeep,2001,395000,Diesel,Third Party insurance,Manual,18.9,2112,81.86,Others,6
+Hatchback,30829,1,Maruti,Maruti Baleno,2022,780000,Petrol,Comprehensive,Manual,22.35,1197,88.5,Grey,5
+Sedan,100000,2,Tata,Tata Zest,2015,400000,Petrol,Third Party insurance,Manual,17.6,1193,88.7,Others,5
+Sedan,53800,1,Maruti,Maruti Ciaz,2019,994999,Diesel,Third Party insurance,Manual,26.82,1498,93.87,Blue,5
+SUV,122000,1,Hyundai,Hyundai Creta,2017,940000,Diesel,Third Party insurance,Manual,22.1,1396,88.7,White,5
+SUV,107220,1,Mahindra,Mahindra XUV500,2017,1490000,Diesel,Third Party insurance,Manual,16.0,2179,140.0,White,7
+Sedan,129000,1,Honda,Honda City,2015,580000,Diesel,Third Party insurance,Manual,26.0,1498,98.6,White,5
+SUV,60000,1,Mercedes-Benz,Mercedes-Benz GLS,2017,6695000,Diesel,Third Party,Automatic,11.0,2987,258.0,Silver,7
+Hatchback,83829,1,Datsun,Datsun RediGO,2018,375000,Petrol,Third Party insurance,Manual,22.5,999,67.0,Silver,5
+SUV,70000,1,Audi,Audi Q5,2017,3000000,Diesel,Third Party insurance,Automatic,14.16,1968,174.3,Others,5
+Hatchback,52996,2,Honda,Honda Brio,2013,314000,Petrol,Third Party insurance,Manual,19.4,1198,86.8,White,5
+Hatchback,16105,2,Renault,Renault KWID,2021,556000,Petrol,Third Party insurance,Automatic,22.0,999,67.0,Silver,5
+Sedan,151901,1,Mercedes-Benz,Mercedes-Benz C-Class,2016,2850000,Diesel,Third Party insurance,Manual,15.8,2148,167.6744,Black,5
+Hatchback,15680,1,Maruti,Maruti Baleno,2021,787000,Petrol,Zero Dep,Manual,21.01,1197,81.8,White,5
+Hatchback,55065,1,Maruti,Maruti Swift,2019,595000,Petrol,Third Party insurance,Automatic,22.56,1197,88.5,Blue,5
+Hatchback,120000,2,Toyota,Toyota Etios Liva,2016,400000,Diesel,Third Party insurance,Manual,23.59,1364,67.04,Silver,5
+Hatchback,15518,2,Tata,Tata Tiago,2021,771000,Petrol,Third Party,Automatic,19.0,1199,84.82,White,5
+Sedan,39907,1,Honda,Honda Amaze,2018,790000,Diesel,Third Party insurance,Automatic,21.0,1498,78.9,Red,5
+Hatchback,45560,1,Hyundai,Hyundai i20,2017,655000,Petrol,Zero Dep,Manual,18.6,1197,81.83,Silver,5
+Hatchback,42096,1,Hyundai,Hyundai i10,2012,336000,Petrol,Third Party insurance,Manual,20.36,1197,78.9,Yellow,5
+Sedan,70500,2,Mercedes-Benz,Mercedes-Benz CLA,2015,1775000,Diesel,Third Party insurance,Automatic,17.9,2143,134.1,Cirrus White,5
+Sedan,63886,1,Honda,Honda City,2018,832000,Petrol,Third Party insurance,Manual,17.4,1497,117.6,Silver,5
+MUV,95600,1,Tata,Tata Hexa,2017,1025000,Diesel,Third Party insurance,Manual,17.6,2179,153.86,Arizona Blue,7
+Sedan,101000,1,Mercedes-Benz,Mercedes-Benz E-Class,2013,1995000,Diesel,Third Party insurance,Automatic,13.0,2143,201.1,Silver,5
+Sedan,61000,1,Mercedes-Benz,Mercedes-Benz E-Class,2015,2650000,Diesel,Third Party insurance,Automatic,13.0,2143,201.1,White,5
+SUV,95000,1,BMW,BMW X1,2016,2450000,Diesel,Third Party insurance,Automatic,17.05,1995,184.0,White,5
+SUV,97000,1,Audi,Audi Q3,2017,2550000,Diesel,Third Party insurance,Automatic,15.73,1968,174.33,Black,5
+Hatchback,61000,1,Maruti,Maruti Swift,2016,595000,Diesel,Third Party insurance,Manual,25.2,1248,74.0,Red,5
+Hatchback,18000,1,Hyundai,Hyundai Grand i10,2017,625000,Petrol,Third Party insurance,Automatic,18.9,1197,81.86,Grey,5
+Hatchback,63000,1,Hyundai,Hyundai Grand i10,2016,599000,Petrol,Third Party insurance,Automatic,18.9,1197,82.0,Grey,5
+Hatchback,52617,2,Maruti,Maruti Baleno,2018,615000,Petrol,Third Party,Manual,21.4,1197,83.1,Red,5
+Hatchback,51865,1,Maruti,Maruti Celerio,2019,513999,Petrol,Third Party insurance,Manual,25.24,998,65.71,White,5
+SUV,93000,1,Audi,Audi Q3,2017,2375000,Diesel,Third Party insurance,Manual,17.32,1968,138.13,White,5
+Hatchback,110410,1,Maruti,Maruti Swift,2015,458000,Petrol,Comprehensive,Manual,22.38,1197,88.5,Red,5
+Sedan,55846,1,Maruti,Maruti Ciaz,2017,700000,Petrol,Third Party,Automatic,19.12,1373,91.1,Brown,5
+Hatchback,47000,1,Renault,Renault KWID,2020,515000,Petrol,Third Party insurance,Manual,21.46,999,67.06,Blue,5
+SUV,39914,1,Ford,Ford Ecosport,2018,822000,Petrol,Third Party insurance,Manual,17.0,1497,121.31,Blue,5
+Hatchback,73000,1,Hyundai,Hyundai Santro Xing,2010,265000,Petrol,Third Party insurance,Manual,17.92,1086,62.1,Beige,5
+Hatchback,88048,1,Hyundai,Hyundai i20,2016,579000,Petrol,Third Party insurance,Manual,18.6,1197,81.83,White,5
+Hatchback,92278,2,Hyundai,Hyundai i10,2013,318000,Petrol,Third Party,Manual,20.36,1197,78.9,Red,5
+SUV,260000,1,Toyota,Toyota Qualis,2003,434999,Diesel,Third Party insurance,Manual,20.36,2446,78.9,Silver,8
+Sedan,92960,1,Honda,Honda City,2016,643000,Petrol,Comprehensive,Manual,17.8,1497,117.3,Brown,5
+Hatchback,63000,1,Tata,Tata Altroz,2020,750000,Petrol,Third Party insurance,Manual,19.33,1199,86.83,White,5
+SUV,20000,1,Renault,Renault Kiger,2021,825000,Petrol,Third Party insurance,Automatic,19.03,999,71.01,Blue,5
+SUV,7000,1,Jeep,Jeep Compass,2022,2675000,Petrol,Comprehensive,Automatic,14.1,1368,160.77,Galaxy Blue,5
+Hatchback,4600,1,Maruti,Maruti S-Presso,2022,610000,Petrol,Comprehensive,Automatic,25.3,998,65.71,Silky Silver,5
+Sedan,22800,1,Honda,Honda City,2021,1090000,Petrol,Comprehensive,Manual,17.4,1497,117.6,Modern Steel Metal,5
+Sedan,150000,1,Ford,Ford Fiesta,2006,100000,Diesel,Third Party insurance,Manual,17.8,1399,67.06976,Others,5
+Sedan,10000,1,Maruti,Maruti Swift Dzire Tour,2020,625000,Petrol,Third Party insurance,Manual,19.95,1197,81.8,White,5
+Hatchback,70000,2,Ford,Ford Figo,2010,185000,Petrol,Third Party insurance,Manual,15.6,1196,70.0,Others,5
+Hatchback,44790,1,Maruti,Maruti Alto 800,2020,357000,Petrol,Third Party insurance,Manual,22.05,796,47.33,Silver,5
+Hatchback,14213,1,Maruti,Maruti S-Presso,2022,547000,Petrol,Third Party,Manual,21.7,998,65.71,White,5
+SUV,102000,2,Maruti,Maruti Vitara Brezza,2018,800000,Diesel,Comprehensive,Manual,24.3,1248,88.5,Grey,5
+Hatchback,40724,3,Hyundai,Hyundai i10,2012,311000,Petrol,Third Party insurance,Manual,20.36,1197,78.9,White,5
+Hatchback,55724,2,Maruti,Maruti Baleno,2017,570000,Petrol,Third Party insurance,Manual,21.4,1197,83.1,Silver,5
+Sedan,100000,1,Maruti,Maruti Swift Dzire,2010,300000,Petrol,Third Party insurance,Manual,17.5,1298,85.8,Others,5
+Hatchback,85396,1,Maruti,Maruti Alto 800,2017,332000,Petrol,Third Party,Manual,22.05,796,47.33,Silver,5
+Hatchback,50000,2,Maruti,Maruti Baleno,2016,509999,Petrol,Third Party insurance,Manual,21.4,1197,83.1,Others,5
+Hatchback,27136,1,Maruti,Maruti Alto 800,2016,325000,Petrol,Comprehensive,Manual,24.7,796,47.3,Red,5
+Hatchback,44591,1,Ford,Ford Freestyle,2019,644000,Petrol,Zero Dep,Manual,19.0,1194,94.68,White,5
+Coupe,6000,1,Mercedes-Benz,Mercedes-Benz C-Class,2021,8200000,Petrol,Third Party insurance,Automatic,11.9,2996,384.87,Black,4
+Hatchback,20034,1,Maruti,Maruti Ignis,2018,528000,Petrol,Comprehensive,Manual,20.89,1197,81.8,Others,5
+Hatchback,50000,2,Hyundai,Hyundai Santro Xing,2012,260000,Petrol,Third Party insurance,Manual,17.92,1086,62.1,Others,5
+MUV,47529,1,Kia,Kia Carens,2022,1150000,Petrol,Comprehensive,Manual,17.92,1497,113.42,White,7
+Hatchback,46739,1,Maruti,Maruti Baleno,2017,740000,Petrol,Comprehensive,Automatic,19.56,1197,81.8,Blue,5
+Sedan,150000,2,Hyundai,Hyundai Verna,2012,409999,Diesel,Third Party insurance,Manual,22.32,1582,126.32,Others,5
+Hatchback,62000,1,Maruti,Maruti Celerio X,2019,599000,Petrol,Third Party insurance,Automatic,21.63,998,67.0,Grey,5
+MUV,45000,1,Maruti,Maruti XL6,2021,1125000,Petrol,Third Party insurance,Manual,19.01,1462,103.2,Silver,6
+Sedan,36000,1,Honda,Honda City,2020,1299000,Petrol,Third Party insurance,Automatic,18.3,1498,119.35,GOLDEN BROWN,5
+Sedan,40000,1,Honda,Honda City,2019,1050000,Petrol,Third Party insurance,Manual,17.14,1497,117.6,Others,5
+Hatchback,15850,1,Datsun,Datsun RediGO,2020,416000,Petrol,Comprehensive,Manual,22.5,999,67.0,Red,5
+Sedan,62535,1,Maruti,Maruti Swift Dzire,2017,642000,Petrol,Third Party insurance,Automatic,21.21,1197,81.8,Others,5
+SUV,94600,1,Maruti,Maruti Vitara Brezza,2018,849000,Diesel,Comprehensive,Manual,24.3,1248,88.5,Red,5
+Sedan,80375,2,Maruti,Maruti Swift Dzire,2013,434000,Petrol,Third Party insurance,Manual,22.41,1197,88.5,Black,5
+Hatchback,97935,3,Honda,Honda Brio,2012,276000,Petrol,Comprehensive,Manual,19.4,1198,86.8,Silver,5
+Hatchback,38300,1,Hyundai,Hyundai i20,2019,710000,Petrol,Comprehensive,Manual,18.6,1197,81.86,Polar White,5
+Hatchback,81917,1,Maruti,Maruti Baleno,2017,580000,Petrol,Zero Dep,Manual,21.4,1197,83.1,Blue,5
+Hatchback,69000,1,Maruti,Maruti Baleno,2016,575000,Petrol,Comprehensive,Manual,21.4,1197,83.1,Red,5
+Hatchback,43566,2,Hyundai,Hyundai Grand i10,2016,498000,Petrol,Comprehensive,Manual,18.9,1197,82.0,Silver,5
+Hatchback,94201,2,Hyundai,Hyundai i20,2015,533000,Petrol,Third Party insurance,Manual,18.6,1197,81.83,White,5
+Hatchback,50000,1,Maruti,Maruti Baleno,2017,699000,Petrol,Third Party insurance,Automatic,21.4,1197,83.1,Blue,5
+Hatchback,40689,1,Tata,Tata Tiago,2019,520000,Petrol,Zero Dep,Manual,23.84,1199,84.0,Red,5
+Sedan,35849,1,Honda,Honda Amaze,2018,720000,Petrol,Comprehensive,Manual,19.5,1199,88.76,Red,5
+SUV,15833,1,MG,MG Hector,2021,1800000,Diesel,Zero Dep,Manual,17.41,1956,167.68,Burgundy Red Metallic,5
+Sedan,90000,2,Skoda,Skoda Laura,2011,380000,Diesel,Third Party insurance,Manual,20.0,1968,108.5,Others,5
+Hatchback,62000,1,Hyundai,Hyundai i20,2019,749000,Petrol,Third Party,Manual,18.6,1197,81.86,Grey,5
+Hatchback,40000,3,Maruti,Maruti Alto K10,2017,330000,Petrol,Third Party insurance,Manual,23.95,998,67.05,Others,5
+SUV,20000,1,Tata,Tata New Safari,2021,2195000,Diesel,Comprehensive,Automatic,14.08,1956,167.67,Blue,6
+Hatchback,10000,1,Tata,Tata Tiago NRG,2022,700000,Petrol,Third Party insurance,Manual,20.09,1199,84.48,Others,5
+Hatchback,69552,1,Hyundai,Hyundai i20,2016,645000,Petrol,Third Party insurance,Manual,18.6,1197,81.83,White,5
+Hatchback,97610,1,Renault,Renault KWID,2018,391000,Petrol,Third Party,Automatic,24.04,999,67.0,Grey,5
+Sedan,74914,2,Honda,Honda City,2012,509000,Petrol,Third Party,Automatic,16.8,1497,116.3,Brown,5
+SUV,41000,1,Tata,Tata Harrier,2022,2275000,Diesel,Third Party insurance,Automatic,14.6,1956,167.67,Golden,5
+Hatchback,101887,2,Hyundai,Hyundai i20,2015,516000,Petrol,Comprehensive,Manual,18.6,1197,81.83,Silver,5
+Hatchback,42217,2,Maruti,Maruti Wagon R,2012,312000,Petrol,Comprehensive,Manual,18.9,998,67.1,White,5
+SUV,63000,1,Jeep,Jeep Compass,2019,1975000,Petrol,Third Party insurance,Automatic,16.0,1368,160.0,Grey,5
+Hatchback,80315,2,Maruti,Maruti Celerio,2016,434000,Petrol,Third Party,Automatic,26.68,998,65.71,Silver,5
+Hatchback,55000,1,Maruti,Maruti Wagon R,2013,375000,Petrol,Third Party,Manual,18.9,998,67.1,Red,5
+Hatchback,64447,1,Datsun,Datsun GO,2019,432000,Petrol,Third Party insurance,Manual,19.83,1198,67.0,Orange,5
+Hatchback,76947,1,Hyundai,Hyundai Grand i10 Nios,2019,688000,Petrol,Third Party,Automatic,20.7,1197,81.86,Red,5
+Hatchback,23110,1,Datsun,Datsun RediGO,2018,350000,Petrol,Third Party insurance,Manual,22.7,799,53.64,Brown,5
+Hatchback,40235,2,Hyundai,Hyundai Grand i10,2018,496000,Petrol,Third Party insurance,Manual,18.9,1197,81.86,Red,5
+Hatchback,48992,1,Maruti,Maruti Swift,2017,630000,Petrol,Third Party insurance,Manual,22.0,1197,81.8,Grey,5
+Hatchback,21000,1,Hyundai,Hyundai Grand i10,2019,685000,Petrol,Third Party insurance,Automatic,18.9,1197,81.86,Grey,5
+SUV,30465,1,Citroen,Citroen C5 Aircross,2021,3200000,Diesel,Comprehensive,Automatic,18.6,1997,171.9451656,Blue,5
+Hatchback,50000,1,Maruti,Maruti Celerio,2022,630000,CNG,Third Party insurance,Manual,35.6,998,55.92,Others,5
+MUV,90000,2,Honda,Honda Mobilio,2015,550000,Petrol,Third Party insurance,Manual,17.3,1497,117.3,Others,7
+MUV,136083,1,Honda,Honda Mobilio,2014,520000,Diesel,Comprehensive,Manual,24.2,1498,98.6,Red,7
+Sedan,90000,2,Honda,Honda City,2007,250000,Petrol,Third Party insurance,Manual,17.7,1497,76.93296,Black,5
+SUV,100000,1,Maruti,Maruti Vitara Brezza,2019,1000000,Diesel,Third Party insurance,Manual,24.3,1248,88.5,Others,5
+Hatchback,39817,2,Maruti,Maruti Ignis,2018,496000,Petrol,Zero Dep,Manual,20.89,1197,81.8,Silver,5
+Sedan,54063,1,Maruti,Maruti Ciaz,2017,788000,Diesel,Third Party,Manual,28.09,1248,88.5,Brown,5
+Hatchback,37000,1,Hyundai,Hyundai i20 N Line,2021,994999,Petrol,Comprehensive,Manual,20.0,998,118.41,Blue,5
+Hatchback,67372,1,Hyundai,Hyundai Grand i10,2013,416000,Petrol,Third Party insurance,Manual,18.9,1197,82.0,Orange,5
+Hatchback,76685,1,Maruti,Maruti Alto 800,2019,344000,Petrol,Third Party,Manual,24.7,796,47.3,Silver,5
+Hatchback,115595,1,Maruti,Maruti Swift,2014,450000,Diesel,Comprehensive,Manual,22.9,1248,74.0,White,5
+Hatchback,89956,2,Volkswagen,Volkswagen Polo,2019,523000,Petrol,Third Party,Manual,17.74,999,75.1,Black,5
+Sedan,120000,2,Maruti,Maruti Swift Dzire,2011,340000,Diesel,Third Party insurance,Manual,19.3,1248,73.9,Others,5
+Hatchback,87189,1,Hyundai,Hyundai Grand i10,2019,520000,Petrol,Third Party insurance,Manual,18.9,1197,81.86,Silver,5
+Hatchback,42662,1,Maruti,Maruti Swift,2019,628000,Petrol,Comprehensive,Manual,22.38,1197,88.5,Red,5
+Hatchback,69000,1,Maruti,Maruti Swift,2014,525000,Diesel,Third Party insurance,Manual,25.2,1248,74.0,White,5
+Hatchback,63002,1,Hyundai,Hyundai Santro,2019,513999,Petrol,Third Party insurance,Automatic,20.3,1086,68.0,Silver,5
+Sedan,120000,1,Volkswagen,Volkswagen Passat,2018,1700000,Diesel,Third Party insurance,Automatic,17.42,1968,175.0,White,5
+Sedan,108000,1,Hyundai,Hyundai Verna,2008,290000,Petrol,Third Party insurance,Manual,13.9,1599,101.788224,Red,5
+MUV,110000,2,Mahindra,Mahindra Marazzo,2020,950000,Diesel,Third Party insurance,Manual,17.3,1497,120.96,White,7
+Sedan,40022,2,Hyundai,Hyundai Verna,2018,900000,Petrol,Not Available,Manual,17.0,1591,121.3,Orange,5
+Hatchback,81000,1,Maruti,Maruti Baleno,2019,750000,Diesel,Third Party insurance,Manual,27.39,1248,74.0,magma gray,5
+Sedan,70000,1,Tata,Tata Manza,2011,300000,Diesel,Third Party insurance,Manual,21.12,1248,88.8,Others,5
+SUV,46000,1,Mahindra,Mahindra TUV 300,2019,980000,Diesel,Third Party insurance,Manual,18.49,1493,100.0,Red,7
+Hatchback,45911,1,Maruti,Maruti Swift,2018,675000,Petrol,Third Party insurance,Automatic,22.56,1197,88.5,Blue,5
+Sedan,87335,1,Honda,Honda City,2016,616000,Petrol,Comprehensive,Manual,17.8,1497,117.3,Others,5
+SUV,15600,3,Maruti,Maruti Gypsy,2004,550000,Petrol,Third Party insurance,Manual,11.96,1298,80.0,Green,8
+SUV,41108,2,Ford,Ford Ecosport,2018,814000,Petrol,Comprehensive,Manual,17.0,1497,121.31,Red,5
+Hatchback,35545,1,Maruti,Maruti Baleno,2019,750000,Petrol,Third Party insurance,Manual,21.4,1197,83.1,Blue,5
+Sedan,120000,1,Hyundai,Hyundai Xcent,2017,450000,Diesel,Third Party insurance,Manual,24.4,1120,71.0,Others,5
+Hatchback,54631,1,Hyundai,Hyundai Grand i10,2016,498000,Petrol,Comprehensive,Manual,18.9,1197,82.0,Red,5
+Sedan,107000,1,Maruti,Maruti Ciaz,2015,650000,Diesel,Third Party insurance,Manual,26.21,1248,88.5,Maroon,5
+Hatchback,38471,2,Hyundai,Hyundai Grand i10,2019,527000,Petrol,Third Party insurance,Manual,18.9,1197,81.86,Silver,5
+Hatchback,72393,2,Maruti,Maruti Wagon R,2015,329000,Petrol,Comprehensive,Manual,20.51,998,67.04,Red,5
+Hatchback,58000,1,Ford,Ford Figo,2015,350000,Petrol,Third Party insurance,Manual,15.6,1196,70.02,Grey,5
+Hatchback,20266,1,Hyundai,Hyundai Santro,2018,541000,Petrol,Comprehensive,Manual,20.3,1086,68.0,Silver,5
+Hatchback,120000,3,Hyundai,Hyundai i20,2012,340000,Diesel,Third Party insurance,Manual,21.9,1396,88.76,Others,5
+Hatchback,90000,2,Hyundai,Hyundai Santro Xing,2008,185000,Petrol,Third Party insurance,Manual,17.92,1086,62.1,Others,5
+SUV,84910,1,Hyundai,Hyundai Creta,2017,1125000,Diesel,Third Party insurance,Manual,19.67,1582,126.2,Grey,5
+Sedan,70000,1,Honda,Honda City,2020,1000000,Petrol,Third Party insurance,Manual,17.4,1497,117.6,White,5
+Hatchback,120000,2,Mahindra,Mahindra KUV 100 NXT,2018,450000,Diesel,Third Party insurance,Manual,25.32,1198,77.0,Others,5
+Sedan,120000,2,Hyundai,Hyundai Xcent,2016,445000,Diesel,Third Party insurance,Manual,24.4,1120,71.0,Silver,5
+SUV,109000,1,Hyundai,Hyundai Creta,2018,1195000,Diesel,Comprehensive,Manual,19.67,1582,126.2,White,5
+Hatchback,44000,1,Maruti,Maruti Celerio,2016,440000,Petrol,Third Party insurance,Manual,23.1,998,67.04,White,5
+Hatchback,44363,1,Maruti,Maruti Celerio X,2019,503000,Petrol,Zero Dep,Manual,21.63,998,67.05,Silver,5
+Sedan,39461,1,Maruti,Maruti Swift Dzire,2018,702000,Petrol,Comprehensive,Automatic,21.21,1197,81.8,Silver,5
+Sedan,120000,2,Mercedes-Benz,Mercedes-Benz E-Class,2012,1175000,Diesel,Third Party insurance,Automatic,10.0,2148,170.0,Others,5
+Hatchback,59126,1,Maruti,Maruti Baleno,2018,690000,Petrol,Comprehensive,Manual,21.4,1197,83.1,Blue,5
+Hatchback,65331,1,Hyundai,Hyundai Grand i10,2018,520000,Petrol,Third Party insurance,Manual,18.9,1197,81.86,Silver,5
+Hatchback,45000,1,Maruti,Maruti Baleno,2017,699000,Petrol,Third Party insurance,Manual,21.1,998,100.0,Red,5
+Hatchback,41378,2,Maruti,Maruti Swift,2013,436000,Petrol,Third Party insurance,Manual,22.38,1197,88.5,Silver,5
+Sedan,120000,1,Tata,Tata Manza,2013,250000,Diesel,Third Party insurance,Manual,21.02,1248,88.76,Others,5
+Sedan,124781,1,Honda,Honda City,2014,501999,Petrol,Comprehensive,Manual,17.4,1497,117.3,Red,5
+Hatchback,63313,1,Maruti,Maruti Swift,2016,509999,Petrol,Third Party insurance,Manual,22.38,1197,88.5,Silver,5
+Hatchback,62535,1,Maruti,Maruti Baleno,2016,660000,Diesel,Third Party insurance,Manual,27.39,1248,74.0,Silver,5
+Hatchback,89581,1,Maruti,Maruti Baleno,2017,599000,Petrol,Third Party insurance,Manual,21.4,1197,83.1,Red,5
+Sedan,120000,2,Ford,Ford Fiesta Classic,2011,250000,Diesel,Third Party insurance,Manual,19.68,1399,67.0,Others,5
+Sedan,78866,1,Jaguar,Jaguar XE,2017,3400000,Diesel,Third Party insurance,Automatic,13.6,1999,177.0,Blue,5
+Sedan,120000,2,Volkswagen,Volkswagen Jetta,2014,750000,Diesel,Third Party insurance,Automatic,16.96,1968,138.03,Gray,5
+SUV,58000,1,Mahindra,Mahindra XUV500,2018,1595000,Diesel,Third Party insurance,Manual,15.1,2179,152.87,Maroon,7
+Hatchback,90000,1,Maruti,Maruti Wagon R,2012,310000,Petrol,Third Party insurance,Manual,21.79,998,67.05,Grey,5
+Hatchback,59000,1,Maruti,Maruti Baleno,2017,675000,Petrol,Zero Dep,Manual,21.1,998,100.0,Blue,5
+Sedan,66000,1,Jaguar,Jaguar XJ,2013,3500000,Diesel,Third Party insurance,Automatic,10.5,2993,271.2,White,4
+SUV,100000,3,Mercedes-Benz,Mercedes-Benz M-Class,2011,1200000,Diesel,Third Party insurance,Automatic,10.5,2987,162.7428,Others,5
+Hatchback,99003,1,Maruti,Maruti S-Presso,2019,392000,Petrol,Comprehensive,Manual,21.7,998,67.05,Red,5
+Hatchback,76003,1,Maruti,Maruti S-Presso,2019,401000,Petrol,Third Party insurance,Manual,21.7,998,67.05,Silver,5
+SUV,70000,1,Audi,Audi Q5,2017,4200000,Diesel,Third Party insurance,Automatic,14.16,1968,174.3,Others,5
+Hatchback,101863,3,Maruti,Maruti Baleno,2017,581000,Petrol,Third Party insurance,Manual,21.4,1197,83.1,Silver,5
+Sedan,107344,1,Volkswagen,Volkswagen Vento,2018,909000,Diesel,Comprehensive,Automatic,22.15,1498,108.6,White,5
+SUV,100000,3,Mercedes-Benz,Mercedes-Benz M-Class,2011,2400000,Diesel,Third Party insurance,Automatic,22.15,2987,162.7428,Others,5
+Hatchback,56129,1,Hyundai,Hyundai Grand i10,2018,543000,Petrol,Third Party insurance,Manual,18.9,1197,81.86,Red,5
+MUV,70599,1,Maruti,Maruti Ertiga,2019,1100000,Diesel,Comprehensive,Manual,24.52,1248,88.5,Red,7
+Sedan,97208,1,Honda,Honda Amaze,2018,743000,Diesel,Comprehensive,Automatic,23.8,1498,78.9,White,5
+Sedan,53509,2,Skoda,Skoda Rapid,2020,997000,Petrol,Third Party,Manual,18.97,999,108.62,Red,5
+SUV,52000,1,Jeep,Jeep Compass,2017,1599000,Diesel,Third Party insurance,Manual,17.1,1956,170.0,White,5
+Hatchback,97621,1,Hyundai,Hyundai i20,2021,811000,Petrol,Third Party insurance,Manual,21.0,1197,81.8,White,5
+Hatchback,113000,1,Hyundai,Hyundai i10,2009,250000,Petrol,Third Party insurance,Manual,19.81,1086,68.05,Red,5
+MUV,152000,1,Toyota,Toyota Innova,2008,650000,Diesel,Third Party insurance,Manual,12.8,2494,100.60464,Red,8
+SUV,78000,1,Maruti,Maruti SX4 S Cross,2018,975000,Diesel,Third Party insurance,Manual,25.1,1248,88.5,White,5
+Sedan,93000,1,Audi,Audi A4,2011,1199000,Diesel,Third Party insurance,Automatic,16.55,1968,147.51,White,5
+Sedan,48000,1,Mercedes-Benz,Mercedes-Benz S-Class,2001,999000,Petrol,Third Party insurance,Manual,13.0,2987,207.1272,Silver,5
+MUV,55000,1,Chevrolet,Chevrolet Enjoy,2013,525000,Diesel,Third Party insurance,Manual,18.2,1248,73.8,CBeige,7
+Sedan,131852,1,Maruti,Maruti Swift Dzire,2012,420000,Diesel,Third Party insurance,Manual,19.3,1248,73.9,White,5
+Hatchback,20000,1,Maruti,Maruti Swift,2021,600000,Petrol,Third Party insurance,Manual,21.21,1197,81.8,Others,5
+SUV,44416,1,Renault,Renault Duster,2019,996000,Diesel,Third Party insurance,Manual,19.6,1461,108.45,Blue,5
+Hatchback,69408,3,Honda,Honda Brio,2012,311000,Petrol,Comprehensive,Manual,19.4,1198,86.8,Red,5
+SUV,10000,1,Volkswagen,Volkswagen Taigun,2022,1700000,Petrol,Third Party insurance,Manual,20.08,999,113.98,Black,5
+Hatchback,78911,2,Maruti,Maruti Baleno,2016,572000,Petrol,Comprehensive,Manual,21.4,1197,83.1,Blue,5
+Hatchback,85298,1,Datsun,Datsun GO,2017,307000,Petrol,Zero Dep,Manual,19.02,1198,67.05,Red,5
+Sedan,60529,1,Honda,Honda City,2014,454000,Petrol,Third Party,Manual,17.4,1497,117.3,White,5
+Sedan,115276,2,Skoda,Skoda Rapid,2017,775000,Diesel,Comprehensive,Manual,21.13,1498,108.6,Silver,5
+SUV,60000,1,Maruti,Maruti Vitara Brezza,2019,850000,Diesel,Third Party insurance,Automatic,24.3,1248,88.5,Others,5
+SUV,30241,1,Renault,Renault Duster,2020,907000,Petrol,Third Party insurance,Manual,16.42,1498,104.55,White,5
+Hatchback,24197,1,Hyundai,Hyundai Santro,2019,509000,Petrol,Comprehensive,Manual,20.3,1086,68.0,Others,5
+SUV,20000,1,Mercedes-Benz,Mercedes-Benz GLA,2022,4800000,Petrol,Third Party insurance,Automatic,20.3,1332,160.92,Others,5
+Hatchback,44981,1,Hyundai,Hyundai i20 N Line,2021,940000,Petrol,Third Party,Manual,20.0,998,118.41,White,5
+Hatchback,85497,2,Nissan,Nissan Micra,2011,227000,Diesel,Comprehensive,Manual,23.08,1461,63.1,Maroon,5
+SUV,20000,1,Audi,Audi Q5,2022,6200000,Petrol,Third Party insurance,Automatic,13.47,1984,245.59,Others,5
+Hatchback,30000,1,Maruti,Maruti Baleno,2019,650000,Petrol,Third Party insurance,Manual,21.4,1197,83.1,Others,5
+Hatchback,80000,1,Maruti,Maruti Swift,2017,580000,Diesel,Third Party insurance,Manual,28.4,1248,74.0,Grey,5
+Hatchback,41000,1,Honda,Honda Brio,2017,595000,Petrol,Third Party insurance,Automatic,16.5,1198,86.8,White,5
+SUV,73000,1,Hyundai,Hyundai Creta,2017,1100000,Diesel,Third Party insurance,Automatic,17.01,1582,126.2,Black,5
+Sedan,40000,1,Maruti,Maruti Swift Dzire,2022,770000,Petrol,Third Party insurance,Manual,22.41,1197,88.5,Others,5
+Hatchback,27000,1,Maruti,Maruti Swift,2018,695000,Petrol,Comprehensive,Manual,22.0,1197,81.8,Red,5
+Hatchback,57380,3,Tata,Tata Tiago,2018,496000,Petrol,Comprehensive,Manual,23.84,1199,84.0,Silver,5
+Sedan,81334,1,Hyundai,Hyundai Elantra,2018,1261000,Diesel,Third Party,Automatic,18.23,1582,126.2,Silver,5
+Sedan,70000,1,Maruti,Maruti Swift Dzire,2022,875000,CNG,Third Party insurance,Manual,31.12,1197,76.43,Others,5
+SUV,32483,1,Tata,Tata Nexon,2021,927999,Diesel,Third Party insurance,Manual,23.22,1497,113.42,Red,5
+SUV,71220,2,Maruti,Maruti Vitara Brezza,2016,803999,Diesel,Third Party insurance,Manual,24.3,1248,88.5,Blue,5
+SUV,17459,1,Kia,Kia Sonet,2021,1100000,Petrol,Not Available,Manual,18.2,998,118.36,Black,5
+SUV,6517,1,Maruti,Maruti Brezza,2023,1275000,Petrol,Comprehensive,Manual,17.38,1462,101.65,White,5
+SUV,70427,1,Hyundai,Hyundai Creta,2018,950000,Diesel,Comprehensive,Manual,22.1,1396,88.7,Black,5
+Hatchback,52306,1,Maruti,Maruti Alto K10,2018,400000,Petrol,Comprehensive,Automatic,23.95,998,67.1,Grey,5
+Sedan,111670,1,Volkswagen,Volkswagen Vento,2015,550000,Diesel,Comprehensive,Automatic,21.21,1498,103.2,White,5
+Hatchback,40000,1,Maruti,Maruti Wagon R,2019,475000,Petrol,Third Party insurance,Manual,21.79,998,67.05,Others,5
+Hatchback,67000,1,Hyundai,Hyundai i20 Active,2017,720000,Diesel,Third Party insurance,Manual,21.19,1396,88.73,Silver,5
+Sedan,77000,1,BMW,BMW 5 Series,2018,4050000,Diesel,Third Party insurance,Automatic,20.37,1995,187.74,Blue,5
+SUV,71000,1,BMW,BMW X5,2016,3875000,Diesel,Third Party insurance,Automatic,15.97,2993,258.0,Black,5
+Sedan,88471,3,Honda,Honda City,2012,417000,Petrol,Third Party,Manual,16.8,1497,116.3,Silver,5
+Hatchback,88479,1,Hyundai,Hyundai Grand i10,2018,532000,Diesel,Third Party,Manual,24.0,1186,73.97,Silver,5
+MUV,39000,1,Maruti,Maruti XL6,2020,1150000,Petrol,Third Party insurance,Manual,19.01,1462,103.2,Blue,6
+Sedan,50003,1,Volkswagen,Volkswagen Vento,2018,944000,Diesel,Comprehensive,Automatic,22.15,1498,108.6,Blue,5
+Hatchback,82163,1,Hyundai,Hyundai Grand i10,2017,501000,Petrol,Comprehensive,Manual,18.9,1197,81.86,Others,5
+Hatchback,40000,1,Maruti,Maruti Baleno,2022,850000,Petrol,Third Party insurance,Manual,22.35,1197,88.5,White,5
+Hatchback,108560,1,Maruti,Maruti Swift,2016,472000,Petrol,Third Party insurance,Manual,22.38,1197,88.5,Others,5
+SUV,70000,1,Mahindra,Mahindra XUV500,2014,860000,Diesel,Third Party insurance,Manual,15.1,2179,140.0,Black,7
+Hatchback,28292,1,Datsun,Datsun RediGO,2021,469000,Petrol,Third Party,Manual,21.7,999,67.05,Brown,5
+Hatchback,117467,1,Maruti,Maruti Alto 800,2017,289000,Petrol,Comprehensive,Manual,24.7,796,47.3,Silver,5
+Hatchback,65000,1,Maruti,Maruti Baleno,2019,690000,Petrol,Third Party insurance,Manual,21.4,1197,83.1,Maroon,5
+Hatchback,60541,1,Hyundai,Hyundai i10,2012,321000,Petrol,Third Party,Manual,20.36,1197,78.9,Red,5
+SUV,60000,1,Ford,Ford Ecosport,2015,575000,Petrol,Third Party insurance,Manual,18.88,999,123.37,Silver,5
+Sedan,76355,1,Honda,Honda City,2019,890000,Petrol,Third Party insurance,Manual,17.4,1497,117.6,White,5
+Hatchback,60000,1,Maruti,Maruti S-Presso,2021,525000,Petrol,Third Party insurance,Automatic,21.7,998,67.05,Others,5
+SUV,50000,1,Nissan,Nissan Terrano,2019,900000,Diesel,Third Party insurance,Manual,19.87,1461,83.14,Others,5
+SUV,96000,1,MG,MG Hector,2019,1650000,Diesel,Third Party insurance,Manual,17.41,1956,167.68,Silver,5
+SUV,63000,1,Mahindra,Mahindra XUV300,2020,1120000,Diesel,Third Party insurance,Manual,20.0,1497,115.0,Red,5
+Hatchback,40000,1,Hyundai,Hyundai Grand i10 Nios,2020,599000,Petrol,Third Party insurance,Manual,20.7,1197,81.86,Blue,5
+SUV,30000,1,Hyundai,Hyundai Venue,2021,1019999,Petrol,Third Party insurance,Manual,18.0,998,118.35,Others,5
+Sedan,101543,1,Maruti,Maruti Swift Dzire,2014,443000,Petrol,Comprehensive,Manual,22.41,1197,88.5,Silver,5
+Hatchback,66424,1,Maruti,Maruti Baleno,2016,644000,Petrol,Comprehensive,Manual,21.4,1197,83.1,Blue,5
+SUV,120000,1,Maruti,Maruti SX4 S Cross,2020,750000,Petrol,Third Party insurance,Manual,18.55,1462,103.25,Others,5
+Hatchback,33433,1,Tata,Tata Tiago,2018,519000,Petrol,Third Party insurance,Manual,23.84,1199,84.0,Orange,5
+Hatchback,72169,1,Hyundai,Hyundai i20,2016,695000,Diesel,Third Party insurance,Manual,22.54,1396,88.73,Red,5
+Sedan,48175,1,Honda,Honda City,2018,981000,Petrol,Third Party,Automatic,18.0,1497,117.6,Brown,5
+Hatchback,73452,1,Maruti,Maruti Celerio,2014,425000,Petrol,Third Party insurance,Manual,23.1,998,67.04,Yellow,5
+SUV,54807,1,MG,MG Hector,2020,1537000,Petrol,Third Party,Automatic,13.96,1451,141.0,White,5
+Hatchback,47118,1,Maruti,Maruti Alto 800,2017,323000,Petrol,Comprehensive,Manual,22.05,796,47.33,Blue,5
+SUV,100000,1,Tata,Tata Nexon,2017,700000,Petrol,Third Party insurance,Manual,17.0,1198,108.5,Gray,5
+SUV,41192,1,Nissan,Nissan Magnite,2021,809000,Petrol,Zero Dep,Manual,18.75,999,71.02,White,5
+SUV,70000,1,Tata,Tata Harrier,2019,1785000,Diesel,Third Party insurance,Manual,17.0,1956,138.1,Others,5
+SUV,105264,1,Ford,Ford Endeavour,2016,2650000,Diesel,Third Party insurance,Automatic,10.91,3198,197.0,Red,7
+SUV,70000,1,Honda,Honda CR-V,2012,1195000,Petrol,Third Party insurance,Automatic,11.1,2354,158.8,Brown,5
+SUV,50380,1,Land Rover,Land Rover Range Rover Evoque,2017,4800000,Diesel,Third Party insurance,Automatic,15.68,1999,177.0,Red,5
+Sedan,80000,2,Tata,Tata Manza,2010,245000,Diesel,Third Party insurance,Manual,19.0,1248,88.7688,White,5
+Hatchback,51000,1,Maruti,Maruti Celerio,2016,425000,Petrol,Third Party,Manual,23.1,998,67.04,Grey,5
+Hatchback,31846,1,Renault,Renault KWID,2017,385000,Petrol,Third Party insurance,Manual,23.01,999,67.0,Silver,5
+Hatchback,63000,1,Hyundai,Hyundai Grand i10,2015,545000,Diesel,Third Party insurance,Manual,24.0,1120,70.0,Maroon,5
+Hatchback,114676,2,Hyundai,Hyundai i20,2015,588000,Diesel,Comprehensive,Manual,22.54,1396,88.73,White,5
+Hatchback,82662,1,Hyundai,Hyundai i20,2019,747000,Diesel,Third Party insurance,Manual,22.54,1396,88.76,Silver,5
+Hatchback,50000,2,Maruti,Maruti Alto K10,2014,280000,Petrol,Third Party insurance,Manual,23.95,998,67.05,Others,5
+MUV,66518,1,Renault,Renault Triber,2019,633000,Petrol,Third Party,Manual,20.0,999,71.01,Silver,7
+Sedan,57927,1,Honda,Honda City,2017,814000,Petrol,Comprehensive,Manual,17.8,1497,117.3,Silver,5
+Sedan,40000,1,Maruti,Maruti Ciaz,2019,900000,Petrol,Third Party insurance,Manual,21.56,1462,103.25,Others,5
+Hatchback,16115,1,Tata,Tata Tiago,2021,605000,Petrol,Comprehensive,Manual,19.01,1199,84.82,Others,5
+Hatchback,50829,2,Hyundai,Hyundai i10,2009,270000,Petrol,Not Available,Manual,20.36,1197,78.9,Red,5
+Hatchback,25467,1,Hyundai,Hyundai Grand i10 Nios,2019,622000,Petrol,Comprehensive,Manual,20.7,1197,81.86,Others,5
+Hatchback,71071,1,Maruti,Maruti Alto 800,2020,317000,Petrol,Third Party,Manual,22.05,796,47.33,Silver,5
+Sedan,55000,1,Hyundai,Hyundai Verna,2016,795000,Petrol,Third Party insurance,Manual,17.01,1591,121.3,Silver,5
+Hatchback,55563,2,Hyundai,Hyundai i20,2017,602000,Petrol,Comprehensive,Manual,18.6,1197,81.83,White,5
+Hatchback,54000,1,Hyundai,Hyundai Grand i10,2015,575000,Petrol,Third Party insurance,Automatic,18.9,1197,82.0,Orange,5
+Hatchback,70000,2,Hyundai,Hyundai i20,2019,675000,Petrol,Third Party insurance,Manual,18.6,1197,81.86,Others,5
+Sedan,54000,1,Volvo,Volvo S60,2017,1998999,Diesel,Third Party insurance,Automatic,27.03,1969,190.0,Black,5
+SUV,41000,1,Ford,Ford Ecosport,2016,750000,Petrol,Third Party insurance,Automatic,14.7,1496,120.69,Grey,5
+Hatchback,70000,2,Hyundai,Hyundai i20,2011,350000,Petrol,Third Party insurance,Manual,18.5,1197,78.90559999999999,Others,5
+Hatchback,62500,1,Maruti,Maruti Baleno,2020,749000,Petrol,Third Party,Manual,21.01,1197,81.8,Red,5
+Hatchback,20000,1,Hyundai,Hyundai Santro,2021,550000,Petrol,Third Party insurance,Manual,20.3,1086,68.05,Others,5
+Hatchback,60350,1,Hyundai,Hyundai i20,2016,599000,Petrol,Comprehensive,Manual,18.6,1197,81.83,White,5
+Hatchback,52266,1,Hyundai,Hyundai i20,2015,570000,Petrol,Comprehensive,Manual,18.6,1197,81.83,Red,5
+Sedan,58431,1,Maruti,Maruti Ciaz,2018,894999,Diesel,Third Party insurance,Manual,28.09,1248,88.5,Blue,5
+Sedan,41372,1,Honda,Honda City,2017,1011000,Petrol,Third Party insurance,Automatic,18.0,1497,117.3,Silver,5
+Hatchback,46863,2,Maruti,Maruti Alto 800,2014,267000,Petrol,Third Party insurance,Manual,22.05,796,47.33,Silver,5
+Sedan,66500,1,Nissan,Nissan Sunny,2014,570000,Petrol,Third Party insurance,Automatic,17.97,1498,99.6,Silver,5
+Hatchback,49374,2,Hyundai,Hyundai i10,2014,369000,Petrol,Third Party insurance,Manual,19.81,1086,68.05,Silver,5
+Sedan,120000,2,Skoda,Skoda Rapid,2012,360000,Diesel,Third Party insurance,Manual,20.5,1598,103.5,Others,5
+Hatchback,62832,1,Tata,Tata Tiago,2021,605000,Petrol,Third Party,Manual,19.01,1199,84.82,Silver,5
+Hatchback,61155,2,Hyundai,Hyundai i20,2016,585000,Petrol,Third Party insurance,Manual,18.6,1197,81.83,Silver,5
+Hatchback,75000,1,BMW,BMW 1 Series,2014,1798999,Diesel,Third Party insurance,Automatic,20.58,1995,143.0,Red,5
+Hatchback,12045,2,Maruti,Maruti Swift,2021,723000,Petrol,Third Party insurance,Manual,22.38,1197,88.5,Silver,5
+Sedan,60700,1,Maruti,Maruti Ciaz,2020,894999,Petrol,Third Party,Manual,20.65,1462,103.25,White,5
+Sedan,85000,1,Mercedes-Benz,Mercedes-Benz C-Class,2013,1350000,Diesel,Third Party insurance,Automatic,14.84,2143,167.62,White,5
+Sedan,44276,1,Honda,Honda City,2020,1320000,Petrol,Third Party insurance,Automatic,16.4,1497,76.93296,Golden Brown,5
+Sedan,99000,1,Audi,Audi A4,2015,1998999,Diesel,Third Party insurance,Automatic,17.11,1968,174.33,Black,5
+Sedan,78000,1,Audi,Audi A6,2015,2499000,Diesel,Third Party insurance,Automatic,17.68,1968,174.33,Black,5
+Sedan,70000,2,Jaguar,Jaguar XF,2013,1700000,Diesel,Third Party insurance,Automatic,16.36,2179,187.7,White,5
+Sedan,70000,1,Jaguar,Jaguar XF,2013,1800000,Diesel,Third Party insurance,Automatic,16.36,2179,187.7,White,5
+Sedan,70000,1,Jaguar,Jaguar XF,2013,1750000,Diesel,Third Party insurance,Automatic,16.36,2179,187.7,White,5
+Hatchback,22264,1,Maruti,Maruti Alto 800,2021,429000,Petrol,Third Party,Manual,22.05,796,47.33,White,5
+Hatchback,103763,1,Maruti,Maruti Ignis,2018,376000,Petrol,Third Party insurance,Manual,20.89,1197,81.8,White,5
+SUV,109000,1,Volvo,Volvo XC60,2012,1015000,Diesel,Third Party insurance,Automatic,14.7,1985,163.0,Brown,5
+Hatchback,49043,2,Hyundai,Hyundai i10,2012,312000,Petrol,Third Party insurance,Manual,20.36,1197,78.9,Silver,5
+Hatchback,70666,2,Maruti,Maruti Celerio,2017,492000,Petrol,Comprehensive,Automatic,23.1,998,67.04,Red,5
+SUV,128000,1,Land Rover,Land Rover Range Rover Sport,2011,3700000,Diesel,Third Party insurance,Automatic,14.7,2993,241.6,Black,5
+Sedan,65815,1,Maruti,Maruti Swift Dzire,2018,800000,Diesel,Comprehensive,Automatic,28.4,1248,74.02,Silver,5
+Hatchback,79000,1,Maruti,Maruti Alto,2010,165000,Petrol,Third Party insurance,Manual,19.7,796,46.3,Maroon,5
+Hatchback,48580,1,Maruti,Maruti Baleno,2020,831000,Petrol,Comprehensive,Automatic,21.4,1197,83.1,Others,5
+Hatchback,44646,1,Hyundai,Hyundai i20,2018,691000,Petrol,Comprehensive,Manual,18.6,1197,81.83,White,5
+Hatchback,71963,1,Maruti,Maruti Wagon R,2008,175000,Petrol,Comprehensive,Manual,21.79,998,67.05,Red,5
+Hatchback,26678,2,Hyundai,Hyundai Grand i10,2017,493000,Petrol,Comprehensive,Manual,18.9,1197,81.86,Red,5
+Sedan,152000,1,Honda,Honda City,2015,599000,Diesel,Third Party insurance,Manual,26.0,1498,98.6,White,5
+SUV,101000,1,Ford,Ford Endeavour,2016,2395000,Diesel,Third Party insurance,Automatic,12.62,2198,158.0,Maroon,7
+Hatchback,41000,1,Chevrolet,Chevrolet Beat,2012,320000,Diesel,Third Party insurance,Manual,25.44,936,57.6,Silver,5
+SUV,109000,1,Toyota,Toyota Fortuner,2018,3150000,Diesel,Third Party insurance,Manual,14.24,2755,174.5,White,7
+Sedan,83000,1,Skoda,Skoda Rapid,2017,825000,Diesel,Third Party insurance,Manual,21.13,1498,108.6,White,5
+Hatchback,80000,1,Maruti,Maruti Ritz,2012,375000,Diesel,Third Party insurance,Manual,23.2,1248,73.94,Blue,5
+Hatchback,94514,3,Maruti,Maruti Swift,2011,323000,Diesel,Third Party insurance,Manual,22.9,1248,74.0,Black,5
+Sedan,67037,1,Maruti,Maruti Swift Dzire,2015,487000,Petrol,Third Party insurance,Manual,22.41,1197,88.5,Silver,5
+SUV,120000,1,Mahindra,Mahindra Scorpio,2004,290000,Diesel,Third Party insurance,Manual,10.5,2179,120.0,Red,8
+Hatchback,35540,2,Toyota,Toyota Glanza,2019,709000,Petrol,Comprehensive,Manual,22.35,1197,88.5,White,5
+SUV,47627,1,Renault,Renault Captur,2019,983000,Diesel,Comprehensive,Manual,20.37,1461,108.45,Orange,5
+Sedan,98000,1,Toyota,Toyota Corolla Altis,2009,450000,Petrol,Third Party insurance,Automatic,14.53,1794,138.1,White,5
+Hatchback,55943,1,Hyundai,Hyundai i20,2018,672000,Petrol,Third Party insurance,Manual,18.6,1197,81.83,Silver,5
+SUV,71000,1,Hyundai,Hyundai Creta,2018,1350000,Diesel,Third Party insurance,Automatic,17.01,1582,126.2,White,5
+Hatchback,117924,1,Maruti,Maruti Celerio,2018,457000,Petrol,Third Party insurance,Automatic,23.1,998,67.04,Others,5
+Hatchback,92195,1,Maruti,Maruti Wagon R,2013,311000,Petrol,Comprehensive,Manual,18.9,998,67.1,White,5
+Sedan,40000,3,Hyundai,Hyundai Sonata,2003,150000,Petrol,Third Party insurance,Automatic,11.0,2359,162.7428,Silver,5
+Hatchback,49009,1,Maruti,Maruti Swift,2018,623000,Petrol,Comprehensive,Automatic,22.56,1197,88.5,Blue,5
+SUV,31650,1,Kia,Kia Sonet,2020,1090000,Petrol,Comprehensive,Automatic,18.3,998,118.36,Black,5
+MUV,20000,1,Kia,Kia Carens,2022,1600000,Petrol,Third Party insurance,Manual,16.2,1353,138.05,White,7
+Hatchback,70000,1,Hyundai,Hyundai i10,2009,200000,Petrol,Third Party insurance,Manual,20.36,1197,78.9,Others,5
+Sedan,39000,1,Hyundai,Hyundai Verna,2018,925000,Diesel,Comprehensive,Automatic,18.0,1582,126.2,Black,5
+SUV,10000,1,Mahindra,Mahindra XUV300,2022,1150000,Petrol,Third Party insurance,Automatic,16.5,1197,108.62,Others,5
+SUV,93615,1,Hyundai,Hyundai Creta,2018,1150000,Diesel,Comprehensive,Automatic,17.01,1582,126.2,White,5
+MUV,6400,1,Toyota,Toyota Innova Crysta,2022,2550000,Petrol,Third Party insurance,Manual,8.0,2694,163.6,White,7
+Sedan,16727,2,Maruti,Maruti Ciaz,2022,894999,Petrol,Comprehensive,Manual,20.65,1462,103.25,Others,5
+SUV,63334,3,Hyundai,Hyundai Creta,2019,1009000,Petrol,Third Party insurance,Manual,15.8,1591,121.3,Red,5
+SUV,14000,1,Nissan,Nissan Magnite,2021,1050000,Petrol,Comprehensive,Manual,20.0,999,98.63,Red,5
+Hatchback,96540,1,Maruti,Maruti Ignis,2018,441000,Petrol,Third Party insurance,Manual,20.89,1197,81.8,Blue,5
+Sedan,92585,1,Toyota,Toyota Yaris,2018,759000,Petrol,Third Party insurance,Automatic,17.8,1496,105.94,White,5
+SUV,53861,1,Ford,Ford Ecosport,2014,425000,Petrol,Third Party insurance,Manual,15.8,1499,110.0,Silver,5
+Hatchback,65761,2,Maruti,Maruti Wagon R,2012,306000,Petrol,Third Party insurance,Manual,18.9,998,67.1,Silver,5
+Sedan,67000,2,Volkswagen,Volkswagen Vento,2015,600000,Diesel,Third Party insurance,Manual,22.27,1498,108.6,Golden,5
+SUV,122100,2,Jeep,Jeep Compass,2018,1385000,Diesel,Third Party,Manual,17.1,1956,170.0,Silver,5
+Sedan,53873,1,Maruti,Maruti Swift Dzire,2017,736000,Diesel,Comprehensive,Automatic,28.4,1248,74.02,Brown,5
+SUV,60000,1,Maruti,Maruti Vitara Brezza,2019,840000,Diesel,Third Party insurance,Manual,24.3,1248,88.5,Others,5
+Hatchback,89197,2,Maruti,Maruti Swift,2013,426000,Diesel,Third Party insurance,Manual,22.9,1248,74.0,Red,5
+Hatchback,30000,1,Datsun,Datsun RediGO,2020,305000,Petrol,Third Party insurance,Manual,22.7,799,53.64,Others,5
+Hatchback,70000,1,Hyundai,Hyundai i20,2018,629000,Petrol,Third Party insurance,Manual,18.6,1197,81.83,Others,5
+Hatchback,28700,1,Maruti,Maruti Baleno,2021,869000,Petrol,Third Party,Automatic,19.56,1197,81.8,Grey,5
+Sedan,20000,2,Volkswagen,Volkswagen Virtus,2022,1850000,Petrol,Third Party insurance,Automatic,18.12,999,113.98,White,5
+Hatchback,91629,1,Hyundai,Hyundai i10,2012,300000,Petrol,Comprehensive,Manual,20.36,1197,78.9,Silver,5
+Hatchback,30000,1,Ford,Ford Freestyle,2021,850000,Diesel,Third Party insurance,Manual,23.8,1499,98.96,White,5
+Hatchback,7058,1,Maruti,Maruti Baleno,2022,869999,Petrol,Not Available,Manual,21.01,1197,81.8,Nexa Blue,5
+Sedan,86500,1,Maruti,Maruti Swift Dzire,2017,775000,Diesel,Third Party insurance,Automatic,28.4,1248,74.02,White,5
+Sedan,76438,2,Honda,Honda Amaze,2015,416000,Petrol,Third Party,Manual,18.0,1198,86.7,Brown,5
+SUV,24489,2,Hyundai,Hyundai Creta,2017,1025000,Petrol,Zero Dep,Manual,13.0,1591,121.3,Black,5
+Hatchback,20000,1,Maruti,Maruti Swift,2022,790000,Petrol,Third Party insurance,Automatic,22.56,1197,88.5,Others,5
+Sedan,110600,1,Hyundai,Hyundai Verna,2017,855000,Diesel,Comprehensive,Manual,23.9,1582,126.2,Silver,5
+Hatchback,63840,2,Maruti,Maruti Baleno,2019,649000,Petrol,Third Party insurance,Manual,21.4,1197,83.1,Blue,5
+Hatchback,74000,1,Hyundai,Hyundai i10,2009,229999,Petrol,Third Party insurance,Manual,20.36,1197,78.9,Red,5
+Hatchback,21314,1,Tata,Tata Tiago,2021,599000,Petrol,Zero Dep,Manual,19.01,1199,84.82,Silver,5
+Sedan,40007,1,Hyundai,Hyundai Verna,2017,900000,Diesel,Comprehensive,Automatic,18.0,1582,126.2,White,5
+Sedan,89997,2,Maruti,Maruti Swift Dzire,2015,622000,Diesel,Third Party insurance,Manual,26.59,1248,74.0,Red,5
+Hatchback,64736,1,Honda,Honda Brio,2014,362000,Petrol,Comprehensive,Manual,19.4,1198,86.8,White,5
+SUV,105000,1,Audi,Audi Q3,2013,1295000,Diesel,Third Party insurance,Automatic,15.73,1968,174.33,White,5
+SUV,40687,1,Maruti,Maruti SX4 S Cross,2020,964000,Petrol,Comprehensive,Manual,18.55,1462,103.25,Others,5
+Sedan,33000,2,Ford,Ford Fiesta,2012,395000,Petrol,Third Party insurance,Automatic,16.97,1499,107.5,Blue,5
+Hatchback,57000,1,Maruti,Maruti Celerio,2016,459999,Petrol,Third Party insurance,Automatic,23.1,998,67.04,Silver,5
+MUV,120000,2,Toyota,Toyota Innova,2006,400000,Diesel,Third Party insurance,Manual,12.8,2494,100.60464,Others,8
+SUV,88000,1,Kia,Kia Seltos,2019,1325000,Diesel,Third Party insurance,Manual,20.8,1493,113.43,Blue,5
+Hatchback,80000,3,Hyundai,Hyundai i10,2009,215000,Petrol,Third Party insurance,Manual,20.36,1197,78.9,Others,5
+SUV,49500,1,Hyundai,Hyundai Venue,2020,1050000,Petrol,Third Party insurance,Manual,18.0,998,118.35,Red,5
+Hatchback,15985,1,Renault,Renault KWID,2020,465000,Petrol,Third Party insurance,Manual,21.46,999,67.06,Brown,5
+Sedan,85871,2,Honda,Honda City,2015,574000,Petrol,Comprehensive,Manual,17.4,1497,117.3,Red,5
+Hatchback,73665,1,Hyundai,Hyundai i10,2012,295000,Petrol,Third Party insurance,Manual,20.36,1197,78.9,Silver,5
+SUV,31614,1,Land Rover,Land Rover Range Rover,2020,26000000,Petrol,Comprehensive,Automatic,13.33,2995,335.25,Black,5
+Sedan,70380,1,Tata,Tata Tigor,2021,707000,Petrol,Comprehensive,Manual,19.28,1199,84.82,Blue,5
+Hatchback,73202,1,Hyundai,Hyundai i20,2016,605000,Petrol,Third Party insurance,Manual,18.6,1197,81.83,Red,5
+Sedan,80000,1,Honda,Honda Amaze,2016,565000,Petrol,Third Party insurance,Automatic,18.3,1199,88.76,Goldan BRWOON,5
+Hatchback,58006,1,Maruti,Maruti Swift,2017,608000,Diesel,Comprehensive,Manual,25.2,1248,74.0,White,5
+Hatchback,64000,1,Maruti,Maruti Swift,2019,725000,Petrol,Third Party insurance,Automatic,21.21,1197,81.8,m grey,5
+Hatchback,50670,2,Honda,Honda Brio,2014,369000,Petrol,Third Party insurance,Manual,19.4,1198,86.8,White,5
+Hatchback,41058,2,Hyundai,Hyundai Santro,2020,508000,Petrol,Third Party insurance,Automatic,20.3,1086,68.05,Others,5
+SUV,120000,1,Renault,Renault Duster,2013,360000,Diesel,Third Party insurance,Manual,20.45,1461,83.8,White,5
+Hatchback,56367,2,Maruti,Maruti Wagon R Stingray,2014,399000,Petrol,Third Party insurance,Manual,20.51,998,67.04,Silver,5
+SUV,41000,1,Hyundai,Hyundai Venue,2019,919999,Petrol,Third Party insurance,Manual,18.27,998,118.35,Grey,5
+Hatchback,40000,1,Hyundai,Hyundai i20,2019,740000,Petrol,Third Party insurance,Manual,18.6,1197,81.86,Blue,5
+Hatchback,16000,1,Hyundai,Hyundai Grand i10,2016,625000,Petrol,Third Party insurance,Automatic,18.9,1197,82.0,Maroon,5
+Hatchback,69900,1,Maruti,Maruti Celerio,2016,450000,Petrol,Third Party insurance,Automatic,23.1,998,67.04,Silver,5
+Sedan,120000,1,Honda,Honda City,2016,650000,Petrol,Third Party insurance,Manual,17.8,1497,117.3,Silver,5
+Hatchback,95000,1,Tata,Tata Tiago,2016,450000,Petrol,Third Party insurance,Manual,23.84,1199,84.0,Silver,5
+Sedan,35000,1,Audi,Audi A3,2018,2445000,Diesel,Comprehensive,Automatic,20.38,1968,143.0,Black,5
+Sedan,66000,1,Honda,Honda City,2014,675000,Petrol,Third Party insurance,Automatic,18.0,1497,117.3,White,5
+Sedan,67905,1,Maruti,Maruti Ciaz,2016,652000,Diesel,Zero Dep,Manual,28.09,1248,88.5,Silver,5
+Hatchback,19348,1,Hyundai,Hyundai Santro,2019,496000,Petrol,Third Party insurance,Manual,20.3,1086,68.0,Others,5
+Sedan,35000,1,Honda,Honda Amaze,2017,650000,Petrol,Third Party insurance,Manual,17.8,1198,86.7,Brown,5
+Sedan,30811,1,Hyundai,Hyundai Verna,2017,789000,Petrol,Comprehensive,Manual,17.01,1591,121.3,Others,5
+Hatchback,73227,2,Maruti,Maruti Celerio X,2019,458000,Petrol,Zero Dep,Manual,21.63,998,67.05,Others,5
+Sedan,80000,2,Tata,Tata Manza,2010,200000,Diesel,Third Party insurance,Manual,19.0,1248,88.7688,White,5
+Hatchback,90184,1,Honda,Honda Brio,2012,311000,Petrol,Third Party,Manual,19.4,1198,86.8,White,5
+SUV,30000,1,Maruti,Maruti SX4 S Cross,2021,1000000,Petrol,Third Party insurance,Manual,18.55,1462,103.25,Blue,5
+Sedan,66039,1,Hyundai,Hyundai Verna,2016,613000,Petrol,Third Party,Manual,17.01,1591,121.3,Others,5
+Sedan,120000,2,Hyundai,Hyundai Xcent,2017,390000,Diesel,Third Party insurance,Manual,25.4,1186,73.97,Others,5
+Sedan,89205,2,Honda,Honda City,2013,517000,Petrol,Comprehensive,Manual,16.8,1497,116.3,Silver,5
+SUV,50000,1,Hyundai,Hyundai Venue,2020,999000,Petrol,Third Party insurance,Manual,18.0,998,118.35,Others,5
+Hatchback,80000,1,Maruti,Maruti Baleno,2018,740000,Petrol,Third Party insurance,Automatic,21.4,1197,83.1,Others,5
+SUV,29000,1,MG,MG Hector,2020,1650000,Diesel,Third Party insurance,Manual,17.41,1956,167.68,b red,5
+SUV,90000,1,BMW,BMW X1,2012,1320000,Diesel,Third Party insurance,Automatic,17.05,1995,184.0,Others,5
+Sedan,120000,1,Tata,Tata Manza,2011,220000,Diesel,Third Party insurance,Manual,21.12,1248,88.8,Red,5
+Hatchback,100000,2,Fiat,Fiat Avventura,2015,420000,Diesel,Third Party insurance,Manual,20.5,1248,91.72,White,5
+Hatchback,56962,1,Maruti,Maruti Baleno,2017,550000,Petrol,Not Available,Automatic,21.4,1197,83.1,Granite Grey,5
+Sedan,90000,1,Skoda,Skoda Rapid,2015,550000,Diesel,Third Party insurance,Automatic,21.66,1498,103.52,Others,5
+Hatchback,101739,1,Volkswagen,Volkswagen Polo,2018,501999,Petrol,Comprehensive,Manual,17.74,999,75.1,White,5
+Hatchback,69049,1,Tata,Tata Tiago,2019,552000,Petrol,Zero Dep,Manual,23.84,1199,83.83,Others,5
+SUV,110000,1,Maruti,Maruti Vitara Brezza,2018,830000,Diesel,Third Party insurance,Manual,24.3,1248,88.5,Red,5
+Sedan,56242,1,Honda,Honda Amaze,2017,579000,Petrol,Zero Dep,Manual,19.5,1199,88.76,Brown,5
+SUV,124281,1,Mahindra,Mahindra XUV500,2018,1215000,Diesel,Third Party,Manual,16.0,1997,140.0,Grey,7
+SUV,38000,1,Hyundai,Hyundai Venue,2019,950000,Petrol,Third Party insurance,Manual,18.27,998,118.35,White,5
+SUV,84249,1,Mahindra,Mahindra Scorpio,2018,1021000,Diesel,Third Party insurance,Manual,18.27,2179,136.78,Red,7
+Sedan,45000,1,BMW,BMW 3 Series,2018,2595000,Diesel,Third Party,Automatic,22.69,1995,190.0,White,5
+Sedan,122117,2,Maruti,Maruti Swift Dzire,2013,421000,Petrol,Comprehensive,Manual,22.41,1197,88.5,White,5
+SUV,108632,1,Ford,Ford Ecosport,2019,869999,Diesel,Comprehensive,Manual,23.0,1498,98.96,Silver,5
+Sedan,10700,1,BMW,BMW 5 Series,2017,4500000,Diesel,Third Party insurance,Automatic,18.12,1995,190.0,White,5
+SUV,116988,1,Ford,Ford Ecosport,2017,677000,Diesel,Third Party,Manual,22.77,1498,98.59,Black,5
+Sedan,60000,1,Honda,Honda City,2014,725000,Petrol,Third Party insurance,Automatic,18.0,1497,117.3,urban titanim,5
+Sedan,120000,1,Honda,Honda Amaze,2018,650000,Diesel,Third Party insurance,Manual,25.8,1498,98.6,Others,5
+SUV,92000,1,Hyundai,Hyundai Creta,2016,980000,Diesel,Third Party insurance,Manual,19.67,1582,126.2,Red,5
+MUV,80000,1,Mahindra,Mahindra Marazzo,2019,1100000,Diesel,Third Party insurance,Manual,17.3,1497,121.0,Others,7
+Sedan,90000,2,Toyota,Toyota Corolla Altis,2009,290000,CNG,Third Party insurance,Manual,14.53,1798,138.0,Silver,5
+Hatchback,110000,2,Skoda,Skoda Fabia,2014,350000,Diesel,Third Party insurance,Manual,20.86,1199,75.0,Others,5
+Hatchback,70000,1,Nissan,Nissan Micra,2011,290000,Petrol,Third Party insurance,Manual,18.06,1198,75.0,Silver,5
+Hatchback,72761,1,Tata,Tata Tiago,2018,590000,Diesel,Third Party insurance,Manual,27.28,1047,69.0,Orange,5
+Hatchback,72473,1,Hyundai,Hyundai i10,2013,299000,Petrol,Comprehensive,Manual,20.36,1197,78.9,Silver,5
+SUV,18030,1,Maruti,Maruti Brezza,2022,1252000,Petrol,Third Party,Manual,19.89,1462,101.65,Maroon,5
+Sedan,63000,1,Honda,Honda Amaze,2018,875000,Diesel,Third Party insurance,Manual,27.4,1498,98.63,g brown,5
+Hatchback,40404,1,Honda,Honda Jazz,2016,550000,Petrol,Third Party,Automatic,19.0,1199,88.7,Silver,5
+Sedan,96407,1,Honda,Honda City,2018,969999,Petrol,Comprehensive,Automatic,18.0,1497,117.6,Brown,5
+Hatchback,20000,1,Hyundai,Hyundai Grand i10,2017,590000,Petrol,Third Party insurance,Manual,18.9,1197,81.86,Others,5
+Sedan,53456,1,Honda,Honda City,2017,771000,Petrol,Comprehensive,Manual,17.8,1497,117.3,Silver,5
+Hatchback,91603,2,Maruti,Maruti Alto 800,2016,256999,Petrol,Comprehensive,Manual,22.05,796,47.33,White,5
+Hatchback,28246,1,Toyota,Toyota Glanza,2021,767000,Petrol,Zero Dep,Manual,22.35,1197,88.5,Red,5
+Sedan,171000,3,Renault,Renault Scala,2013,260000,Diesel,Third Party insurance,Manual,21.64,1461,84.8,Silver,5
+Hatchback,30224,1,Tata,Tata Tiago,2021,581000,Petrol,Third Party,Manual,19.01,1199,84.82,Red,5
+Sedan,70000,1,Honda,Honda City,2017,1025000,Diesel,Third Party insurance,Manual,25.6,1498,97.9,Others,5
+Hatchback,120000,3,Hyundai,Hyundai i20,2013,400000,Diesel,Third Party insurance,Manual,21.27,1396,88.76,Others,5
+SUV,120000,2,Maruti,Maruti Vitara Brezza,2017,750000,Diesel,Third Party insurance,Manual,24.3,1248,88.5,Black,5
+Sedan,80000,2,Skoda,Skoda Rapid,2020,1000000,Diesel,Third Party insurance,Manual,21.13,1498,108.6,Others,5
+Sedan,49000,1,Skoda,Skoda Octavia,2019,2150000,Petrol,Third Party insurance,Automatic,15.1,1798,178.0,beige,5
+Hatchback,70000,1,Hyundai,Hyundai i20,2019,660000,Petrol,Third Party insurance,Manual,18.6,1197,81.86,Others,5
+SUV,85838,1,Ford,Ford Ecosport,2014,662000,Diesel,Third Party insurance,Manual,22.7,1498,89.84,White,5
+Hatchback,68000,1,Nissan,Nissan Micra Active,2016,395000,Petrol,Third Party insurance,Manual,19.69,1198,67.04,Blue,5
+Hatchback,38607,2,Maruti,Maruti Celerio,2018,513999,Petrol,Comprehensive,Automatic,23.1,998,67.04,Silver,5
+Hatchback,48934,2,Hyundai,Hyundai i20,2019,772000,Petrol,Third Party insurance,Automatic,17.4,1197,81.86,White,5
+Hatchback,73000,1,Hyundai,Hyundai i20,2018,680000,Petrol,Third Party insurance,Manual,18.6,1197,81.86,Red,5
+Hatchback,31933,2,Maruti,Maruti Alto 800,2014,254000,Petrol,Third Party insurance,Manual,22.05,796,47.33,Red,5
+Hatchback,54959,1,Maruti,Maruti Wagon R,2013,311000,Petrol,Third Party insurance,Manual,18.9,998,67.1,Blue,5
+Sedan,49000,1,Jaguar,Jaguar XF,2014,2150000,Diesel,Third Party insurance,Automatic,14.74,2993,270.9,Blue,5
+Sedan,59261,1,Honda,Honda City,2017,1015000,Petrol,Zero Dep,Automatic,18.0,1497,117.3,Silver,5
+Sedan,42000,1,Audi,Audi A3,2019,2850000,Diesel,Third Party insurance,Automatic,20.38,1968,143.0,White,5
+Hatchback,73889,1,Maruti,Maruti Swift,2014,461000,Petrol,Comprehensive,Manual,22.38,1197,88.5,Red,5
+Hatchback,44363,2,Renault,Renault KWID,2019,372000,Petrol,Third Party,Manual,22.3,799,53.26,White,5
+Sedan,54000,1,Mercedes-Benz,Mercedes-Benz E-Class,2011,1450000,Diesel,Third Party insurance,Automatic,14.21,2143,203.0,Black,5
+Sedan,50151,1,Hyundai,Hyundai Verna,2017,802999,Petrol,Third Party,Manual,17.01,1591,121.3,Black,5
+Hatchback,120000,1,Hyundai,Hyundai Santro Xing,2010,220000,LPG,Third Party insurance,Manual,13.45,1086,62.1,Others,5
+Sedan,92000,1,Volvo,Volvo S60,2012,1150000,Diesel,Third Party insurance,Automatic,13.2,2400,215.0,Silver,5
+Sedan,51000,1,Jaguar,Jaguar XF,2017,2995000,Diesel,Comprehensive,Automatic,19.33,1999,177.0,White,5
+SUV,70000,1,Mercedes-Benz,Mercedes-Benz GLE,2018,6950000,Petrol,Third Party insurance,Automatic,8.9,2996,384.87,Blue,5
+SUV,72253,1,Hyundai,Hyundai Venue,2019,900000,Petrol,Not Available,Manual,18.27,998,118.35,Blue,5
+SUV,51757,1,Mahindra,Mahindra XUV500,2015,1400000,Diesel,Not Available,Manual,16.0,2179,140.0,Purple,7
+Hatchback,46000,1,Chevrolet,Chevrolet Beat,2012,295000,Petrol,Third Party insurance,Manual,18.6,1199,79.4,Grey,5
+SUV,24648,1,Tata,Tata Harrier,2022,1964999,Diesel,Third Party,Manual,16.35,1956,167.67,White,5
+Hatchback,61201,1,Maruti,Maruti Wagon R,2013,306000,Petrol,Comprehensive,Manual,20.51,998,67.04,Others,5
+SUV,23000,1,Tata,Tata Harrier,2021,2014999,Diesel,Third Party insurance,Manual,16.35,1956,167.67,Red,5
+Hatchback,46563,2,Maruti,Maruti Wagon R,2016,366000,Petrol,Third Party,Manual,20.51,998,67.04,Red,5
+Hatchback,41085,1,Hyundai,Hyundai i20,2016,645000,Petrol,Third Party insurance,Manual,18.6,1197,81.83,Red,5
+Hatchback,90000,1,Ford,Ford Figo,2010,299000,Diesel,Third Party insurance,Manual,20.0,1399,68.0,Green,5
+Hatchback,50260,1,Hyundai,Hyundai i20,2013,423000,Petrol,Comprehensive,Manual,18.5,1197,82.85,White,5
+Hatchback,55000,1,Ford,Ford Figo,2010,295000,Petrol,Third Party insurance,Manual,15.6,1196,70.0,Grey,5
+Hatchback,107913,2,Maruti,Maruti Celerio,2014,328000,Petrol,Third Party insurance,Manual,25.24,998,65.71,Red,5
+Hatchback,52858,1,Maruti,Maruti Swift,2017,565000,Petrol,Comprehensive,Manual,22.38,1197,88.5,Silver,5
+Sedan,50000,1,BMW,BMW 3 Series,2014,2250000,Diesel,Third Party insurance,Automatic,19.59,1995,184.0,Brown,5
+Hatchback,41832,2,Renault,Renault KWID,2016,299000,Petrol,Comprehensive,Manual,23.01,999,67.0,Others,5
+Hatchback,61000,1,Datsun,Datsun GO,2014,299000,Petrol,Third Party insurance,Manual,20.63,1198,67.0,Silver,5
+Sedan,136700,1,Skoda,Skoda Laura,2012,490000,Diesel,Comprehensive,Automatic,17.0,1968,138.0848,Rosso Brunello,5
+Hatchback,44000,1,Maruti,Maruti Ritz,2011,340000,Petrol,Third Party insurance,Manual,18.5,1197,85.8,Silver,5
+Sedan,40000,3,Hyundai,Hyundai Sonata,2003,150000,Petrol,Third Party insurance,Automatic,11.0,2359,162.7428,Silver,5
+MUV,45430,1,Renault,Renault Triber,2021,650000,Petrol,Comprehensive,Automatic,18.2,999,71.0,White,7
+SUV,10000,1,Volkswagen,Volkswagen Taigun,2022,1650000,Petrol,Third Party insurance,Automatic,18.41,999,113.98,White,5
+SUV,50000,1,Nissan,Nissan Magnite,2021,750000,Petrol,Third Party insurance,Manual,18.75,999,71.02,Silver,5
+SUV,89178,1,Mahindra,Mahindra XUV500,2015,700000,Diesel,Comprehensive,Manual,16.0,1997,140.0,Black,7
+Hatchback,52507,1,Maruti,Maruti Swift,2014,466000,Petrol,Comprehensive,Manual,22.38,1197,88.5,Blue,5
+Sedan,47495,1,Volkswagen,Volkswagen Ameo,2019,587000,Petrol,Third Party insurance,Manual,19.44,999,75.0,White,5
+Hatchback,50000,2,Datsun,Datsun RediGO,2017,220000,Petrol,Third Party insurance,Manual,22.7,799,53.64,White,5
+Hatchback,89899,1,Maruti,Maruti Swift,2019,677000,Petrol,Third Party insurance,Automatic,22.56,1197,88.5,Silver,5
+Hatchback,39992,2,Renault,Renault KWID,2017,334000,Petrol,Third Party insurance,Manual,23.01,999,67.0,Others,5
+Hatchback,80000,2,Maruti,Maruti Wagon R,2009,150000,LPG,Third Party insurance,Manual,17.3,1061,56.7134,Others,5
+Hatchback,89791,1,Maruti,Maruti Wagon R,2013,315000,Petrol,Third Party,Manual,18.9,998,67.1,Silver,5
+Hatchback,83000,1,Maruti,Maruti Wagon R,2006,114999,Petrol,Third Party insurance,Manual,18.9,998,67.0,Gray,5
+Hatchback,114071,2,Hyundai,Hyundai Grand i10,2015,389000,Petrol,Comprehensive,Manual,18.9,1197,82.0,Red,5
+Hatchback,66445,2,Maruti,Maruti Wagon R,2015,347000,Petrol,Comprehensive,Manual,20.51,998,67.04,Silver,5
+SUV,30000,1,Volkswagen,Volkswagen Taigun,2021,1450000,Petrol,Third Party insurance,Automatic,18.41,999,113.98,Others,5
+SUV,96615,1,Honda,Honda WR-V,2018,800000,Diesel,Third Party insurance,Manual,25.5,1498,98.6,White,5
+SUV,60000,1,Kia,Kia Seltos,2020,1550000,Diesel,Third Party insurance,Manual,20.8,1493,113.43,Others,5
+Sedan,120000,2,Maruti,Maruti Swift Dzire,2016,350000,Diesel,Third Party insurance,Manual,23.4,1248,74.0,Others,5
+Sedan,90000,2,Hyundai,Hyundai Xcent,2016,320000,Diesel,Third Party insurance,Manual,24.4,1120,71.0,Others,5
+SUV,24001,1,Jeep,Jeep Compass,2021,3000000,Diesel,Third Party insurance,Manual,16.3,1956,170.0,Grey,5
+Hatchback,76000,1,Maruti,Maruti Swift,2011,345000,Petrol,Third Party insurance,Manual,18.6,1197,85.8,White,5
+Hatchback,30000,1,Hyundai,Hyundai Grand i10 Nios,2022,750000,Petrol,Third Party insurance,Manual,20.7,1197,81.86,Others,5
+SUV,37821,1,Jeep,Jeep Compass,2021,3000000,Diesel,Third Party insurance,Manual,16.3,1956,170.0,Grey,5
+SUV,42000,1,MG,MG Hector,2019,1698999,Petrol,Third Party insurance,Automatic,13.96,1451,141.0,a silver,5
+Hatchback,64685,2,Maruti,Maruti Swift,2016,488999,Petrol,Third Party,Manual,22.38,1197,88.5,Red,5
+Hatchback,71003,2,Maruti,Maruti Wagon R,2015,331000,Petrol,Comprehensive,Manual,20.51,998,67.04,Blue,5
+MUV,10000,1,Maruti,Maruti XL6,2021,1200000,Petrol,Third Party insurance,Manual,19.01,1462,103.2,Others,6
+Hatchback,122617,1,Hyundai,Hyundai i20,2013,401000,Diesel,Comprehensive,Manual,21.9,1396,88.76,Red,5
+Hatchback,93593,1,Hyundai,Hyundai i10,2015,347000,Petrol,Third Party,Manual,19.81,1086,68.05,Silver,5
+Hatchback,76000,2,Hyundai,Hyundai i20,2012,409999,Petrol,Third Party insurance,Manual,17.0,1197,78.90559999999999,Maroon,5
+Hatchback,51216,1,Hyundai,Hyundai i20,2020,764000,Petrol,Third Party insurance,Manual,18.6,1197,81.86,Silver,5
+SUV,36714,1,Hyundai,Hyundai Creta,2021,1400000,Petrol,Comprehensive,Manual,18.6,1497,113.18,Red,5
+Hatchback,61626,1,Tata,Tata Altroz,2021,831000,Diesel,Third Party insurance,Manual,23.64,1497,88.77,Red,5
+Hatchback,47741,2,Maruti,Maruti Baleno,2016,535000,Petrol,Comprehensive,Manual,21.4,1197,83.1,Silver,5
+Hatchback,63000,1,Hyundai,Hyundai Grand i10,2014,465000,Petrol,Third Party insurance,Manual,18.9,1197,82.0,Orange,5
+Hatchback,60894,1,Renault,Renault KWID,2020,415000,Petrol,Zero Dep,Manual,21.74,999,67.0,Red,5
+Sedan,70000,2,Honda,Honda City,2008,229999,Petrol,Third Party insurance,Manual,16.9,1497,98.63199999999999,Others,5
+Hatchback,51000,1,Hyundai,Hyundai i10,2012,320000,Petrol,Third Party insurance,Manual,19.81,1086,68.05,Grey,5
+Hatchback,110000,1,Tata,Tata Tiago,2016,400000,Petrol,Third Party insurance,Manual,23.84,1199,84.0,Others,5
+SUV,10000,1,Hyundai,Hyundai Venue,2022,1200000,Petrol,Third Party insurance,Manual,23.84,1197,81.8,Black,5
+SUV,95000,1,BMW,BMW X1,2011,1100000,Diesel,Third Party insurance,Automatic,17.05,1995,184.0,Blue,5
+Sedan,66000,1,Maruti,Maruti Ciaz,2018,850000,Diesel,Comprehensive,Manual,26.82,1498,93.87,Blue,5
+SUV,80642,1,Mahindra,Mahindra Scorpio,2011,390000,Diesel,Third Party insurance,Manual,12.05,2179,120.0,Green,7
+SUV,70000,1,Hyundai,Hyundai Creta,2018,1225000,Diesel,Third Party insurance,Automatic,17.01,1582,126.2,White,5
+Hatchback,15700,1,Maruti,Maruti Baleno,2020,749000,Petrol,Zero Dep,Manual,21.01,1197,81.8,Grey,5
+SUV,81764,1,Hyundai,Hyundai Creta,2018,1001000,Petrol,Third Party,Manual,13.0,1591,121.3,Others,5
+Sedan,95933,1,Hyundai,Hyundai Verna,2018,781000,Petrol,Third Party insurance,Manual,19.1,1368,98.6,White,5
+SUV,23000,1,Jeep,Jeep Compass,2019,1650000,Petrol,Third Party insurance,Manual,16.0,1368,160.0,Grey,5
+Hatchback,85589,2,Honda,Honda Jazz,2015,426000,Petrol,Third Party insurance,Manual,18.7,1199,88.7,White,5
+Hatchback,72793,2,Hyundai,Hyundai i20,2017,616000,Petrol,Comprehensive,Manual,18.6,1197,81.83,Red,5
+Sedan,92000,1,Hyundai,Hyundai Verna,2013,490000,Diesel,Third Party insurance,Automatic,22.32,1582,126.32,White,5
+Hatchback,95255,2,Maruti,Maruti Swift,2014,428000,Petrol,Third Party insurance,Manual,22.38,1197,88.5,Silver,5
+MUV,59000,1,Toyota,Toyota Innova Crysta,2019,2275000,Diesel,Comprehensive,Manual,13.68,2393,147.51,Silver,8
+Hatchback,89242,1,Maruti,Maruti Baleno,2018,670000,Petrol,Zero Dep,Automatic,21.4,1197,83.1,Red,5
+Hatchback,40503,1,Honda,Honda Brio,2012,337000,Petrol,Comprehensive,Manual,19.4,1198,86.8,Others,5
+Sedan,20000,1,Hyundai,Hyundai Verna,2022,1350000,Diesel,Third Party insurance,Manual,25.0,1493,113.45,Black,5
+Sedan,96863,1,Honda,Honda Amaze,2018,611000,Petrol,Third Party,Manual,19.5,1199,88.76,White,5
+SUV,30300,1,Honda,Honda WR-V,2021,975000,Petrol,Third Party,Manual,16.5,1199,88.5,Grey,5
+Sedan,40000,2,Honda,Honda City,2017,825000,Petrol,Third Party insurance,Manual,17.8,1497,117.3,Others,5
+Sedan,120000,1,Honda,Honda Amaze,2014,400000,Diesel,Third Party insurance,Manual,25.8,1498,98.6,Others,5
+SUV,27892,1,Mahindra,Mahindra XUV500,2013,900000,Diesel,Not Available,Manual,15.1,2179,140.0,Purple,7
+Hatchback,90000,1,Maruti,Maruti Swift,2020,650000,Petrol,Third Party insurance,Manual,21.21,1197,81.8,Others,5
+Hatchback,100000,1,Maruti,Maruti Wagon R,2009,225000,LPG,Third Party insurance,Manual,17.3,1061,56.7134,Others,5
+Hatchback,73000,2,Hyundai,Hyundai Grand i10,2014,400000,Petrol,Comprehensive,Manual,18.9,1197,82.0,Grey,5
+Sedan,30000,1,Honda,Honda City Hybrid,2022,2250000,Petrol,Third Party insurance,Automatic,26.5,1498,96.55,Others,5
+Sedan,32152,1,Maruti,Maruti Swift Dzire,2018,707000,Petrol,Zero Dep,Automatic,21.21,1197,81.8,White,5
+Hatchback,58241,1,Maruti,Maruti Swift,2015,576000,Diesel,Comprehensive,Manual,25.2,1248,74.0,Red,5
+MUV,120000,2,Maruti,Maruti Ertiga,2014,560000,Diesel,Third Party insurance,Manual,20.77,1248,88.76,Others,7
+Sedan,94141,2,Honda,Honda City,2013,455999,Petrol,Comprehensive,Manual,16.8,1497,116.3,Black,5
+Sedan,59411,1,Maruti,Maruti Swift Dzire,2017,685000,Petrol,Zero Dep,Automatic,21.21,1197,81.8,Silver,5
+Sedan,17105,1,Volkswagen,Volkswagen Jetta,2016,1205000,Petrol,Third Party insurance,Manual,14.69,1390,120.3,Others,5
+Sedan,37100,2,Maruti,Maruti Ciaz,2018,975000,Diesel,Third Party insurance,Manual,28.09,1248,88.5,Blue,5
+Hatchback,103211,2,Hyundai,Hyundai i10,2012,289000,Petrol,Third Party,Manual,20.36,1197,78.9,Silver,5
+Hatchback,113543,2,Maruti,Maruti Wagon R,2012,290000,Petrol,Third Party,Manual,18.9,998,67.1,White,5
+SUV,120000,2,Mahindra,Mahindra Scorpio,2010,425000,Diesel,Third Party insurance,Manual,12.05,2179,120.0,Black,7
+Sedan,99334,1,Maruti,Maruti Swift Dzire,2012,407000,Diesel,Third Party,Manual,19.3,1248,73.9,White,5
+Sedan,156126,1,Ford,Ford Fiesta,2014,300000,Diesel,Comprehensive,Manual,25.01,1498,89.75,Silver,5
+SUV,68000,2,Hyundai,Hyundai Creta,2017,1195000,Diesel,Comprehensive,Automatic,17.01,1582,126.2,Red,5
+Sedan,100000,2,Honda,Honda Amaze,2014,390000,Petrol,Third Party insurance,Manual,18.0,1198,86.7,Others,5
+Hatchback,54000,1,Hyundai,Hyundai Santro Xing,2008,225000,Petrol,Third Party insurance,Manual,18.0,1086,62.0,Red,5
+Sedan,110000,2,Maruti,Maruti Swift Dzire Tour,2019,650000,Diesel,Third Party insurance,Manual,19.95,1248,74.02,Others,5
+Sedan,110000,2,Fiat,Fiat Linea,2010,250000,Petrol,Third Party insurance,Manual,16.0,1368,89.0,White,5
+Sedan,76000,1,Hyundai,Hyundai Verna,2011,475000,Petrol,Third Party insurance,Manual,17.43,1396,105.5,Silver,5
+Sedan,60000,2,Nissan,Nissan Sunny,2020,700000,Diesel,Third Party insurance,Manual,22.71,1461,84.8,Others,5
+Hatchback,71974,1,Maruti,Maruti Baleno,2017,559000,Petrol,Third Party insurance,Manual,21.4,1197,83.1,Silver,5
+SUV,105562,1,Maruti,Maruti Vitara Brezza,2016,789000,Diesel,Third Party insurance,Manual,24.3,1248,88.5,Silver,5
+SUV,110000,2,Mahindra,Mahindra XUV500,2015,950000,Diesel,Third Party insurance,Manual,16.0,2179,140.0,Others,7
+SUV,1330,1,Maruti,Maruti Brezza,2023,1297000,Petrol,Third Party,Manual,19.89,1462,101.65,Red,5
+Sedan,30973,2,Honda,Honda Amaze,2021,750000,Petrol,Third Party insurance,Manual,18.6,1199,88.5,Red,5
+Hatchback,100000,2,Hyundai,Hyundai i10,2011,330000,Petrol,Third Party insurance,Automatic,16.95,1197,78.9,Others,5
+Hatchback,9351,1,Hyundai,Hyundai i20,2018,691000,Petrol,Third Party insurance,Manual,18.6,1197,81.83,Silver,5
+SUV,46000,1,Nissan,Nissan Terrano,2017,775000,Petrol,Third Party insurance,Manual,13.24,1598,102.5,b grey,5
+Hatchback,56133,2,Maruti,Maruti Alto 800,2013,214000,Petrol,Third Party insurance,Manual,22.05,796,47.33,White,5
+Hatchback,92370,1,Maruti,Maruti Alto K10,2013,231999,Petrol,Comprehensive,Manual,24.39,998,65.71,Silver,5
+Sedan,68000,1,Toyota,Toyota Etios,2012,425000,Petrol,Comprehensive,Manual,17.6,1496,65.71,Silver,5
+Hatchback,38313,1,Maruti,Maruti Alto K10,2014,281000,Petrol,Third Party,Manual,24.39,998,65.71,White,5
+Sedan,110000,1,Tata,Tata Zest,2019,600000,Diesel,Third Party insurance,Manual,22.95,1248,74.0,Others,5
+Sedan,10000,1,Maruti,Maruti Ciaz,2021,950000,Petrol,Third Party insurance,Manual,20.65,1462,103.25,Others,5
+Sedan,80000,2,Hyundai,Hyundai Verna,2015,600000,Petrol,Third Party insurance,Manual,17.01,1591,121.3,Others,5
+SUV,120000,3,Nissan,Nissan Terrano,2014,500000,Diesel,Third Party insurance,Manual,19.01,1461,108.5,Gray,5
+Sedan,90000,2,Volkswagen,Volkswagen Vento,2015,555000,Diesel,Third Party insurance,Manual,20.34,1498,103.2,Gray,5
+Sedan,87000,2,Volkswagen,Volkswagen Vento,2012,449000,Diesel,Third Party insurance,Manual,20.54,1598,103.5,White,5
+Hatchback,70000,2,Maruti,Maruti Baleno,2018,640000,Petrol,Third Party insurance,Manual,21.4,1197,83.1,Others,5
+Hatchback,53179,2,Maruti,Maruti Alto K10,2014,263000,Petrol,Third Party insurance,Manual,24.39,998,65.71,Silver,5
+SUV,48902,1,Tata,Tata Nexon,2020,939000,Petrol,Third Party,Manual,17.0,1198,108.5,Grey,5
+Sedan,90000,3,Hyundai,Hyundai Verna,2012,455000,Diesel,Third Party insurance,Automatic,22.32,1582,126.3,Silver,5
+Hatchback,45025,1,Hyundai,Hyundai i20,2019,777000,Petrol,Third Party insurance,Automatic,17.4,1197,81.86,Blue,5
+Hatchback,22356,1,Maruti,Maruti Baleno,2017,701000,Petrol,Third Party insurance,Automatic,21.4,1197,83.1,Blue,5
+Sedan,96000,1,Hyundai,Hyundai Verna,2014,625000,Diesel,Third Party insurance,Automatic,22.32,1582,126.32,White,5
+Hatchback,35564,2,Maruti,Maruti Celerio,2019,478000,Petrol,Comprehensive,Manual,25.24,998,65.71,Silver,5
+Hatchback,72632,1,Fiat,Fiat Punto,2016,465000,Diesel,Third Party insurance,Manual,20.3,1248,75.0,Grey,5
+Sedan,57349,1,Toyota,Toyota Etios,2015,472000,Petrol,Comprehensive,Manual,16.78,1496,88.73,Orange,5
+Sedan,31915,1,Honda,Honda Amaze,2018,604000,Diesel,Comprehensive,Manual,25.8,1498,98.6,Silver,5
+Sedan,80000,1,Volvo,Volvo S60,2012,1050000,Diesel,Third Party insurance,Automatic,13.2,2400,215.0,Maroon,5
+Hatchback,44094,1,Maruti,Maruti Wagon R,2010,273000,Petrol,Comprehensive,Manual,18.9,998,67.1,Silver,5
+MUV,236000,1,Toyota,Toyota Innova,2008,499000,Diesel,Third Party insurance,Manual,12.8,2494,100.60464,Brown,8
+Sedan,75000,1,Hyundai,Hyundai Verna,2008,299000,Diesel,Third Party insurance,Manual,16.8,1493,108.4952,White,5
+Sedan,92000,1,Skoda,Skoda Laura,2009,425000,Diesel,Third Party insurance,Automatic,17.0,1896,103.5636,Others,5
+Hatchback,148914,2,Tata,Tata Indica,2004,194000,Diesel,Not Available,Manual,13.5,1405,103.5636,Grey,5
+Hatchback,48000,1,Maruti,Maruti S-Presso,2020,499000,Petrol,Third Party insurance,Automatic,21.7,998,67.05,White,5
+SUV,10000,1,Volkswagen,Volkswagen Taigun,2022,1650000,Petrol,Third Party insurance,Automatic,18.41,999,113.98,White,5
+Sedan,33600,1,Honda,Honda Amaze,2018,750000,Diesel,Comprehensive,Manual,27.4,1498,98.63,Radiant Red M,5
+Sedan,68950,2,Toyota,Toyota Yaris,2018,724000,Petrol,Comprehensive,Automatic,17.8,1496,105.94,Others,5
+Hatchback,47763,1,Maruti,Maruti Wagon R,2012,300000,Petrol,Third Party insurance,Manual,18.9,998,67.1,Silver,5
+MUV,8368,1,Renault,Renault Triber,2022,800000,Petrol,Third Party insurance,Manual,20.0,999,71.01,White,7
+SUV,51897,1,Tata,Tata Nexon,2018,810000,Diesel,Third Party insurance,Manual,23.22,1497,113.42,Silver,5
+Sedan,40274,2,Honda,Honda Amaze,2014,459000,Petrol,Third Party,Manual,18.0,1198,86.7,Silver,5
+Sedan,90000,1,BMW,BMW 3 Series,2012,750000,Diesel,Third Party insurance,Automatic,18.88,1995,184.0,Others,5
+Hatchback,62648,1,Maruti,Maruti Swift,2016,497000,Petrol,Comprehensive,Manual,22.38,1197,88.5,Red,5
+Hatchback,58448,1,Maruti,Maruti Baleno,2017,577000,Petrol,Comprehensive,Manual,21.4,1197,83.1,Blue,5
+Hatchback,40000,1,Hyundai,Hyundai Grand i10 Nios,2022,670000,Petrol,Third Party insurance,Manual,20.7,1197,81.86,Black,5
+SUV,88695,1,Ford,Ford Ecosport,2017,690000,Diesel,Third Party insurance,Manual,22.77,1498,98.59,Others,5
+SUV,20000,1,MG,MG Hector,2021,1700000,Diesel,Third Party insurance,Manual,17.41,1956,167.68,Others,5
+Sedan,99840,1,Tata,Tata Zest,2014,252000,Diesel,Not Available,Manual,20.65,1248,88.7,White,5
+Hatchback,120000,2,Volkswagen,Volkswagen Polo,2012,294000,Diesel,Third Party insurance,Manual,22.07,1199,73.9,Others,5
+Sedan,10000,1,Hyundai,Hyundai Verna,2023,1900000,Petrol,Third Party insurance,Manual,20.0,1482,157.57,Black,5
+Sedan,20000,2,Volkswagen,Volkswagen Virtus,2022,1850000,Petrol,Third Party insurance,Automatic,18.12,999,113.98,White,5
+Sedan,20000,1,Honda,Honda Amaze,2018,700000,Petrol,Third Party insurance,Automatic,18.1,1199,88.7,Others,5
+Sedan,31000,1,Honda,Honda City,2021,1350000,Petrol,Third Party insurance,Automatic,18.0,1497,117.6,White,5
+Hatchback,93407,2,Tata,Tata Tiago,2018,470000,Petrol,Comprehensive,Manual,23.84,1199,84.0,White,5
+Hatchback,75932,2,Maruti,Maruti Swift,2011,320000,Petrol,Comprehensive,Manual,22.38,1197,88.5,Silver,5
+Hatchback,44000,1,Volkswagen,Volkswagen Polo,2015,650000,Petrol,Comprehensive,Automatic,17.21,1197,103.5,Grey,5
+Hatchback,62936,1,Hyundai,Hyundai Santro,2019,529000,Petrol,Third Party insurance,Automatic,20.3,1086,68.0,Red,5
+Hatchback,40841,1,Hyundai,Hyundai i20,2016,646000,Petrol,Comprehensive,Manual,18.6,1197,81.83,White,5
+Sedan,150000,2,Maruti,Maruti Swift Dzire,2016,480000,Diesel,Third Party insurance,Manual,26.59,1248,74.0,Others,5
+Hatchback,66561,1,Hyundai,Hyundai i20,2017,607000,Petrol,Third Party insurance,Manual,18.6,1197,81.83,Red,5
+Hatchback,114800,2,Tata,Tata Indica V2,2016,160000,Diesel,Third Party insurance,Manual,25.0,1396,69.0,Grey,5
+Hatchback,97726,1,Maruti,Maruti Celerio,2016,374000,Petrol,Third Party insurance,Manual,25.24,998,65.71,Silver,5
+SUV,81462,1,Ford,Ford Ecosport,2019,817000,Petrol,Third Party insurance,Manual,17.0,1497,121.31,Red,5
+Hatchback,120000,1,Tata,Tata Indica V2,2015,180000,Diesel,Third Party insurance,Manual,25.0,1396,69.0,Others,5
+Hatchback,31286,1,Maruti,Maruti Swift,2019,680000,Petrol,Third Party,Automatic,22.56,1197,88.5,Silver,5
+Hatchback,20000,1,Maruti,Maruti Baleno,2022,1000000,Petrol,Third Party insurance,Manual,22.35,1197,88.5,White,5
+Hatchback,20000,1,Maruti,Maruti Baleno,2022,1000000,Petrol,Third Party insurance,Manual,22.35,1197,88.5,White,5
+Sedan,57600,1,Hyundai,Hyundai Verna,2018,1080000,Petrol,Third Party insurance,Automatic,17.0,1591,121.3,Black,5
+Sedan,54000,1,Chevrolet,Chevrolet Sail,2013,315000,Petrol,Third Party insurance,Manual,18.2,1199,82.4,Silver,5
+Hatchback,50000,2,Maruti,Maruti 800,1985,160000,Petrol,Third Party insurance,Manual,16.1,796,37.0,White,4
+Hatchback,20000,1,Maruti,Maruti Baleno,2020,760000,Petrol,Third Party insurance,Manual,21.01,1197,81.8,Gray,5
+MUV,100000,2,Tata,Tata Aria,2011,300000,Diesel,Third Party insurance,Manual,13.7,2179,138.1,White,7
+Sedan,40000,2,Honda,Honda City,2017,825000,Petrol,Third Party insurance,Manual,17.8,1497,117.3,Others,5
+Sedan,49260,1,Maruti,Maruti Swift Dzire,2017,741000,Diesel,Third Party,Automatic,28.4,1248,74.02,Blue,5
+Hatchback,73069,1,Maruti,Maruti Celerio,2015,365000,Petrol,Third Party insurance,Manual,25.24,998,65.71,White,5
+Hatchback,80000,1,Maruti,Maruti Swift,2013,409999,Petrol,Third Party insurance,Manual,18.6,1197,85.8,Others,5
+Sedan,78850,1,Maruti,Maruti Swift Dzire,2014,475000,Petrol,Third Party insurance,Manual,22.41,1197,88.5,White,5
+Hatchback,89224,2,Hyundai,Hyundai i20,2016,561000,Petrol,Third Party insurance,Manual,18.6,1197,81.83,Red,5
+MUV,90000,2,Tata,Tata Hexa,2017,1200000,Diesel,Third Party insurance,Automatic,17.6,2179,153.86,Others,7
+Hatchback,59084,2,Maruti,Maruti Wagon R,2017,411000,Petrol,Comprehensive,Manual,20.51,998,67.04,White,5
+Hatchback,70000,1,Maruti,Maruti Wagon R,2016,459999,Petrol,Third Party insurance,Automatic,20.51,998,67.0,Grey,5
+Hatchback,59730,2,Maruti,Maruti Wagon R,2013,309000,Petrol,Third Party insurance,Manual,18.9,998,67.1,Silver,5
+Sedan,50933,1,Honda,Honda City,2015,594000,Petrol,Third Party,Manual,17.4,1497,117.3,White,5
+Hatchback,40000,2,Volvo,Volvo V40,2016,1800000,Diesel,Third Party insurance,Automatic,16.8,1984,150.0,Others,5
+Sedan,94426,1,Maruti,Maruti Swift Dzire,2016,516000,Petrol,Comprehensive,Manual,22.41,1197,88.5,Silver,5
+MUV,50000,2,Tata,Tata Hexa,2019,1300000,Diesel,Third Party insurance,Manual,17.6,2179,153.86,Others,7
+SUV,120000,2,Mahindra,Mahindra XUV500,2013,680000,Diesel,Third Party insurance,Manual,15.1,2179,140.0,Others,7
+Hatchback,80000,1,Volkswagen,Volkswagen Polo,2017,760000,Petrol,Third Party insurance,Automatic,17.21,1197,103.5,Others,5
+Sedan,75000,1,Skoda,Skoda Rapid,2012,499000,Diesel,Third Party insurance,Manual,20.5,1598,103.5,White,5
+SUV,78500,1,Mahindra,Mahindra XUV500,2018,1300000,Diesel,Third Party insurance,Manual,16.0,1997,140.0,White,7
+Hatchback,56000,1,Maruti,Maruti Ritz,2013,450000,Diesel,Third Party insurance,Manual,23.2,1248,73.94,Silver,5
+Hatchback,100000,1,Fiat,Fiat Punto,2014,295000,Diesel,Third Party insurance,Manual,20.3,1248,75.0,Black,5
+Hatchback,32289,2,Hyundai,Hyundai i20,2017,667000,Petrol,Third Party insurance,Automatic,18.6,1368,98.63,White,5
+SUV,106467,1,Tata,Tata Nexon,2018,790000,Petrol,Comprehensive,Automatic,17.0,1198,108.5,Blue,5
+Hatchback,75000,1,Maruti,Maruti Swift,2014,480000,Diesel,Third Party insurance,Manual,22.9,1248,74.0,Grey,5
+Sedan,109832,2,Honda,Honda City,2014,463999,Petrol,Comprehensive,Manual,17.4,1497,117.3,Red,5
+Sedan,44123,1,Hyundai,Hyundai Elantra,2018,1228000,Petrol,Third Party insurance,Automatic,14.62,1999,149.92,Silver,5
+Sedan,100000,2,Honda,Honda Amaze,2014,390000,Petrol,Third Party insurance,Manual,18.0,1198,86.7,Others,5
+SUV,121129,2,Maruti,Maruti Vitara Brezza,2017,801000,Diesel,Third Party insurance,Manual,24.3,1248,88.5,Yellow,5
+Hatchback,40000,2,Maruti,Maruti Ignis,2020,560000,Petrol,Third Party insurance,Manual,20.89,1197,81.8,Others,5
+SUV,72607,1,Mahindra,Mahindra KUV 100,2016,420000,Diesel,Third Party,Manual,25.32,1198,77.0,Red,5
+Hatchback,28467,2,Hyundai,Hyundai Grand i10,2016,472000,Petrol,Third Party insurance,Manual,18.9,1197,82.0,Red,5
+Sedan,60000,1,Skoda,Skoda Rapid,2017,750000,Petrol,Third Party insurance,Manual,15.41,1598,103.2,Black,5
+SUV,122474,1,Hyundai,Hyundai Creta,2017,1098000,Diesel,Comprehensive,Manual,19.67,1582,126.2,Black,5
+Hatchback,37665,1,Maruti,Maruti Baleno,2017,650000,Petrol,Not Available,Automatic,21.4,1197,83.1,Granite Grey,5
+SUV,152000,1,Volvo,Volvo XC 90,2017,4550000,Diesel,Third Party insurance,Automatic,17.2,1969,235.0,White,7
+Hatchback,50000,2,Maruti,Maruti Wagon R,2014,320000,Petrol,Third Party insurance,Manual,20.51,998,67.04,Others,5
+Sedan,110000,1,Honda,Honda Amaze,2018,680000,Diesel,Third Party insurance,Manual,25.8,1498,98.6,Others,5
+SUV,120000,3,Mahindra,Mahindra XUV500,2012,600000,Diesel,Third Party insurance,Manual,15.1,2179,140.0,Others,7
+Sedan,45000,1,Audi,Audi A6,2016,2699000,Diesel,Third Party insurance,Automatic,18.53,1968,187.74,Black,5
+Hatchback,85000,1,Hyundai,Hyundai Grand i10,2016,499000,Diesel,Third Party insurance,Manual,24.0,1120,70.0,Silver,5
+Sedan,61000,1,Honda,Honda City,2021,1250000,Petrol,Third Party insurance,Automatic,17.4,1497,117.6,White,5
+Hatchback,94540,1,Maruti,Maruti Swift,2014,409000,Petrol,Third Party insurance,Manual,22.38,1197,88.5,Red,5
+SUV,96620,1,Hyundai,Hyundai Creta,2018,991000,Petrol,Comprehensive,Manual,13.0,1591,121.3,White,5
+MUV,90000,3,Toyota,Toyota Innova,2013,750000,Diesel,Third Party insurance,Manual,12.99,2494,100.6,Gray,8
+Hatchback,104436,2,Hyundai,Hyundai Grand i10,2016,496000,Petrol,Third Party insurance,Automatic,18.9,1197,82.0,Silver,5
+Hatchback,28545,1,Datsun,Datsun RediGO,2017,298000,Petrol,Third Party insurance,Manual,22.7,799,53.64,Brown,5
+Hatchback,66500,1,Volkswagen,Volkswagen Polo,2019,720000,Petrol,Third Party insurance,Manual,18.78,999,75.0,Red,5
+Hatchback,80133,1,Hyundai,Hyundai i20,2017,583000,Petrol,Third Party insurance,Manual,18.6,1197,81.83,Others,5
+Sedan,106000,1,Mercedes-Benz,Mercedes-Benz C-Class,2011,1125000,Diesel,Third Party insurance,Automatic,14.84,2143,170.0,Black,5
+SUV,26852,1,Maruti,Maruti SX4 S Cross,2020,982000,Petrol,Third Party,Manual,18.55,1462,103.25,Blue,5
+Hatchback,59990,1,Maruti,Maruti Swift,2015,458000,Petrol,Third Party insurance,Manual,22.38,1197,88.5,Others,5
+SUV,110000,2,Mahindra,Mahindra XUV500,2015,950000,Diesel,Third Party insurance,Manual,16.0,2179,140.0,Others,7
+Sedan,75135,1,Honda,Honda City,2018,852999,Diesel,Third Party,Manual,25.6,1498,97.9,White,5
+Hatchback,50000,2,Hyundai,Hyundai Grand i10,2019,600000,Petrol,Third Party insurance,Manual,18.9,1197,81.86,Others,5
+Sedan,73000,1,Honda,Honda Civic,2010,390000,Petrol,Third Party insurance,Manual,13.5,1799,130.0,Silver,5
+Hatchback,70000,2,Maruti,Maruti Baleno,2018,620000,Petrol,Third Party insurance,Manual,21.4,1197,83.1,Others,5
+SUV,120000,1,Mahindra,Mahindra Scorpio,2006,400000,Diesel,Third Party insurance,Manual,12.7,2609,115.00491199999999,Others,8
+SUV,20000,1,Tata,Tata New Safari,2021,2200000,Diesel,Third Party insurance,Manual,16.14,1956,167.67,Others,7
+MUV,120000,1,Toyota,Toyota Innova,2012,750000,Diesel,Third Party insurance,Manual,12.99,2494,100.0,Others,7
+MUV,120000,2,Toyota,Toyota Innova,2013,975000,Diesel,Third Party insurance,Manual,12.99,2494,100.0,Gold,7
+Hatchback,50824,1,Maruti,Maruti Swift,2013,447000,Petrol,Third Party,Manual,22.38,1197,88.5,Others,5
+Hatchback,85507,2,Maruti,Maruti Swift,2013,409999,Diesel,Third Party insurance,Manual,22.9,1248,74.0,Others,5
+Sedan,70000,1,Hyundai,Hyundai Verna,2010,330000,Diesel,Third Party insurance,Manual,16.8,1493,108.4952,Others,5
+Hatchback,75773,2,Maruti,Maruti Ritz,2014,372000,Petrol,Comprehensive,Manual,18.5,1197,85.8,Others,5
+Hatchback,62000,1,Hyundai,Hyundai Grand i10,2016,470000,Diesel,Third Party insurance,Manual,24.0,1120,70.0,Silver,5
+Hatchback,47004,1,Hyundai,Hyundai i10,2012,297000,Petrol,Third Party,Manual,20.36,1197,78.9,Red,5
+Hatchback,110000,2,Volkswagen,Volkswagen Polo,2014,420000,Diesel,Third Party insurance,Manual,20.14,1498,88.8,Others,5
+Hatchback,97085,2,Maruti,Maruti Swift,2013,405999,Diesel,Comprehensive,Manual,22.9,1248,74.0,Silver,5
+Sedan,87449,3,Hyundai,Hyundai Verna,2014,561000,Diesel,Third Party insurance,Manual,22.32,1582,126.32,Silver,5
+Hatchback,100000,1,Maruti,Maruti Ritz,2016,350000,Diesel,Third Party insurance,Manual,23.2,1248,73.94,Others,5
+Hatchback,53338,2,Maruti,Maruti Alto,2012,193000,Petrol,Third Party insurance,Manual,19.7,796,46.3,Silver,5
+Sedan,120000,2,Honda,Honda City,2011,400000,Petrol,Third Party insurance,Manual,17.0,1497,116.38575999999999,Others,5
+Hatchback,78000,1,Hyundai,Hyundai i20,2019,765000,Diesel,Third Party insurance,Manual,22.54,1396,88.76,White,5
+MUV,112000,1,Toyota,Toyota Innova Crysta,2017,1998999,Diesel,Third Party insurance,Manual,13.68,2393,147.8,c bronze,7
+SUV,10000,1,Nissan,Nissan Magnite,2022,850000,Petrol,Third Party insurance,Manual,18.75,999,71.02,White,5
+SUV,20000,1,Maruti,Maruti Vitara Brezza,2022,1000000,Petrol,Third Party insurance,Manual,17.03,1462,103.26,Black,5
+SUV,89000,2,Mahindra,Mahindra XUV500,2012,556000,Diesel,Third Party insurance,Manual,15.1,2179,140.0,White,7
+Hatchback,100000,2,Maruti,Maruti Alto,2008,100000,Petrol,Third Party insurance,Manual,19.7,796,46.3,Others,5
+MUV,20000,1,Maruti,Maruti Ertiga,2021,1050000,Petrol,Third Party insurance,Manual,19.01,1462,103.26,Others,7
+SUV,13918,1,Nissan,Nissan Magnite,2022,909000,Petrol,Third Party insurance,Manual,20.0,999,98.63,Brown,5
+SUV,28839,1,Nissan,Nissan Magnite,2020,734000,Petrol,Third Party,Manual,18.75,999,71.02,Brown,5
+Hatchback,30000,1,Maruti,Maruti Celerio,2017,450000,Petrol,Third Party insurance,Automatic,23.1,998,67.04,Red,5
+Hatchback,16097,1,Datsun,Datsun RediGO,2018,356000,Petrol,Comprehensive,Automatic,23.0,999,67.0,Red,5
+Hatchback,23683,1,Volkswagen,Volkswagen Polo,2021,835000,Petrol,Third Party,Automatic,16.47,999,108.62,Silver,5
+MUV,10000,1,Toyota,Toyota Innova Crysta,2023,3100000,Diesel,Third Party insurance,Manual,16.47,2393,147.51,Others,7
+Hatchback,48471,2,Maruti,Maruti Alto K10,2013,233000,Petrol,Third Party insurance,Manual,24.39,998,65.71,Silver,5
+Hatchback,62437,2,Maruti,Maruti Alto K10,2013,221000,Petrol,Third Party insurance,Manual,24.39,998,65.71,Silver,5
+Sedan,45000,1,Tata,Tata Tigor,2018,549000,Petrol,Third Party insurance,Automatic,20.3,1199,84.0,Blue,5
+Sedan,15992,1,Maruti,Maruti Ciaz,2022,881000,Petrol,Third Party insurance,Manual,20.65,1462,103.25,Silver,5
+Hatchback,34000,1,Maruti,Maruti Alto 800,2018,325000,Petrol,Third Party insurance,Manual,24.7,796,47.3,Grey,5
+Hatchback,45000,1,Hyundai,Hyundai i10,2008,250000,Petrol,Third Party insurance,Manual,20.36,1197,78.9,White,5
+MUV,90000,1,Maruti,Maruti Ertiga,2016,810000,Diesel,Third Party insurance,Manual,24.2,1498,93.87,Grey,7
+SUV,40000,1,Tata,Tata Nexon,2018,1200000,Diesel,Third Party insurance,Automatic,21.5,1497,108.5,Others,5
+Hatchback,22907,1,Maruti,Maruti Swift,2022,650000,Petrol,Comprehensive,Manual,22.38,1197,88.5,White,5
+Hatchback,79000,1,Maruti,Maruti Wagon R,2012,315000,CNG,Third Party insurance,Manual,33.54,998,67.04,Silver,5
+Sedan,90000,2,Hyundai,Hyundai Xcent,2016,340000,Diesel,Third Party insurance,Manual,24.4,1120,71.0,White,5
+Hatchback,16903,2,Maruti,Maruti Alto 800,2019,333000,Petrol,Third Party insurance,Manual,24.7,796,47.3,Red,5
+Hatchback,36874,1,Nissan,Nissan Micra,2018,568000,Petrol,Third Party insurance,Automatic,19.15,1198,75.94,Blue,5
+Sedan,60000,1,Maruti,Maruti Ciaz,2017,650000,Petrol,Third Party insurance,Automatic,19.12,1373,91.1,Others,5
+Hatchback,29994,2,Maruti,Maruti Wagon R,2012,329000,Petrol,Third Party,Manual,18.9,998,67.1,Silver,5
+Hatchback,26416,2,Hyundai,Hyundai i20,2019,806000,Petrol,Third Party insurance,Automatic,17.4,1197,81.86,Silver,5
+Sedan,70000,2,Skoda,Skoda Rapid,2018,775000,Diesel,Third Party insurance,Manual,21.13,1498,108.6,Others,5
+SUV,27581,2,Honda,Honda WR-V,2018,655000,Petrol,Third Party insurance,Manual,17.5,1199,88.7,Orange,5
+SUV,80000,1,Toyota,Toyota Fortuner,2018,3250000,Diesel,Third Party insurance,Automatic,12.9,2755,174.5,Others,7
+Sedan,88126,1,Maruti,Maruti Swift Dzire,2020,672000,Petrol,Third Party insurance,Manual,21.21,1197,81.8,White,5
+SUV,72563,1,Hyundai,Hyundai Venue,2019,981000,Petrol,Third Party insurance,Automatic,18.15,998,118.35,White,5
+Hatchback,90000,2,Hyundai,Hyundai EON,2013,220000,LPG,Third Party insurance,Manual,21.1,814,55.2,Gray,5
+SUV,88060,1,Hyundai,Hyundai Creta,2016,803999,Petrol,Third Party insurance,Manual,13.0,1591,121.3,White,5
+Hatchback,20000,1,Maruti,Maruti Swift,2022,800000,Petrol,Third Party insurance,Manual,22.38,1197,88.5,White,5
+MUV,119000,2,Toyota,Toyota Innova,2015,950000,Diesel,Comprehensive,Manual,12.99,2494,100.6,Silver,7
+Hatchback,60000,1,Hyundai,Hyundai i20,2017,600000,Petrol,Third Party insurance,Manual,18.6,1197,81.83,Others,5
+SUV,45000,1,Ford,Ford Endeavour,2020,3595000,Diesel,Third Party,Automatic,12.4,1996,167.62,Golden,7
+MUV,80000,2,Kia,Kia Carnival,2021,2650000,Diesel,Third Party insurance,Automatic,14.11,2199,197.2,Black,7
+SUV,95315,1,Hyundai,Hyundai Creta,2020,1475000,Diesel,Third Party insurance,Manual,20.5,1582,126.2,Black,5
+Hatchback,100000,2,Maruti,Maruti Wagon R,2013,263000,Petrol,Third Party insurance,Manual,20.51,998,67.04,Others,5
+Hatchback,31000,1,Hyundai,Hyundai Santro Xing,2010,245000,Petrol,Third Party insurance,Manual,17.92,1086,62.1,Red,5
+SUV,109271,1,Maruti,Maruti Vitara Brezza,2019,777000,Diesel,Comprehensive,Manual,24.3,1248,88.5,Silver,5
+Hatchback,47844,2,Maruti,Maruti Ignis,2019,507000,Petrol,Zero Dep,Automatic,20.89,1197,81.8,Silver,5
+MUV,80000,2,Maruti,Maruti XL6,2021,1050000,Petrol,Third Party insurance,Manual,19.01,1462,103.2,Others,6
+Hatchback,62438,1,Maruti,Maruti Wagon R,2013,297000,Petrol,Third Party,Manual,18.9,998,67.1,Blue,5
+Hatchback,89318,3,Hyundai,Hyundai i20,2013,411000,Petrol,Third Party insurance,Manual,18.5,1197,82.9,White,5
+MUV,90000,2,Kia,Kia Carnival,2021,2600000,Diesel,Third Party insurance,Automatic,14.11,2199,197.2,Black,7
+Hatchback,29200,2,Hyundai,Hyundai Santro,2019,529000,Petrol,Zero Dep,Automatic,20.3,1086,68.0,Others,5
+SUV,40000,1,MG,MG Hector,2020,1950000,Petrol,Third Party insurance,Automatic,13.96,1451,141.0,Others,5
+Sedan,96940,1,Honda,Honda City,2019,916000,Petrol,Third Party insurance,Automatic,18.4,1498,119.35,White,5
+Sedan,65850,1,Hyundai,Hyundai Verna,2018,842000,Petrol,Comprehensive,Manual,17.0,1591,121.3,Black,5
+Hatchback,90000,1,Hyundai,Hyundai i10,2011,290000,Petrol,Third Party insurance,Manual,20.36,1197,78.9,Maroon,5
+Hatchback,38264,1,Hyundai,Hyundai Santro,2019,525000,Petrol,Third Party,Automatic,20.3,1086,68.0,Silver,5
+SUV,47000,1,Renault,Renault Duster,2018,894999,Petrol,Third Party insurance,Automatic,14.99,1498,104.5,Red,5
+SUV,77027,1,Toyota,Toyota Fortuner,2019,3600000,Diesel,Third Party insurance,Automatic,12.9,2755,174.5,White,7
+Sedan,78000,1,Honda,Honda City,2009,385000,Petrol,Third Party insurance,Manual,16.8,1497,116.4,White,5
+SUV,70000,2,Mahindra,Mahindra XUV300,2019,1000000,Diesel,Third Party insurance,Manual,20.0,1497,115.0,Blue,5
+Sedan,112000,1,Skoda,Skoda Octavia,2008,300000,Petrol,Third Party insurance,Manual,12.8,1781,108.4952,Black,5
+Sedan,138000,1,Hyundai,Hyundai Verna,2013,515000,Diesel,Third Party insurance,Manual,22.32,1582,126.32,White,5
+Hatchback,51000,1,Ford,Ford Figo,2010,299000,Diesel,Third Party insurance,Manual,20.0,1399,68.0,Others,5
+Hatchback,83462,2,Hyundai,Hyundai i10,2010,268000,Petrol,Third Party insurance,Manual,20.36,1197,78.9,Red,5
+Hatchback,26494,1,Renault,Renault KWID,2021,483000,Petrol,Third Party,Manual,21.74,999,67.0,Brown,5
+SUV,82000,1,BMW,BMW X1,2011,1299000,Diesel,Third Party insurance,Automatic,17.05,1995,184.0,Blue,5
+Hatchback,68101,1,Maruti,Maruti Baleno,2018,618000,Petrol,Comprehensive,Manual,21.4,1197,83.1,Orange,5
+Hatchback,99105,2,Maruti,Maruti Swift,2018,691000,Diesel,Comprehensive,Automatic,28.4,1248,74.0,Others,5
+SUV,90000,1,Hyundai,Hyundai Creta,2016,1000000,Diesel,Third Party insurance,Manual,19.67,1582,126.2,Others,5
+Sedan,70424,2,Maruti,Maruti Ciaz,2017,653000,Petrol,Comprehensive,Automatic,19.12,1373,91.1,Others,5
+SUV,98000,1,Maruti,Maruti Vitara Brezza,2018,990000,Diesel,Third Party insurance,Automatic,24.3,1248,88.5,White,5
+Sedan,79189,2,Honda,Honda City,2014,537000,Diesel,Third Party insurance,Manual,25.1,1498,98.6,Silver,5
+Hatchback,115218,1,Maruti,Maruti Wagon R,2011,252999,Petrol,Comprehensive,Manual,18.9,998,67.1,Others,5
+Sedan,120000,1,Hyundai,Hyundai Verna,2012,399000,Petrol,Third Party insurance,Manual,17.01,1591,121.3,Others,5
+Hatchback,119106,2,Maruti,Maruti Swift,2015,471000,Petrol,Third Party insurance,Manual,22.38,1197,88.5,Silver,5
+Sedan,60000,2,Honda,Honda City,2011,340000,Petrol,Third Party insurance,Manual,17.0,1497,116.38575999999999,Gray,5
+Hatchback,60000,1,Maruti,Maruti Swift,2017,659000,Diesel,Third Party insurance,Manual,28.4,1248,74.0,Others,5
+Hatchback,80000,1,Maruti,Maruti Alto 800,2019,370000,Petrol,Third Party insurance,Manual,22.05,796,47.33,Others,5
+Hatchback,143000,2,Maruti,Maruti Swift,2012,400000,Diesel,Third Party insurance,Manual,22.9,1248,74.0,White,5
+Hatchback,50000,1,Maruti,Maruti Swift,2018,700000,Diesel,Third Party insurance,Manual,25.2,1248,74.0,Gray,5
+Sedan,105000,1,Volkswagen,Volkswagen Passat,2011,750000,Diesel,Third Party insurance,Automatic,14.3,1968,167.7,Brown,5
+MUV,110000,1,Toyota,Toyota Innova Crysta,2016,2000000,Diesel,Third Party insurance,Automatic,11.36,2755,171.5,Others,7
+Sedan,80000,1,Honda,Honda City,2011,360000,Petrol,Third Party insurance,Manual,17.0,1497,116.38575999999999,Golden,5
+Hatchback,121617,2,Maruti,Maruti Swift,2013,368000,Petrol,Third Party,Manual,22.38,1197,88.5,Silver,5
+Sedan,83825,2,Volkswagen,Volkswagen Vento,2015,556000,Petrol,Comprehensive,Manual,15.04,1598,103.6,White,5
+Hatchback,92299,1,Maruti,Maruti Swift,2014,426000,Petrol,Not Available,Manual,18.6,1197,85.8,Black,5
+SUV,50643,2,Maruti,Maruti Vitara Brezza,2018,961000,Diesel,Zero Dep,Automatic,24.3,1248,88.5,Silver,5
+SUV,110243,2,Mahindra,Mahindra TUV 300,2018,793000,Diesel,Zero Dep,Manual,18.49,1493,100.0,Silver,7
+Sedan,92721,1,Mercedes-Benz,Mercedes-Benz C-Class,2012,990000,Diesel,Third Party insurance,Automatic,14.84,2143,170.0,Silver,5
+SUV,93104,1,Hyundai,Hyundai Creta,2016,951000,Petrol,Comprehensive,Automatic,13.0,1591,121.3,White,5
+Sedan,83858,3,Toyota,Toyota Corolla Altis,2008,300000,Petrol,Not Available,Manual,14.53,1798,138.1,Champagne Mica Metallic,5
+MUV,48869,1,Datsun,Datsun GO Plus,2021,567000,Petrol,Third Party,Manual,19.02,1198,67.05,Silver,7
+Hatchback,86555,1,Maruti,Maruti Alto K10,2017,298000,Petrol,Comprehensive,Manual,24.39,998,65.71,Black,5
+Sedan,60000,2,Volkswagen,Volkswagen Vento,2011,350000,Petrol,Third Party insurance,Manual,15.04,1598,103.6,Others,5
+MUV,39316,1,Renault,Renault Triber,2022,674000,Petrol,Zero Dep,Manual,20.0,999,71.01,Silver,7
+SUV,110000,2,Renault,Renault Duster,2014,450000,Diesel,Third Party insurance,Manual,20.45,1461,83.8,Brown,5
+Hatchback,100000,2,Tata,Tata Bolt,2016,270000,Diesel,Third Party insurance,Manual,22.95,1248,74.0,White,5
+SUV,60000,1,Hyundai,Hyundai Venue,2020,1000000,Petrol,Third Party insurance,Manual,18.27,998,118.35,Others,5
+SUV,100000,1,Mahindra,Mahindra XUV500,2016,1050000,Diesel,Third Party insurance,Manual,16.0,1997,140.0,Others,7
+Sedan,110000,2,Skoda,Skoda Laura,2012,450000,Diesel,Third Party insurance,Manual,20.0,1968,108.5,Others,5
+SUV,135000,1,Mercedes-Benz,Mercedes-Benz M-Class,2011,1725000,Diesel,Third Party insurance,Automatic,20.0,2987,162.7428,White,5
+SUV,19500,1,Toyota,Toyota Urban cruiser,2022,1175000,Petrol,Comprehensive,Automatic,18.76,1462,103.26,Brown,5
+Sedan,22127,1,Honda,Honda Amaze,2021,940000,Petrol,Comprehensive,Automatic,18.3,1199,88.76,MODERN STEEL METALLIC,5
+Hatchback,78010,2,Maruti,Maruti Alto 800,2015,250999,Petrol,Comprehensive,Manual,22.05,796,47.33,Silver,5
+SUV,14087,1,Ford,Ford Ecosport,2021,988000,Petrol,Third Party,Manual,15.9,1496,120.69,Brown,5
+SUV,30000,1,MG,MG ZS EV,2022,2675000,Electric,Third Party insurance,Automatic,15.9,0,174.33,White,5
+SUV,55253,1,Tata,Tata Nexon,2022,1157000,Diesel,Comprehensive,Manual,21.19,1497,108.49,Black,5
+SUV,63008,1,Kia,Kia Seltos,2020,1598000,Petrol,Zero Dep,Automatic,16.5,1353,138.08,Silver,5
+SUV,22000,1,MG,MG ZS EV,2022,2675000,Electric,Third Party insurance,Automatic,16.5,0,174.33,White,5
+Hatchback,73944,1,Maruti,Maruti Alto 800,2015,266000,Petrol,Third Party insurance,Manual,22.05,796,47.33,Silver,5
+Sedan,37000,1,Skoda,Skoda Superb,2021,3275000,Petrol,Third Party insurance,Automatic,15.1,1984,187.74,Brown,5
+Hatchback,52052,2,Maruti,Maruti Alto 800,2017,279000,Petrol,Third Party,Manual,22.05,796,47.33,Red,5
+Hatchback,42399,2,Hyundai,Hyundai Grand i10,2018,465000,Petrol,Third Party insurance,Manual,18.9,1197,81.86,White,5
+Sedan,50000,1,Maruti,Maruti Swift Dzire,2015,210000,Diesel,Third Party insurance,Manual,26.59,1248,74.0,Others,5
+Hatchback,64584,1,Maruti,Maruti Wagon R,2020,549000,CNG,Zero Dep,Manual,32.52,998,58.33,Silver,5
+Minivans,44000,1,Maruti,Maruti Eeco,2014,345000,Petrol,Third Party insurance,Manual,15.37,1196,73.0,Grey,5
+Hatchback,101434,1,Renault,Renault KWID,2017,300000,Petrol,Not Available,Automatic,23.01,999,67.0,White,5
+,13500,1,Maruti,Maruti Eeco,2019,495000,Petrol,Comprehensive,Manual,19.71,1197,79.65,Silver,5
+Sedan,75000,2,Volkswagen,Volkswagen Ameo,2017,475000,Diesel,Third Party insurance,Manual,21.66,1498,108.62,Brown,5
+Sedan,75000,1,Hyundai,Hyundai Verna,2012,445000,Diesel,Comprehensive,Manual,22.32,1582,126.32,White,5
+Sedan,96402,1,Honda,Honda City,2010,165000,Petrol,Not Available,Manual,17.0,1497,116.38575999999999,Bold Beige Metallic,5
+SUV,20225,1,MG,MG Hector Plus,2021,1491000,Petrol,Not Available,Automatic,17.0,1451,141.0,Starry Black,6
+Hatchback,55000,1,Hyundai,Hyundai i10,2016,290000,Petrol,Third Party insurance,Manual,19.81,1086,68.05,Red,5
+SUV,44641,1,Tata,Tata Nexon,2021,860000,Petrol,Comprehensive,Manual,17.33,1199,118.35,Others,5
+Hatchback,83958,1,Hyundai,Hyundai i10,2010,241000,Petrol,Third Party,Manual,20.36,1197,78.9,Red,5
+SUV,124406,3,Mahindra,Mahindra Scorpio,2006,121000,Diesel,Not Available,Manual,10.5,2609,120.0,White,7
+SUV,35226,2,Tata,Tata Nexon,2018,817000,Petrol,Comprehensive,Automatic,17.0,1198,108.5,Blue,5
+Hatchback,75552,2,Hyundai,Hyundai i10,2011,330000,Petrol,Third Party,Automatic,16.95,1197,78.9,Black,5
+Hatchback,107972,1,Hyundai,Hyundai i10,2010,185000,Petrol,Comprehensive,Manual,20.36,1197,78.9,Sleek Silver,5
+Sedan,46451,1,Volkswagen,Volkswagen Ameo,2019,568000,Petrol,Third Party insurance,Manual,19.44,999,75.0,White,5
+Minivans,28220,1,Maruti,Maruti Eeco,2021,470000,Petrol,Not Available,Manual,16.11,1196,72.41,Silver,5
+Hatchback,77415,1,Maruti,Maruti S-Presso,2019,457000,Petrol,Comprehensive,Automatic,21.7,998,67.05,Blue,5
+SUV,47314,1,Hyundai,Hyundai Venue,2020,1022000,Petrol,Zero Dep,Automatic,18.15,998,118.35,Blue,5
+Hatchback,50000,1,Renault,Renault KWID,2017,312000,Petrol,Third Party insurance,Automatic,24.04,999,67.0,Others,5
+Hatchback,120000,2,Tata,Tata Indica,2012,117000,Diesel,Third Party insurance,Manual,19.4,1405,70.0,Others,5
+Sedan,40000,1,Skoda,Skoda Rapid,2018,869999,Diesel,Third Party insurance,Manual,21.13,1498,108.6,Black,5
+Hatchback,80000,2,Honda,Honda Brio,2013,285000,Petrol,Third Party insurance,Manual,19.4,1198,86.8,White,5
+SUV,120000,1,Toyota,Toyota Fortuner,2018,2800000,Diesel,Third Party insurance,Manual,14.24,2755,174.5,Others,7
+,16415,1,Maruti,Maruti Eeco,2020,520000,Petrol,Comprehensive,Manual,19.71,1197,79.65,Grey,5
+Hatchback,110000,2,Maruti,Maruti Alto,2008,100000,Petrol,Third Party insurance,Manual,19.7,796,46.3,Others,5
+Hatchback,30564,1,Maruti,Maruti Wagon R,2019,550000,Petrol,Comprehensive,Automatic,20.52,1197,81.8,Grey,5
+Hatchback,90000,2,Ford,Ford Figo,2011,185000,Diesel,Third Party insurance,Manual,20.0,1399,68.0,White,5
+MUV,62674,3,Datsun,Datsun GO Plus,2019,430999,Petrol,Third Party insurance,Manual,19.83,1198,67.0,Silver,7
+Hatchback,61710,1,Honda,Honda Jazz,2018,631000,Petrol,Third Party,Automatic,18.2,1199,88.7,Brown,5
+Sedan,95000,1,Hyundai,Hyundai Verna,2012,476000,Diesel,Third Party insurance,Automatic,22.32,1582,126.32,White,5
+SUV,99215,1,Hyundai,Hyundai Creta,2017,1119000,Diesel,Third Party insurance,Automatic,17.01,1582,126.2,Silver,5
+SUV,46034,1,Tata,Tata Nexon,2019,1002000,Diesel,Zero Dep,Automatic,21.5,1497,108.5,Orange,5
+MUV,20000,1,Maruti,Maruti Ertiga,2014,685000,Petrol,Third Party,Manual,16.02,1373,93.7,White,7
+Hatchback,60993,1,Honda,Honda Brio,2013,347000,Petrol,Third Party insurance,Manual,19.4,1198,86.8,Red,5
+SUV,90000,2,Mahindra,Mahindra XUV500,2015,650000,Diesel,Third Party insurance,Manual,16.0,2179,140.0,Others,7
+Sedan,71821,1,Maruti,Maruti Swift Dzire,2017,756000,Diesel,Third Party insurance,Manual,28.4,1248,74.02,Red,5
+SUV,2486,1,MG,MG Hector,2021,1581000,Petrol,Third Party,Manual,15.81,1451,141.0,Black,5
+Sedan,60000,3,Honda,Honda Civic,2006,229999,Petrol,Third Party insurance,Automatic,12.9,1799,130.0,Others,5
+Hatchback,12740,1,Hyundai,Hyundai Grand i10 Nios,2020,584000,Petrol,Comprehensive,Manual,20.7,1197,81.86,Silver,5
+SUV,30000,1,Tata,Tata Nexon EV Prime,2022,1500000,Electric,Third Party insurance,Automatic,20.7,0,127.0,Others,5
+Hatchback,79079,2,Hyundai,Hyundai Grand i10,2018,400000,Diesel,Not Available,Manual,24.0,1186,73.97,Fiery Red,5
+Hatchback,28522,1,Tata,Tata Altroz,2022,535000,Petrol,Comprehensive,Manual,19.33,1199,86.83,White,5
+Sedan,67200,1,Mahindra,Mahindra E Verito,2018,409999,Electric,Third Party insurance,Automatic,19.33,0,41.57,White,5
+Sedan,50000,1,Mahindra,Mahindra E Verito,2018,295000,Electric,Third Party insurance,Automatic,19.33,0,41.57,White,5
+Sedan,46000,1,Volvo,Volvo S60,2018,2200000,Diesel,Third Party insurance,Automatic,27.03,1969,190.0,Black,5
+SUV,20000,1,Mahindra,Mahindra Scorpio N,2022,2120000,Diesel,Third Party insurance,Manual,27.03,2198,172.45,Others,7
+SUV,80000,1,Mahindra,Mahindra KUV 100,2016,310000,Diesel,Third Party insurance,Manual,25.32,1198,77.0,Red,5
+Hatchback,29011,1,Renault,Renault KWID,2017,337000,Petrol,Third Party insurance,Manual,23.01,999,67.0,Silver,5
+SUV,42372,1,Kia,Kia Seltos,2020,1259000,Petrol,Comprehensive,Manual,16.8,1497,113.43,Red,5
+SUV,23147,2,Mahindra,Mahindra Thar,2021,1400000,Petrol,Not Available,Automatic,16.8,1997,150.0,Grey,4
+Sedan,22310,1,Honda,Honda City,2022,1291000,Diesel,Comprehensive,Manual,24.1,1498,97.89,Black,5
+Hatchback,18732,1,Maruti,Maruti Celerio,2016,498000,Petrol,Comprehensive,Automatic,26.0,998,65.71,Others,5
+Sedan,95417,1,Toyota,Toyota Etios,2016,470000,Diesel,Not Available,Manual,23.59,1364,67.05,Symphony Silver,5
+Sedan,62015,2,Honda,Honda City,2014,545000,Petrol,Comprehensive,Automatic,18.0,1497,117.3,Red,5
+SUV,54000,1,Ford,Ford Ecosport,2018,894999,Petrol,Third Party insurance,Automatic,14.7,1496,120.69,Black,5
+Hatchback,51237,2,Renault,Renault KWID,2019,426999,Petrol,Third Party insurance,Automatic,23.01,999,67.0,Red,5
+Sedan,36140,1,Hyundai,Hyundai Xcent,2017,559000,Petrol,Comprehensive,Manual,20.14,1197,81.86,White,5
+Hatchback,80000,2,Maruti,Maruti Swift,2018,650000,Diesel,Third Party insurance,Manual,28.4,1248,74.0,Others,5
+Hatchback,70895,2,Maruti,Maruti Celerio,2016,443000,Petrol,Third Party insurance,Automatic,26.0,998,65.71,White,5
+Hatchback,90000,1,Hyundai,Hyundai Grand i10,2018,480000,Diesel,Third Party insurance,Manual,24.0,1186,73.97,Others,5
+Sedan,60000,1,Tata,Tata Tigor,2020,660000,Petrol,Third Party insurance,Manual,19.28,1199,84.82,Others,5
+Hatchback,70237,1,Maruti,Maruti Wagon R,2007,145000,Petrol,Third Party insurance,Manual,21.79,998,67.05,White,5
+Hatchback,89592,1,Hyundai,Hyundai Santro Xing,2007,165000,Petrol,Third Party insurance,Manual,17.0,1086,67.05,Blue,5
+Sedan,79333,1,Chevrolet,Chevrolet Cruze,2010,380000,Diesel,Third Party insurance,Manual,18.3,1991,147.9,White,5
+Sedan,82144,1,Maruti,Maruti Swift Dzire,2014,450000,Diesel,Third Party insurance,Manual,23.4,1248,74.0,White,5
+Sedan,40000,1,BMW,BMW 3 Series,2018,2300000,Diesel,Third Party insurance,Automatic,22.69,1995,190.0,Others,5
+Sedan,129517,2,Volkswagen,Volkswagen Vento,2015,500000,Diesel,Not Available,Automatic,21.21,1498,103.2,Blue,5
+Hatchback,39881,1,Hyundai,Hyundai Santro,2019,531000,Petrol,Comprehensive,Automatic,20.3,1086,68.0,Others,5
+Hatchback,12280,1,Tata,Tata Altroz,2021,744000,Petrol,Comprehensive,Manual,18.5,1199,108.48,Others,5
+Sedan,70000,1,Tata,Tata Manza,2011,200000,Diesel,Third Party insurance,Manual,21.12,1248,88.8,Others,5
+Hatchback,49984,1,Maruti,Maruti Celerio,2020,576000,CNG,Comprehensive,Manual,30.47,998,58.33,Silver,5
+SUV,51258,1,Ford,Ford Ecosport,2017,760000,Petrol,Comprehensive,Automatic,14.8,1497,121.36,White,5
+Sedan,90000,2,Hyundai,Hyundai Xcent Prime,2019,400000,CNG,Third Party insurance,Manual,14.8,1197,65.39,White,5
+Hatchback,95178,2,Honda,Honda Brio,2012,273000,Petrol,Comprehensive,Manual,19.4,1198,86.8,Black,5
+Sedan,62000,1,Volkswagen,Volkswagen Ameo,2016,480000,Petrol,Third Party insurance,Manual,19.44,999,75.0,Grey,5
+SUV,119781,1,Hyundai,Hyundai Creta,2016,922000,Diesel,Third Party insurance,Manual,19.67,1582,126.2,White,5
+Hatchback,31750,2,Tata,Tata Altroz,2021,746000,Petrol,Zero Dep,Manual,18.5,1199,108.48,Others,5
+MUV,78000,1,Toyota,Toyota Innova Crysta,2019,2400000,Diesel,Comprehensive,Automatic,11.36,2755,171.5,Grey,7
+Sedan,110000,1,Hyundai,Hyundai Verna,2013,490000,Diesel,Third Party insurance,Manual,22.32,1582,126.32,White,5
+Hatchback,73400,1,Hyundai,Hyundai Grand i10,2014,459999,Petrol,Third Party insurance,Automatic,18.9,1197,82.0,White,5
+Hatchback,40000,3,Tata,Tata Tiago,2018,490000,Petrol,Third Party insurance,Automatic,23.84,1199,83.83,Others,5
+SUV,49500,1,Mahindra,Mahindra XUV500,2020,1589000,Diesel,Third Party insurance,Automatic,15.1,2179,152.87,White,7
+Sedan,14991,1,Hyundai,Hyundai Verna,2022,930000,Petrol,Not Available,Manual,17.7,1497,113.18,Phantom Black,5
+MUV,32363,1,Maruti,Maruti Ertiga,2022,702000,Petrol,Not Available,Manual,19.01,1462,103.26,Metallic Magma Grey,7
+Sedan,60000,2,Hyundai,Hyundai Verna,2013,465000,Diesel,Third Party insurance,Manual,22.32,1582,126.32,Others,5
+Hatchback,99750,2,Hyundai,Hyundai Santro,2002,50000,Petrol,Not Available,Manual,22.32,999,126.32,Silver,5
+Sedan,15504,1,Skoda,Skoda Rapid,2021,1008000,Petrol,Third Party insurance,Manual,18.97,999,108.62,Silver,5
+SUV,20858,1,Ford,Ford Ecosport,2018,813000,Petrol,Third Party,Manual,17.0,1497,121.31,White,5
+SUV,30000,1,Jeep,Jeep Compass,2019,1485000,Petrol,Third Party insurance,Automatic,16.0,1368,160.0,Others,5
+SUV,90305,2,Mahindra,Mahindra Thar,2018,744000,Diesel,Third Party insurance,Manual,16.55,2498,105.0,Green,6
+SUV,99128,1,Hyundai,Hyundai Creta,2017,989000,Diesel,Third Party,Manual,19.67,1582,126.2,Red,5
+SUV,30000,1,Jeep,Jeep Compass,2019,1485000,Petrol,Third Party insurance,Automatic,16.0,1368,160.0,Others,5
+Sedan,52597,2,Honda,Honda Amaze,2014,408000,Petrol,Comprehensive,Manual,18.0,1198,86.7,Others,5
+Hatchback,112921,3,Maruti,Maruti Swift,2015,400000,Diesel,Not Available,Manual,25.2,1248,74.0,White,5
+Sedan,73626,1,Maruti,Maruti Swift Dzire,2014,492000,Diesel,Third Party insurance,Manual,23.4,1248,74.0,Black,5
+Hatchback,42964,1,Renault,Renault KWID,2018,446000,Petrol,Third Party,Automatic,24.04,999,67.0,Others,5
+Sedan,100000,2,Maruti,Maruti Ciaz,2016,500000,Diesel,Third Party insurance,Manual,28.09,1248,88.5,Silver,5
+SUV,89906,1,Jeep,Jeep Compass,2017,1103000,Diesel,Comprehensive,Manual,17.1,1956,170.0,Others,5
+SUV,80000,2,Mahindra,Mahindra Scorpio,2018,960000,Diesel,Third Party insurance,Manual,16.36,2179,120.0,Red,7
+Sedan,110000,1,Maruti,Maruti Swift Dzire Tour,2019,550000,Diesel,Third Party insurance,Manual,19.95,1248,74.02,Others,5
+SUV,40000,1,Kia,Kia Seltos,2019,1500000,Diesel,Third Party insurance,Manual,20.8,1493,113.43,White,5
+Hatchback,40000,2,Tata,Tata Tiago,2020,660000,Petrol,Third Party insurance,Automatic,19.0,1199,84.82,Others,5
+Sedan,90000,1,Hyundai,Hyundai Xcent,2015,365000,Diesel,Third Party insurance,Manual,24.4,1120,71.0,Others,5
+Sedan,30000,1,Hyundai,Hyundai Elantra,2018,1450000,Diesel,Third Party insurance,Automatic,18.23,1582,126.2,Others,5
+Hatchback,45416,1,Volkswagen,Volkswagen Polo,2021,900000,Petrol,Not Available,Automatic,16.47,999,108.62,Grey,5
+Hatchback,64000,1,Hyundai,Hyundai i20,2013,385000,Petrol,Third Party insurance,Manual,18.5,1197,82.85,Golden,5
+SUV,16769,1,MG,MG Hector,2021,1639000,Petrol,Comprehensive,Automatic,18.5,1451,141.0,Red,5
+SUV,30580,1,Nissan,Nissan Magnite,2021,765000,Petrol,Comprehensive,Manual,20.0,999,98.63,Silver,5
+SUV,47000,1,Land Rover,Land Rover Range Rover Evoque,2018,4500000,Diesel,Third Party insurance,Automatic,15.68,1999,177.0,White,5
+SUV,25596,2,Tata,Tata Nexon,2021,991000,Petrol,Third Party,Automatic,17.05,1199,118.35,Black,5
+SUV,89681,1,Maruti,Maruti Vitara Brezza,2017,744000,Diesel,Comprehensive,Manual,24.3,1248,88.5,Others,5
+MUV,42000,1,Maruti,Maruti Ertiga,2018,825000,Petrol,Third Party insurance,Manual,19.01,1462,103.26,Grey,7
+MUV,29302,1,Renault,Renault Triber,2022,770000,Petrol,Zero Dep,Automatic,18.2,999,71.01,Brown,7
+Sedan,41200,1,Honda,Honda City,2015,745000,Petrol,Comprehensive,Automatic,18.0,1497,117.3,Silver,5
+SUV,70076,1,Tata,Tata Harrier,2021,1775000,Diesel,Third Party,Manual,16.35,1956,167.67,Others,5
+SUV,90114,1,Ford,Ford Ecosport,2018,765000,Diesel,Comprehensive,Manual,23.0,1498,98.96,Others,5
+SUV,80000,4,Mahindra,Mahindra Bolero,2014,250000,Diesel,Third Party insurance,Manual,15.96,2523,63.0,Others,9
+SUV,5933,1,Renault,Renault Duster,2019,835000,Petrol,Third Party,Automatic,14.99,1498,104.5,Others,5
+Hatchback,30000,1,Tata,Tata Tiago,2017,470000,Petrol,Third Party insurance,Manual,23.84,1199,84.0,Others,5
+Hatchback,60000,1,Maruti,Maruti Alto K10,2011,200000,Petrol,Third Party insurance,Manual,20.92,998,67.1,Others,5
+SUV,20000,1,Mercedes-Benz,Mercedes-Benz EQC,2021,7500000,Electric,Third Party insurance,Automatic,20.92,0,402.3,Blue,5
+Sedan,66000,1,Audi,Audi A4,2013,1299000,Diesel,Third Party insurance,Automatic,16.55,1968,147.51,White,5
+Sedan,135000,1,Mercedes-Benz,Mercedes-Benz C-Class,2002,225000,Petrol,Third Party insurance,Manual,16.55,1968,147.51,White,5
+Sedan,110000,1,Skoda,Skoda Octavia,2007,249000,Diesel,Third Party insurance,Manual,18.7,1896,65.09712,c brown,5
+Sedan,133000,1,Skoda,Skoda Superb,2007,279000,Diesel,Third Party insurance,Automatic,11.9,2496,160.967424,Black,5
+Hatchback,61000,1,Ford,Ford Figo,2011,310000,Diesel,Third Party insurance,Manual,20.0,1399,68.0,chill,5
+Hatchback,29828,1,Renault,Renault KWID,2021,418000,Petrol,Third Party,Manual,21.46,999,67.06,White,5
+Hatchback,58321,3,Hyundai,Hyundai EON,2015,256999,Petrol,Third Party insurance,Manual,21.1,814,55.2,Silver,5
+Sedan,85000,1,Volvo,Volvo S60,2012,799000,Diesel,Third Party insurance,Automatic,18.5,1985,163.0,White,5
+Sedan,37566,2,Honda,Honda Amaze,2019,622000,Petrol,Third Party insurance,Manual,19.5,1199,88.76,White,5
+Hatchback,60610,2,Maruti,Maruti Alto 800,2016,238000,Petrol,Third Party insurance,Manual,22.05,796,47.33,Silver,5
+Hatchback,30000,1,Volkswagen,Volkswagen Polo,2011,365000,Petrol,Third Party insurance,Manual,16.47,1198,73.9,Others,5
+Hatchback,32098,1,Maruti,Maruti Baleno,2019,753000,Petrol,Comprehensive,Automatic,21.4,1197,83.1,White,5
+Sedan,100000,1,Honda,Honda City,2015,520000,Diesel,Third Party insurance,Manual,26.0,1498,98.6,Others,5
+Hatchback,48556,1,Renault,Renault KWID,2018,394000,Petrol,Third Party,Automatic,23.01,999,67.0,Red,5
+Sedan,76654,1,Hyundai,Hyundai Verna,2018,991000,Diesel,Third Party insurance,Automatic,22.0,1582,126.2,White,5
+SUV,50000,1,Hyundai,Hyundai Creta,2021,1400000,Diesel,Third Party insurance,Manual,22.0,1493,113.45,Others,5
+Hatchback,39014,1,Toyota,Toyota Glanza,2019,773000,Petrol,Third Party insurance,Automatic,19.56,1197,81.8,Others,5
+Hatchback,105000,2,Fiat,Fiat Abarth Avventura,2015,475000,Petrol,Third Party insurance,Manual,17.1,1368,140.0,Black,5
+Sedan,95000,1,Chevrolet,Chevrolet Cruze,2010,465000,Diesel,Third Party insurance,Manual,18.3,1991,147.9,Black,5
+SUV,122000,1,Toyota,Toyota Fortuner,2010,1199000,Diesel,Third Party insurance,Manual,11.5,2982,168.66072,Silver,7
+SUV,10000,1,Mahindra,Mahindra XUV300,2022,1300000,Petrol,Third Party insurance,Automatic,16.5,1197,108.62,Others,5
+SUV,45000,1,Ford,Ford Endeavour,2020,3575000,Diesel,Third Party,Automatic,12.62,2198,158.0,White,7
+SUV,80000,1,Ford,Ford Ecosport,2017,700000,Diesel,Third Party insurance,Manual,23.0,1498,98.96,Others,5
+SUV,120000,1,Ford,Ford Ecosport,2015,450000,Diesel,Third Party insurance,Manual,22.77,1498,98.59,Others,5
+SUV,44989,1,Ford,Ford Endeavour,2020,3900000,Diesel,Third Party insurance,Automatic,12.4,1996,167.62,Silver,7
+Hatchback,68336,2,Hyundai,Hyundai EON,2016,289000,Petrol,Third Party,Manual,21.1,814,55.2,Silver,5
+Hatchback,79202,1,Maruti,Maruti Swift,2013,403000,Petrol,Third Party,Manual,22.38,1197,88.5,White,5
+MUV,150000,2,Toyota,Toyota Innova,2008,380000,Diesel,Third Party insurance,Manual,12.8,2494,100.60464,Silver,8
+Hatchback,101883,2,Honda,Honda Jazz,2018,617000,Diesel,Third Party,Manual,27.3,1498,98.6,Black,5
+SUV,105405,1,Hyundai,Hyundai Creta,2018,1192000,Diesel,Zero Dep,Automatic,17.6,1582,126.2,Others,5
+Sedan,120000,1,Hyundai,Hyundai Verna,2012,340000,Petrol,Third Party insurance,Manual,17.01,1591,121.3,Others,5
+Hatchback,55053,1,Volkswagen,Volkswagen Polo,2021,925000,Petrol,Third Party insurance,Automatic,16.47,999,108.62,White,5
+Hatchback,10000,1,Maruti,Maruti Baleno,2022,850000,Petrol,Third Party insurance,Manual,22.35,1197,88.5,Gray,5
+Hatchback,111046,1,Maruti,Maruti Alto K10,2015,225000,Petrol,Third Party insurance,Manual,24.39,998,65.71,Silver,5
+Hatchback,1457,1,Maruti,Maruti Celerio,2022,692000,CNG,Zero Dep,Manual,35.6,998,55.92,Red,5
+Sedan,90000,2,Hindustan Motors,Hindustan Motors Contessa,1997,425000,Petrol,Third Party insurance,Manual,14.0,1799,55.92,Red,5
+SUV,63752,1,Mahindra,Mahindra Bolero Neo,2022,1180000,Diesel,Zero Dep,Manual,17.29,1493,100.0,White,7
+Sedan,80000,2,Tata,Tata Manza,2010,195000,Diesel,Third Party insurance,Manual,19.0,1248,88.7688,White,5
+Sedan,50000,1,Hyundai,Hyundai Xcent,2018,420000,Diesel,Third Party insurance,Manual,25.4,1186,73.97,Others,5
+Hatchback,91543,3,Maruti,Maruti Swift,2012,350000,Diesel,Not Available,Manual,22.9,1248,74.0,Metallic Glistening Grey,5
+Sedan,60000,1,Ford,Ford Aspire,2019,590000,Diesel,Third Party insurance,Manual,26.1,1498,99.23,Others,5
+SUV,30000,1,Tata,Tata Nexon,2021,960000,Diesel,Third Party insurance,Manual,23.22,1497,113.42,Others,5
+SUV,74320,1,Maruti,Maruti Vitara Brezza,2017,750000,Diesel,Not Available,Manual,24.3,1248,88.5,Granite Grey,5
+Hatchback,70000,2,Chevrolet,Chevrolet Beat,2014,240000,Diesel,Third Party insurance,Manual,25.44,936,56.3,Gray,5
+SUV,10000,1,Maruti,Maruti Brezza,2022,1260000,Petrol,Third Party insurance,Manual,19.89,1462,101.65,Red,5
+Sedan,53326,2,Honda,Honda City,2016,617000,Petrol,Comprehensive,Manual,17.8,1497,117.3,Brown,5
+Sedan,97112,1,Maruti,Maruti Swift Dzire,2019,770000,Diesel,Third Party insurance,Automatic,28.4,1248,74.02,Others,5
+SUV,10000,1,Hyundai,Hyundai Creta,2022,1800000,Petrol,Third Party insurance,Automatic,28.4,1353,138.12,Others,5
+Hatchback,8345,1,Hyundai,Hyundai Grand i10,2018,642000,Petrol,Comprehensive,Automatic,18.9,1197,81.86,Silver,5
+Hatchback,45852,2,Maruti,Maruti Wagon R,2014,318000,Petrol,Third Party insurance,Manual,20.51,998,67.04,Silver,5
+Hatchback,90000,1,Volkswagen,Volkswagen Polo,2016,620000,Diesel,Third Party insurance,Manual,21.49,1498,108.5,Others,5
+SUV,12094,1,Nissan,Nissan Magnite,2022,951000,Petrol,Zero Dep,Automatic,17.4,999,98.63,Others,5
+MUV,20000,1,Maruti,Maruti Ertiga,2021,900000,Petrol,Third Party insurance,Automatic,17.99,1462,103.26,Others,7
+SUV,30111,1,Hyundai,Hyundai Alcazar,2021,1807999,Diesel,Third Party insurance,Manual,20.4,1493,113.98,Silver,6
+Hatchback,34840,1,Maruti,Maruti Swift,2018,669000,Petrol,Third Party insurance,Automatic,22.56,1197,88.5,Silver,5
+Sedan,100000,2,Skoda,Skoda Rapid,2018,680000,Diesel,Third Party insurance,Automatic,21.72,1498,108.6,Others,5
+Sedan,110807,2,Volkswagen,Volkswagen Vento,2013,376000,Diesel,Third Party insurance,Manual,20.54,1598,103.6,White,5
+SUV,10000,1,Kia,Kia Sonet,2022,1050000,Petrol,Third Party insurance,Manual,18.4,1197,81.86,Others,5
+Hatchback,131561,5,Hyundai,Hyundai Santro Xing,2004,96000,Petrol,Not Available,Manual,17.0,1086,81.86,Silver,5
+Sedan,38370,1,Hyundai,Hyundai Aura,2021,600000,Petrol,Not Available,Manual,20.5,1197,81.86,Fiery Red,5
+SUV,60000,1,Maruti,Maruti Vitara Brezza,2020,880000,Petrol,Third Party insurance,Manual,17.03,1462,103.26,Others,5
+MUV,30000,1,Renault,Renault Triber,2020,640000,Petrol,Third Party insurance,Manual,20.0,999,71.01,Others,7
+Sedan,120000,2,Hyundai,Hyundai Accent,2003,80000,Diesel,Third Party insurance,Manual,13.1,1493,80.87823999999999,Others,5
+SUV,50000,1,Mahindra,Mahindra XUV300,2020,850000,Petrol,Third Party insurance,Manual,17.0,1197,108.6,White,5
+Sedan,70000,1,BMW,BMW 3 Series,2012,900000,Diesel,Third Party insurance,Automatic,18.88,1995,184.0,Others,5
+Hatchback,90566,2,Hyundai,Hyundai Santro Xing,2010,195000,Petrol,Third Party insurance,Manual,17.92,1086,62.1,Silver,5
+Sedan,67370,2,Hyundai,Hyundai Verna,2019,1033000,Diesel,Third Party insurance,Automatic,22.0,1582,126.2,Black,5
+SUV,20000,1,MG,MG Hector,2021,1700000,Petrol,Third Party insurance,Automatic,13.96,1451,141.0,White,5
+MUV,19661,1,Mahindra,Mahindra Marazzo,2021,1268000,Diesel,Third Party insurance,Manual,17.3,1497,120.96,Others,8
+SUV,58177,1,Hyundai,Hyundai Venue,2021,1120000,Diesel,Third Party,Manual,23.7,1493,98.6,Red,5
+SUV,40000,1,Maruti,Maruti SX4 S Cross,2020,850000,Petrol,Third Party insurance,Manual,18.55,1462,103.25,Others,5
+SUV,76134,1,Renault,Renault Duster,2013,408000,Diesel,Third Party insurance,Manual,20.46,1461,83.8,White,5
+SUV,40000,1,Hyundai,Hyundai Creta,2022,1750000,Diesel,Third Party insurance,Manual,20.46,1493,113.45,Others,5
+Sedan,90102,1,Honda,Honda City,2014,542000,Diesel,Third Party insurance,Manual,26.0,1498,98.6,Silver,5
+Hatchback,32329,2,Datsun,Datsun RediGO,2019,287000,Petrol,Third Party insurance,Manual,22.7,799,53.64,Silver,5
+SUV,50000,1,Mahindra,Mahindra XUV300,2020,810000,Petrol,Third Party insurance,Manual,17.0,1197,108.6,White,5
+SUV,72812,2,Tata,Tata Nexon,2020,969000,Petrol,Zero Dep,Automatic,16.35,1199,118.36,Green,5
+Sedan,120000,3,Hyundai,Hyundai Xcent,2016,280000,Diesel,Third Party insurance,Manual,24.4,1120,71.0,Others,5
+Hatchback,30000,2,Hyundai,Hyundai i20,2019,700000,Petrol,Third Party insurance,Automatic,17.4,1197,81.86,Orange,5
+Hatchback,60000,2,Hyundai,Hyundai i20,2019,700000,Diesel,Third Party insurance,Manual,22.54,1396,88.76,Others,5
+Sedan,70000,2,Ford,Ford Fiesta,2008,200000,Petrol,Third Party insurance,Manual,15.3,1596,88.76,Gray,5
+Sedan,60000,2,Honda,Honda Amaze,2018,600000,Diesel,Third Party insurance,Manual,25.8,1498,98.6,Others,5
+SUV,30000,2,Hyundai,Hyundai Venue,2022,875000,Petrol,Third Party insurance,Manual,17.52,1197,81.86,Others,5
+SUV,24916,1,Jeep,Jeep Compass,2022,3180000,Diesel,Comprehensive,Automatic,14.9,1956,167.67,Grey,5
+Hatchback,25121,1,Hyundai,Hyundai EON,2015,279000,Petrol,Third Party,Manual,21.1,814,55.2,Blue,5
+Hatchback,95916,2,Hyundai,Hyundai i10,2011,244000,Petrol,Comprehensive,Manual,20.36,1197,78.9,Red,5
+Hatchback,98076,2,Maruti,Maruti Ritz,2016,300000,Diesel,Not Available,Manual,23.2,1248,73.94,Superior white,5
+Hatchback,84020,1,Renault,Renault KWID,2018,339000,Petrol,Third Party insurance,Manual,23.01,999,67.0,Others,5
+Hatchback,49692,2,Maruti,Maruti Alto 800,2015,259000,Petrol,Third Party,Manual,22.05,796,47.33,Others,5
+Hatchback,90000,2,Hyundai,Hyundai Getz,2008,150000,Petrol,Third Party insurance,Manual,14.2,1341,81.765928,Others,5
+Hatchback,96502,1,Hyundai,Hyundai i10,2011,269000,Petrol,Third Party insurance,Manual,20.36,1197,78.9,White,5
+Sedan,60000,2,Jaguar,Jaguar XJ,2018,6300000,Diesel,Third Party insurance,Automatic,14.47,2993,301.73,White,5
+Hatchback,37634,1,Renault,Renault KWID,2019,400000,Petrol,Third Party insurance,Manual,23.01,999,67.0,Red,5
+Hatchback,64934,2,Maruti,Maruti Alto,2012,191000,Petrol,Comprehensive,Manual,19.7,796,46.3,Silver,5
+Hatchback,30000,1,Maruti,Maruti Wagon R,2022,580000,Petrol,Third Party insurance,Manual,24.35,998,65.71,Others,5
+Hatchback,61609,2,Hyundai,Hyundai i10,2011,324000,Petrol,Third Party,Automatic,16.95,1197,78.9,Others,5
+Sedan,80000,1,Skoda,Skoda Rapid,2018,860000,Petrol,Third Party insurance,Automatic,14.84,1598,103.2,Others,5
+SUV,60000,1,Tata,Tata New Safari,2021,2100000,Diesel,Third Party insurance,Manual,16.14,1956,167.67,Others,6
+MUV,70000,2,Maruti,Maruti Ertiga,2016,790000,Diesel,Third Party insurance,Manual,24.52,1248,88.5,Others,7
+Hatchback,80000,2,Maruti,Maruti Wagon R,2012,260000,CNG,Third Party insurance,Manual,26.2,998,58.2,Others,5
+Hatchback,120000,2,Tata,Tata Indica V2,2016,100000,Diesel,Third Party insurance,Manual,25.0,1396,69.0,Others,5
+SUV,80000,3,Tata,Tata Hexa,2017,1050000,Diesel,Third Party insurance,Manual,17.6,2179,153.86,Others,7
+Hatchback,120000,1,Maruti,Maruti Ritz,2016,270000,Diesel,Third Party insurance,Manual,23.2,1248,73.94,Others,5
+Hatchback,120000,2,Maruti,Maruti Swift,2009,250000,Diesel,Third Party insurance,Manual,17.8,1248,73.974,Others,5
+Hatchback,30088,1,Volkswagen,Volkswagen Polo,2021,732000,Petrol,Zero Dep,Manual,17.74,999,75.1,Others,5
+Hatchback,65094,2,Datsun,Datsun RediGO,2017,273000,Petrol,Comprehensive,Manual,22.7,799,53.64,White,5
+Hatchback,120000,2,Maruti,Maruti Swift,2009,250000,Diesel,Third Party insurance,Manual,17.8,1248,73.974,Others,5
+Hatchback,55024,1,Maruti,Maruti Alto,2010,175000,Petrol,Comprehensive,Manual,19.7,796,46.3,Others,5
+MUV,21687,2,Renault,Renault Triber,2020,702000,Petrol,Third Party insurance,Automatic,18.2,999,71.01,Silver,7
+MUV,120000,1,Toyota,Toyota Innova,2013,1085000,Diesel,Third Party insurance,Manual,12.99,2494,100.0,Others,7
+Hatchback,72762,1,Datsun,Datsun GO,2017,279000,Petrol,Third Party insurance,Manual,19.02,1198,67.05,Others,5
+Pickup Trucks,30000,1,Tata,Tata Yodha Pickup,2021,825000,Diesel,Third Party insurance,Manual,19.02,2956,85.0,Others,2
+Hatchback,52791,1,Maruti,Maruti Wagon R,2017,387000,Petrol,Zero Dep,Automatic,20.51,998,67.0,White,5
+SUV,67879,1,Renault,Renault Duster,2012,383000,Diesel,Third Party,Manual,20.45,1461,83.8,Silver,5
+Hatchback,60053,1,Maruti,Maruti Baleno,2018,600000,Petrol,Not Available,Manual,21.4,1197,83.1,Nexa Blue,5
+SUV,23316,1,Nissan,Nissan Magnite,2021,813000,Petrol,Third Party insurance,Manual,18.75,999,71.02,White,5
+Hatchback,50000,2,Renault,Renault KWID,2017,350000,Petrol,Third Party insurance,Automatic,24.04,999,67.0,Others,5
+Hatchback,100000,2,Hyundai,Hyundai Santro Xing,2007,155000,Petrol,Third Party insurance,Manual,17.92,1086,62.1,Others,5
+Hatchback,60000,2,Hyundai,Hyundai EON,2016,180000,LPG,Third Party insurance,Manual,21.1,814,55.2,Others,5
+Sedan,20000,1,Honda,Honda City,2018,1050000,Petrol,Third Party insurance,Automatic,18.0,1497,117.6,Others,5
+Hatchback,120000,1,Tata,Tata Indica V2,2015,180000,Diesel,Third Party insurance,Manual,17.88,1405,48.21,Others,5
+SUV,30000,2,Jeep,Jeep Compass,2018,890000,Petrol,Third Party insurance,Manual,16.0,1368,160.0,Others,5
+Hatchback,70000,1,Maruti,Maruti Swift,2019,700000,Diesel,Third Party insurance,Manual,28.4,1248,74.0,Others,5
+SUV,10000,2,Nissan,Nissan Magnite,2022,640000,Petrol,Third Party insurance,Manual,18.75,999,71.02,White,5
+Hatchback,42203,2,Renault,Renault KWID,2016,290000,Petrol,Third Party insurance,Manual,25.17,799,53.3,Silver,5
+SUV,27653,1,Maruti,Maruti SX4 S Cross,2020,999000,Petrol,Comprehensive,Automatic,18.43,1462,103.25,Others,5
+SUV,100000,2,Audi,Audi Q5,2013,1800000,Diesel,Third Party insurance,Automatic,14.16,1968,174.3,White,5
+Hatchback,67429,1,Datsun,Datsun GO,2016,286000,Petrol,Third Party insurance,Manual,19.02,1198,67.05,Silver,5
+Hatchback,65192,1,Renault,Renault KWID,2017,293000,Petrol,Third Party insurance,Manual,23.01,999,67.0,Silver,5
+Hatchback,120000,2,Hyundai,Hyundai Santro Xing,2003,95000,Petrol,Third Party insurance,Manual,23.01,1086,67.0,Gray,5
+Hatchback,26893,1,Tata,Tata Altroz,2021,753000,Diesel,Comprehensive,Manual,23.64,1497,88.77,Silver,5
+Sedan,90000,2,Chevrolet,Chevrolet Cruze,2010,350000,Diesel,Third Party insurance,Automatic,18.1,1991,147.9,Others,5
+SUV,70167,2,Maruti,Maruti Vitara Brezza,2018,688000,Diesel,Third Party insurance,Manual,24.3,1248,88.5,Red,5
+Minivans,84542,2,Maruti,Maruti Eeco,2016,376000,Petrol,Third Party insurance,Manual,15.37,1196,73.0,Silver,5
+Hatchback,50000,1,Volkswagen,Volkswagen Polo,2015,600000,Petrol,Third Party insurance,Automatic,17.21,1197,103.6,Others,5
+Hatchback,36027,1,Maruti,Maruti Alto 800,2017,325000,Petrol,Third Party,Manual,24.7,796,47.3,Black,5
+Hatchback,50000,1,Volkswagen,Volkswagen Polo,2015,600000,Petrol,Third Party insurance,Automatic,17.21,1197,103.6,Others,5
+Hatchback,50000,1,Volkswagen,Volkswagen Polo,2015,600000,Petrol,Third Party insurance,Automatic,17.21,1197,103.6,Others,5
+Hatchback,10000,1,Ford,Ford Figo,2013,400000,Petrol,Third Party insurance,Manual,15.6,1196,70.02,Others,5
+Sedan,90000,5,Volkswagen,Volkswagen Vento,2011,300000,Diesel,Third Party insurance,Manual,20.54,1598,103.6,Others,5
+MUV,70000,3,Tata,Tata Indigo Marina,2004,80000,Petrol,Third Party insurance,Manual,12.8,1396,83.8372,Others,5
+SUV,40000,1,Hyundai,Hyundai Creta,2022,1685000,Petrol,Third Party insurance,Manual,12.8,1497,113.18,Others,5
+Hatchback,100000,1,Tata,Tata Indica V2,2016,200000,Diesel,Third Party insurance,Manual,25.0,1396,69.0,Others,5
+Sedan,40000,1,Honda,Honda Amaze,2021,720000,Petrol,Third Party insurance,Manual,18.6,1199,88.76,Others,5
+SUV,77687,1,Honda,Honda WR-V,2021,1064000,Petrol,Third Party,Manual,16.5,1199,88.5,White,5
+Hatchback,52456,1,Maruti,Maruti Baleno,2016,647000,Petrol,Comprehensive,Manual,21.4,1197,83.1,Silver,5
+Sedan,24000,1,Volkswagen,Volkswagen Virtus,2022,1625000,Petrol,Third Party insurance,Manual,19.4,999,113.98,White,5
+Hatchback,42674,1,Honda,Honda Jazz,2021,846000,Petrol,Third Party insurance,Manual,17.1,1199,88.5,Red,5
+Hatchback,44903,1,Maruti,Maruti S-Presso,2019,458000,Petrol,Third Party insurance,Manual,21.7,998,65.71,Orange,5
+Hatchback,65000,1,Maruti,Maruti Wagon R,2008,195000,Petrol,Third Party insurance,Manual,21.79,998,67.05,Silver,5
+Hatchback,72205,2,Maruti,Maruti Swift,2013,425000,Petrol,Comprehensive,Manual,22.38,1197,88.5,White,5
+SUV,70000,1,Ford,Ford Ecosport,2015,650000,Diesel,Third Party insurance,Manual,22.77,1498,98.59,Others,5
+Hatchback,101306,2,Volkswagen,Volkswagen Polo,2019,584000,Petrol,Third Party,Manual,17.74,999,75.1,Blue,5
+Hatchback,60000,2,Hyundai,Hyundai i10,2009,220000,Petrol,Third Party insurance,Manual,20.36,1197,78.9,Others,5
+Hatchback,81028,1,Maruti,Maruti Swift,2018,619000,Petrol,Third Party insurance,Manual,22.38,1197,88.5,Green,5
+SUV,80000,1,Honda,Honda WR-V,2018,700000,Diesel,Third Party insurance,Manual,25.5,1498,98.6,White,5
+SUV,20000,1,Tata,Tata Harrier,2021,2000000,Diesel,Third Party insurance,Automatic,14.6,1956,167.67,Others,5
+Sedan,120000,1,Maruti,Maruti Swift Dzire,2016,450000,Diesel,Third Party insurance,Manual,26.59,1248,74.0,Others,5
+SUV,20000,1,Tata,Tata Harrier,2021,2000000,Diesel,Third Party insurance,Automatic,14.6,1956,167.67,Others,5
+Hatchback,120000,2,Hyundai,Hyundai Santro Xing,2010,180000,Petrol,Third Party insurance,Manual,14.6,1086,62.0,Gray,5
+Hatchback,52442,3,Renault,Renault KWID,2016,224000,Petrol,Not Available,Manual,25.17,799,53.3,Red,5
+SUV,90001,2,Renault,Renault Duster,2014,381000,Diesel,Not Available,Manual,19.01,1461,108.45,White,5
+Hatchback,87966,3,Maruti,Maruti Swift,2014,459000,Petrol,Third Party insurance,Manual,22.38,1197,88.5,White,5
+Hatchback,105614,1,Maruti,Maruti Baleno,2019,631000,Petrol,Third Party insurance,Manual,21.4,1197,83.1,White,5
+Sedan,11249,1,Honda,Honda City,2020,951000,Petrol,Not Available,Manual,18.6,1498,119.35,Modern Steel Metallic,5
+Hatchback,39264,2,Hyundai,Hyundai Grand i10,2018,532000,Petrol,Comprehensive,Manual,18.9,1197,81.86,Silver,5
+Hatchback,68359,1,Maruti,Maruti Alto 800,2017,301000,Petrol,Third Party,Manual,24.7,796,47.3,White,5
+Hatchback,49500,1,Hyundai,Hyundai i10,2010,245000,Petrol,Not Available,Manual,19.81,1086,68.05,Grey,5
+Hatchback,51466,2,Volkswagen,Volkswagen Polo,2021,977999,Petrol,Third Party,Automatic,16.47,999,108.62,Red,5
+Sedan,99929,2,Volkswagen,Volkswagen Vento,2013,315000,Diesel,Not Available,Manual,20.54,1598,103.6,Brown,5
+Hatchback,64628,1,Maruti,Maruti Wagon R,2013,345000,Petrol,Third Party,Manual,18.9,998,67.1,Silver,5
+Hatchback,79151,1,Maruti,Maruti Ignis,2018,574000,Petrol,Third Party insurance,Automatic,20.89,1197,81.8,Red,5
+Hatchback,78131,1,Maruti,Maruti Celerio,2017,405000,Petrol,Comprehensive,Manual,23.1,998,67.04,Silky silver,5
+SUV,103256,1,Maruti,Maruti Vitara Brezza,2017,827999,Diesel,Zero Dep,Manual,24.3,1248,88.5,Red,5
+Sedan,0,3,Tata,Tata Indigo,2007,20161,Diesel,Not Available,Manual,17.0,1405,69.0424,Arctic Silver,5
+SUV,45794,1,Maruti,Maruti Vitara Brezza,2021,779000,Petrol,Not Available,Manual,17.03,1462,103.26,Red,5
+MUV,60000,1,Honda,Honda Mobilio,2016,600000,Diesel,Third Party insurance,Manual,24.2,1498,98.6,Others,7
+Sedan,20000,1,Maruti,Maruti Swift Dzire,2022,785000,Petrol,Third Party insurance,Manual,22.41,1197,88.5,Others,5
+MUV,60000,1,Honda,Honda Mobilio,2016,600000,Diesel,Third Party insurance,Manual,24.2,1498,98.6,Others,7
+Sedan,80000,2,Chevrolet,Chevrolet Sail,2015,229999,Petrol,Third Party insurance,Manual,18.2,1199,82.4,White,5
+SUV,60000,1,Ford,Ford Ecosport,2015,630000,Petrol,Third Party insurance,Automatic,16.5,1499,110.0,White,5
+Hatchback,60000,2,Hyundai,Hyundai i20,2010,260000,Petrol,Third Party insurance,Manual,17.0,1197,78.90559999999999,Others,5
+Hatchback,67407,3,Hyundai,Hyundai i20,2016,585000,Petrol,Third Party,Manual,18.6,1197,81.83,Red,5
+Hatchback,58713,2,Maruti,Maruti S-Presso,2019,442000,Petrol,Comprehensive,Manual,21.7,998,65.71,Blue,5
+Sedan,90000,1,Volkswagen,Volkswagen Jetta,2016,1000000,Diesel,Third Party insurance,Automatic,16.96,1968,138.03,Blue,5
+Hatchback,33798,1,Hyundai,Hyundai Grand i10 Nios,2021,618000,Petrol,Third Party,Manual,20.7,1197,81.86,Red,5
+Hatchback,33190,1,Hyundai,Hyundai Grand i10,2016,490000,Petrol,Third Party insurance,Manual,18.9,1197,82.0,White,5
+Hatchback,30000,1,Maruti,Maruti Swift,2020,585000,Petrol,Third Party insurance,Manual,21.21,1197,81.8,Blue,5
+Hatchback,56346,2,Hyundai,Hyundai i20,2016,588000,Petrol,Third Party insurance,Manual,18.6,1197,81.83,Red,5
+Sedan,80000,1,Maruti,Maruti Ciaz,2017,850000,Diesel,Third Party insurance,Manual,28.09,1248,88.5,Others,5
+Hatchback,59512,2,Maruti,Maruti Baleno,2018,704000,Petrol,Third Party insurance,Automatic,21.4,1197,83.1,Silver,5
+SUV,120000,2,Chevrolet,Chevrolet Captiva,2010,409999,Diesel,Third Party insurance,Automatic,12.12,2231,184.0,Others,7
+Hatchback,81342,2,Maruti,Maruti Ignis,2017,583000,Diesel,Third Party insurance,Automatic,26.8,1248,74.0,Red,5
+SUV,40000,1,Jeep,Jeep Compass,2018,1500000,Diesel,Third Party insurance,Manual,17.1,1956,170.0,Others,5
+Hatchback,10000,1,Hyundai,Hyundai i20 N Line,2022,1150000,Petrol,Third Party insurance,Automatic,20.25,998,118.41,Others,5
+SUV,60000,1,Ford,Ford Ecosport,2015,630000,Petrol,Third Party insurance,Automatic,16.5,1499,110.0,Others,5
+Hatchback,120000,2,Ford,Ford Figo,2011,150000,Diesel,Third Party insurance,Manual,20.0,1399,68.0,Others,5
+Sedan,110000,1,Maruti,Maruti Swift Dzire,2017,650000,Diesel,Third Party insurance,Manual,26.59,1248,74.0,Others,5
+Pickup Trucks,20000,1,Mahindra,Mahindra Bolero Pik Up Extra Long,2020,850000,Diesel,Third Party insurance,Manual,26.59,2523,75.09,Others,2
+SUV,30000,1,Honda,Honda WR-V,2017,720000,Diesel,Third Party insurance,Manual,25.5,1498,98.6,Gray,5
+Hatchback,44478,1,Maruti,Maruti Alto K10,2018,350000,Petrol,Comprehensive,Manual,24.39,998,65.71,Others,5
+Hatchback,29765,2,Hyundai,Hyundai Grand i10 Nios,2020,646000,Petrol,Third Party insurance,Manual,20.7,1197,81.86,Blue,5
+SUV,30000,1,Tata,Tata Harrier,2021,2300000,Diesel,Third Party insurance,Automatic,14.6,1956,167.67,White,5
+Hatchback,83688,1,Maruti,Maruti Baleno,2017,570000,Petrol,Comprehensive,Manual,21.4,1197,83.1,Blue,5
+Hatchback,52704,2,Hyundai,Hyundai Grand i10,2018,586000,Petrol,Comprehensive,Automatic,18.9,1197,81.86,Others,5
+SUV,40000,2,Jeep,Jeep Compass,2017,1250000,Diesel,Third Party insurance,Manual,17.1,1956,170.0,Others,5
+Hatchback,51278,2,Maruti,Maruti Ignis,2019,504000,Petrol,Third Party insurance,Manual,20.89,1197,81.8,Others,5
+SUV,110000,1,Ford,Ford Ecosport,2013,450000,Diesel,Third Party insurance,Manual,22.7,1498,89.84,Others,5
+Hatchback,89218,1,Maruti,Maruti Wagon R,2015,336000,Petrol,Third Party,Manual,20.51,998,67.04,Silver,5
+Sedan,88900,1,Maruti,Maruti Swift Dzire,2018,798000,Diesel,Third Party insurance,Automatic,28.4,1248,74.02,Red,5
+Hatchback,70000,1,Chevrolet,Chevrolet Spark,2009,100000,Petrol,Third Party insurance,Manual,16.5,995,62.13816,Others,5
+Hatchback,96639,1,Renault,Renault KWID,2018,362000,Petrol,Third Party insurance,Manual,23.01,999,67.0,Silver,5
+Sedan,19100,1,Honda,Honda Amaze,2019,750000,Petrol,Comprehensive,Manual,19.5,1199,88.76,White,5
+Sedan,100000,2,Ford,Ford Ikon,2004,90000,Petrol,Third Party insurance,Manual,14.2,1597,90.74144,Silver,5
+MUV,70000,2,Maruti,Maruti XL6,2021,1030000,Petrol,Third Party insurance,Manual,19.01,1462,103.2,Others,6
+Hatchback,10000,2,Tata,Tata Tiago,2021,700000,Petrol,Third Party insurance,Manual,19.01,1199,84.82,Others,5
+Hatchback,100000,3,Hyundai,Hyundai Grand i10,2014,395000,Diesel,Third Party insurance,Manual,24.0,1120,70.0,Others,5
+Sedan,50000,1,Skoda,Skoda Rapid,2019,830000,Petrol,Third Party insurance,Manual,14.3,1598,103.2,Others,5
+SUV,120000,1,Toyota,Toyota Fortuner,2014,1500000,Diesel,Third Party insurance,Automatic,12.55,2982,168.5,Others,7
+Hatchback,114000,1,Hyundai,Hyundai i20,2011,280000,Petrol,Third Party insurance,Manual,18.5,1197,78.90559999999999,White,5
+Hatchback,57435,1,Hyundai,Hyundai Santro,2019,484999,Petrol,Comprehensive,Manual,20.3,1086,68.0,Yellow,5
+Hatchback,24978,2,Hyundai,Hyundai Santro,2019,495000,Petrol,Third Party insurance,Manual,20.3,1086,68.0,Brown,5
+Sedan,73322,1,Hyundai,Hyundai Xcent,2016,450000,Petrol,Not Available,Automatic,19.1,1197,82.0,Sleek Silver,5
+Hatchback,47784,2,Honda,Honda Brio,2014,397000,Petrol,Third Party insurance,Manual,19.4,1198,86.8,Silver,5
+Hatchback,80643,1,Toyota,Toyota Glanza,2020,716000,Petrol,Third Party insurance,Automatic,19.56,1197,81.8,Others,5
+Sedan,48683,1,Skoda,Skoda Rapid,2019,830000,Petrol,Not Available,Manual,14.3,1598,103.2,White,5
+Hatchback,87908,1,Maruti,Maruti Wagon R Stingray,2016,380000,Petrol,Third Party insurance,Manual,20.51,998,67.04,White,5
+Sedan,120000,1,Chevrolet,Chevrolet Sail,2013,200000,Petrol,Third Party insurance,Manual,18.2,1199,82.4,White,5
+Hatchback,61822,1,Maruti,Maruti Celerio,2016,459999,Petrol,Comprehensive,Automatic,23.1,998,67.04,White,5
+Hatchback,23748,1,Maruti,Maruti Alto 800,2021,409999,Petrol,Third Party,Manual,22.05,796,47.33,Silver,5
+Hatchback,120000,2,Volkswagen,Volkswagen Polo,2010,250000,Petrol,Third Party insurance,Manual,16.47,1198,73.9,Others,5
+Hatchback,84484,1,Maruti,Maruti Wagon R,2016,408000,Petrol,Third Party insurance,Automatic,20.51,998,67.0,Silver,5
+Hatchback,10000,1,Renault,Renault KWID,2018,400000,Petrol,Third Party insurance,Automatic,24.04,999,67.0,Others,5
+Hatchback,10000,1,Renault,Renault KWID,2018,400000,Petrol,Third Party insurance,Automatic,24.04,999,67.0,Others,5
+Hatchback,60000,1,Mercedes-Benz,Mercedes-Benz B Class,2014,1100000,Petrol,Third Party insurance,Automatic,11.9,1595,120.7,Others,5
+Hatchback,70000,2,Hyundai,Hyundai i20,2011,310000,Petrol,Third Party insurance,Manual,17.0,1197,78.90559999999999,Others,5
+Hatchback,50000,2,Maruti,Maruti Swift,2018,650000,Petrol,Third Party insurance,Automatic,21.21,1197,81.8,Others,5
+Hatchback,100000,1,Tata,Tata Bolt,2015,350000,Diesel,Third Party insurance,Manual,22.95,1248,74.0,Others,5
+MUV,150000,1,Toyota,Toyota Innova,2005,304000,Diesel,Third Party insurance,Manual,12.8,2494,100.60464,Blue,8
+SUV,40000,2,Tata,Tata Nexon,2018,750000,Petrol,Third Party insurance,Manual,17.0,1198,108.5,White,5
+Hatchback,70145,1,Maruti,Maruti Alto 800,2014,254999,Petrol,Comprehensive,Manual,22.05,796,47.33,Silver,5
+SUV,70226,1,Honda,Honda WR-V,2021,836000,Petrol,Comprehensive,Manual,16.5,1199,88.5,Others,5
+SUV,30000,1,Tata,Tata Nexon,2021,1175000,Petrol,Third Party insurance,Automatic,16.35,1199,118.36,Others,5
+Hatchback,67993,2,Maruti,Maruti Wagon R,2015,363000,Petrol,Third Party insurance,Manual,20.51,998,67.04,Red,5
+Hatchback,73224,2,Maruti,Maruti Baleno,2018,729000,Petrol,Comprehensive,Automatic,21.4,1197,83.1,Blue,5
+MUV,150000,2,Toyota,Toyota Innova Crysta,2016,1600000,Diesel,Third Party insurance,Manual,13.68,2393,147.8,Others,7
+Sedan,75199,2,Honda,Honda City,2017,773000,Petrol,Comprehensive,Manual,17.8,1497,117.3,Red,5
+SUV,40000,1,Jeep,Jeep Compass,2018,1450000,Diesel,Third Party insurance,Manual,17.1,1956,170.0,Others,5
+Hatchback,58671,1,Maruti,Maruti Swift,2016,590000,Petrol,Third Party insurance,Manual,22.38,1197,88.5,White,5
+Hatchback,54187,1,Maruti,Maruti Swift,2019,582000,Petrol,Zero Dep,Manual,22.38,1197,88.5,Blue,5
+Sedan,43000,1,Mercedes-Benz,Mercedes-Benz E-Class,2019,4850000,Diesel,Third Party insurance,Automatic,16.1,1950,191.7,Black,5
+Hatchback,63457,2,Hyundai,Hyundai i20,2014,552000,Petrol,Comprehensive,Manual,18.6,1197,81.83,Red,5
+Sedan,117189,1,Honda,Honda City,2014,500000,Diesel,Not Available,Manual,25.1,1498,98.6,Urban Titanium Metallic,5
+SUV,110000,1,Mahindra Ssangyong,Mahindra Ssangyong Rexton,2014,800000,Diesel,Third Party insurance,Automatic,11.18,2696,184.0,Others,7
+SUV,20000,1,Toyota,Toyota Urban cruiser,2021,950000,Petrol,Third Party insurance,Manual,17.03,1462,103.26,Silver,5
+SUV,12727,1,Ford,Ford Ecosport,2020,819999,Petrol,Not Available,Manual,15.9,1496,120.69,Smoke Grey,5
+SUV,70000,2,Tata,Tata Hexa,2017,1050000,Diesel,Third Party insurance,Manual,17.6,2179,153.86,Others,7
+Hatchback,50000,1,Hyundai,Hyundai Santro Xing,2009,180000,Petrol,Third Party insurance,Manual,17.92,1086,62.1,Others,5
+SUV,20000,1,Kia,Kia Sonet,2022,1300000,Petrol,Third Party insurance,Manual,18.2,998,118.36,Red,5
+Hatchback,58547,2,Datsun,Datsun RediGO,2019,341000,Petrol,Comprehensive,Manual,22.7,799,53.64,Red,5
+Hatchback,70784,1,Hyundai,Hyundai i20 Active,2018,708000,Petrol,Third Party,Manual,17.19,1197,81.86,White,5
+SUV,80000,2,Jaguar,Jaguar F-Pace,2018,3600000,Diesel,Third Party insurance,Automatic,16.38,1999,177.0,White,5
+Hatchback,94681,2,Maruti,Maruti Ritz,2014,367000,Petrol,Comprehensive,Manual,18.5,1197,85.8,White,5
+SUV,37421,2,Mahindra,Mahindra Thar,2013,522000,Diesel,Comprehensive,Manual,16.55,2498,105.0,Grey,6
+SUV,40000,1,Mahindra,Mahindra Thar,2021,1500000,Petrol,Third Party insurance,Automatic,16.55,1997,150.0,Others,4
+Sedan,100456,1,Skoda,Skoda Rapid,2016,765000,Diesel,Third Party,Manual,21.13,1498,108.6,Black,5
+Sedan,80000,2,Honda,Honda Civic,2008,250000,Petrol,Third Party insurance,Manual,13.5,1799,130.0,Others,5
+Hatchback,95036,2,Maruti,Maruti Swift,2013,425000,Petrol,Comprehensive,Manual,22.38,1197,88.5,White,5
+Hatchback,96632,2,Hyundai,Hyundai EON,2015,260000,Petrol,Comprehensive,Manual,21.1,814,55.2,Silver,5
+Sedan,80000,2,Honda,Honda Civic,2008,250000,Petrol,Third Party insurance,Manual,13.5,1799,130.0,Others,5
+Hatchback,60976,1,Maruti,Maruti Alto 800,2015,256999,Petrol,Third Party insurance,Manual,22.05,796,47.33,Red,5
+Hatchback,120000,1,Maruti,Maruti Zen,2001,69000,Petrol,Third Party insurance,Manual,17.3,993,59.1792,Blue,5
+Hatchback,88046,3,Chevrolet,Chevrolet Spark,2008,50000,Petrol,Not Available,Manual,18.0,995,62.0,Black,5
+SUV,103000,1,Volvo,Volvo XC60,2016,1625000,Diesel,Third Party insurance,Automatic,14.7,1984,181.0,White,5
+SUV,9800,1,Jeep,Jeep Compass,2019,1650000,Petrol,Third Party insurance,Manual,16.0,1368,160.0,White,5
+SUV,92000,1,Audi,Audi Q5,2010,1150000,Petrol,Third Party insurance,Automatic,9.74,1984,208.0,White,5
+MUV,59000,1,Honda,Honda Mobilio,2014,499000,Petrol,Third Party insurance,Manual,17.3,1497,117.3,Silver,7
+Sedan,93000,1,Chevrolet,Chevrolet Sail,2013,315000,Diesel,Third Party insurance,Manual,22.1,1248,74.0,Grey,5
+SUV,10000,1,Tata,Tata Punch,2022,980000,Petrol,Third Party insurance,Automatic,18.8,1199,86.63,Others,5
+SUV,70451,2,Maruti,Maruti Vitara Brezza,2017,821000,Diesel,Third Party insurance,Manual,24.3,1248,88.5,White,5
+Hatchback,73838,2,Maruti,Maruti Swift,2018,568000,Petrol,Third Party insurance,Automatic,22.56,1197,88.5,Silver,5
+SUV,20000,1,Hyundai,Hyundai Alcazar,2022,2100000,Petrol,Third Party insurance,Automatic,14.2,1999,156.9,Others,6
+Hatchback,22726,1,Renault,Renault KWID,2020,446000,Petrol,Third Party,Manual,22.3,799,53.26,Silver,5
+Hatchback,98700,2,Maruti,Maruti Ignis,2017,555000,Diesel,Third Party insurance,Automatic,26.8,1248,74.0,Blue,5
+SUV,20000,1,MG,MG Astor,2022,1850000,Petrol,Third Party insurance,Automatic,14.34,1349,138.08,Others,5
+Hatchback,97909,2,Maruti,Maruti Baleno,2018,559000,Diesel,Comprehensive,Manual,27.39,1248,74.0,Red,5
+SUV,30000,1,Ford,Ford Ecosport,2020,1050000,Diesel,Third Party insurance,Manual,21.7,1498,98.96,Others,5
+Hatchback,77945,2,Hyundai,Hyundai Grand i10,2013,412000,Petrol,Comprehensive,Manual,18.9,1197,82.0,Red,5
+Sedan,86017,1,Maruti,Maruti Swift Dzire,2017,615000,Petrol,Comprehensive,Manual,21.21,1197,81.8,Silver,5
+SUV,20000,1,Hyundai,Hyundai Creta,2021,1810000,Diesel,Third Party insurance,Manual,21.21,1493,113.45,White,5
+Hatchback,83596,1,Maruti,Maruti Wagon R,2017,390000,Petrol,Comprehensive,Manual,20.51,998,67.04,Silver,5
+Hatchback,80000,2,Maruti,Maruti 800,2004,70000,Petrol,Third Party insurance,Manual,16.1,796,37.0,Others,4
+Sedan,110000,2,Chevrolet,Chevrolet Optra,2005,70000,Petrol,Third Party insurance,Manual,17.4,1599,102.57728,Gray,5
+Hatchback,40000,1,Ford,Ford Freestyle,2019,560000,Petrol,Third Party insurance,Manual,19.0,1194,94.68,Brown,5
+Sedan,50000,1,Maruti,Maruti Swift Dzire,2022,750000,Petrol,Third Party insurance,Manual,22.41,1197,88.5,Gray,5
+SUV,120000,2,Toyota,Toyota Qualis,2001,170000,Diesel,Third Party insurance,Manual,13.1,2446,73.974,Silver,10
+SUV,10000,1,Mahindra,Mahindra XUV300,2022,1320000,Petrol,Third Party insurance,Manual,16.82,1197,108.62,Blue,5
+Hatchback,100000,1,Ford,Ford Figo,2015,220000,Diesel,Third Party insurance,Manual,25.83,1498,99.0,White,5
+SUV,79464,1,Maruti,Maruti SX4 S Cross,2018,850000,Diesel,Not Available,Manual,25.1,1248,88.5,Pearl Arctic White,5
+Sedan,87113,1,Maruti,Maruti Swift Dzire,2016,523000,Petrol,Third Party insurance,Manual,22.41,1197,88.5,White,5
+Sedan,52315,1,Maruti,Maruti Swift Dzire,2015,583000,Petrol,Comprehensive,Manual,22.41,1197,88.5,Silver,5
+SUV,10000,1,MG,MG Hector Plus,2020,1750000,Petrol,Third Party insurance,Automatic,11.67,1451,141.0,White,6
+Hatchback,60817,2,Hyundai,Hyundai Grand i10,2015,451000,Petrol,Comprehensive,Manual,18.9,1197,82.0,Red,5
+Sedan,55797,2,Hyundai,Hyundai Xcent,2018,668000,Diesel,Comprehensive,Manual,25.4,1186,73.97,White,5
+Sedan,110000,2,Hyundai,Hyundai Verna,2006,195000,Diesel,Third Party insurance,Manual,16.8,1493,108.4952,Black,5
+SUV,64285,1,Maruti,Maruti Vitara Brezza,2017,824000,Diesel,Third Party,Manual,24.3,1248,88.5,Silver,5
+Sedan,120000,2,Skoda,Skoda Octavia,2006,160000,Diesel,Third Party insurance,Manual,18.7,1896,65.09712,White,5
+Sedan,85948,1,Maruti,Maruti Swift Dzire,2016,622000,Diesel,Third Party insurance,Automatic,26.59,1248,74.0,Brown,5
+Sedan,105746,3,Honda,Honda City,2013,425000,Petrol,Comprehensive,Manual,16.8,1497,116.4,Others,5
+MUV,100000,1,Honda,Honda Mobilio,2015,450000,Petrol,Third Party insurance,Manual,17.3,1497,117.3,Others,7
+Sedan,45949,1,Volkswagen,Volkswagen Vento,2020,1019999,Petrol,Third Party,Manual,17.69,999,108.62,Silver,5
+Sedan,92000,1,Toyota,Toyota Corolla,2006,325000,Petrol,Third Party insurance,Manual,13.4,1794,123.28999999999999,Silver,5
+Sedan,83000,1,Audi,Audi A6,2012,1499000,Diesel,Third Party insurance,Automatic,17.68,1968,174.33,White,5
+Hatchback,60000,1,Hyundai,Hyundai i10,2008,249000,Petrol,Third Party insurance,Manual,20.36,1197,78.9,Others,5
+Hatchback,75000,1,Hyundai,Hyundai i20 Active,2018,799000,Diesel,Third Party insurance,Manual,21.19,1396,88.76,Red,5
+Hatchback,80000,2,Maruti,Maruti 800,2004,70000,Petrol,Third Party insurance,Manual,16.1,796,37.0,Others,4
+Hatchback,71000,1,Maruti,Maruti Swift,2013,390000,Diesel,Third Party insurance,Manual,22.9,1248,74.0,Black,5
+Sedan,84000,1,Hyundai,Hyundai Verna,2015,580000,Petrol,Third Party insurance,Manual,17.01,1591,121.3,White,5
+Hatchback,110000,1,Maruti,Maruti Celerio,2018,380000,Petrol,Third Party insurance,Manual,23.1,998,67.04,Others,5
+Hatchback,48659,1,Hyundai,Hyundai i10,2011,264000,Petrol,Third Party insurance,Manual,20.36,1197,78.9,Red,5
+Hatchback,26970,1,Hyundai,Hyundai Santro,2019,531000,Petrol,Third Party insurance,Automatic,20.3,1086,68.0,Red,5
+Sedan,92000,1,Mercedes-Benz,Mercedes-Benz C-Class,2007,525000,Petrol,Third Party insurance,Manual,11.7,1796,175.56495999999999,White,5
+SUV,29766,1,Tata,Tata Nexon,2022,1024000,Diesel,Third Party,Manual,23.22,1497,113.42,White,5
+Hatchback,6580,1,Renault,Renault KWID,2022,552000,Petrol,Comprehensive,Manual,21.46,999,67.06,Blue,5
+SUV,80000,2,BMW,BMW X1,2011,950000,Diesel,Third Party insurance,Automatic,17.05,1995,184.0,Others,5
+Hatchback,98910,2,Maruti,Maruti Swift,2012,382000,Petrol,Third Party insurance,Manual,22.38,1197,88.5,Silver,5
+SUV,80000,2,BMW,BMW X1,2011,950000,Diesel,Third Party insurance,Automatic,17.05,1995,184.0,Others,5
+Sedan,48247,1,Maruti,Maruti Ciaz,2017,715000,Petrol,Third Party insurance,Automatic,19.12,1373,91.1,Others,5
+Hatchback,54515,2,Honda,Honda Brio,2016,382000,Petrol,Third Party insurance,Manual,19.4,1198,86.8,Silver,5
+SUV,10000,2,Maruti,Maruti Vitara Brezza,2018,860000,Diesel,Third Party insurance,Manual,24.3,1248,88.5,Others,5
+Hatchback,80546,1,Maruti,Maruti Baleno,2017,635000,Petrol,Comprehensive,Manual,21.4,1197,83.1,Red,5
+Hatchback,10000,2,Maruti,Maruti Wagon R,2013,325000,LPG,Third Party insurance,Manual,14.6,998,61.6,Others,5
+Hatchback,20000,2,Maruti,Maruti Alto,2008,120000,Petrol,Third Party insurance,Manual,19.7,796,46.3,Others,5
+SUV,20000,1,Tata,Tata Punch,2022,850000,Petrol,Third Party insurance,Manual,20.09,1199,86.63,Others,5
+Sedan,10000,1,Skoda,Skoda Slavia,2022,1700000,Petrol,Third Party insurance,Automatic,18.07,999,113.98,Others,5
+Sedan,110000,3,Tata,Tata Manza,2012,170000,Petrol,Third Party insurance,Manual,13.7,1368,88.8,Others,5
+Sedan,100000,2,Honda,Honda New Accord,2006,200000,Petrol,Third Party insurance,Manual,11.9,2354,142.03008,Others,5
+SUV,20000,2,Mahindra,Mahindra Scorpio,2012,400000,Diesel,Third Party insurance,Manual,12.05,2179,120.0,Others,7
+SUV,20000,2,Mahindra,Mahindra Scorpio,2012,400000,Diesel,Third Party insurance,Manual,12.05,2179,120.0,Others,7
+Hatchback,87773,1,Hyundai,Hyundai i10,2014,327000,Petrol,Comprehensive,Manual,19.81,1086,68.05,Red,5
+Sedan,81854,1,Honda,Honda Amaze,2018,627000,Petrol,Comprehensive,Manual,19.5,1199,88.76,White,5
+Hatchback,110000,1,Maruti,Maruti Swift,2012,350000,Diesel,Third Party insurance,Manual,22.9,1248,74.0,Others,5
+SUV,33090,1,Tata,Tata Nexon,2021,993000,Petrol,Third Party,Manual,17.33,1199,118.35,Others,5
+Sedan,76071,2,Maruti,Maruti Ciaz,2016,550000,Petrol,Third Party insurance,Manual,20.73,1373,91.1,Silver,5
+Hatchback,60000,3,Renault,Renault KWID,2016,250000,Petrol,Third Party insurance,Manual,25.17,799,53.3,Others,5
+SUV,96529,1,Tata,Tata New Safari,2021,1923999,Diesel,Third Party insurance,Automatic,14.08,1956,167.67,Blue,6
+Sedan,110000,2,Volkswagen,Volkswagen Vento,2011,270000,Diesel,Third Party insurance,Manual,20.54,1598,103.6,Others,5
+SUV,89576,3,Ford,Ford Ecosport,2017,669000,Diesel,Comprehensive,Manual,22.77,1498,98.59,White,5
+Sedan,88178,1,Hyundai,Hyundai Verna,2020,1321000,Diesel,Third Party,Manual,25.0,1493,113.45,Blue,5
+MUV,70000,2,Maruti,Maruti Ertiga,2013,650000,Diesel,Third Party insurance,Manual,20.77,1248,88.76,Others,7
+Sedan,16925,1,Honda,Honda Amaze,2021,706000,Petrol,Third Party insurance,Manual,18.6,1199,88.5,White,5
+Hatchback,12000,1,Maruti,Maruti Alto 800,2013,245000,Petrol,Third Party insurance,Manual,22.05,796,47.33,Silver,5
+SUV,20000,1,BMW,BMW X3,2018,5500000,Diesel,Third Party insurance,Automatic,16.55,1995,187.7,Others,5
+SUV,60000,1,Mahindra,Mahindra XUV500,2013,700000,Diesel,Third Party insurance,Manual,15.1,2179,140.0,Others,7
+SUV,60000,1,Mahindra,Mahindra XUV500,2013,700000,Diesel,Third Party insurance,Manual,15.1,2179,140.0,Others,7
+Sedan,50000,1,Jaguar,Jaguar XF,2014,2000000,Diesel,Third Party insurance,Automatic,14.74,2993,270.9,Blue,5
+Sedan,120000,3,BMW,BMW 5 Series,2018,3500000,Diesel,Third Party insurance,Automatic,20.37,1995,187.74,Blue,5
+SUV,50000,2,Tata,Tata Nexon,2019,850000,Diesel,Third Party insurance,Automatic,21.5,1497,108.5,Others,5
+MUV,100000,1,Toyota,Toyota Innova,2015,1500000,Diesel,Third Party insurance,Manual,12.99,2494,100.6,Others,7
